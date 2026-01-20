@@ -663,10 +663,7 @@ https://fl7.moveonjoy.com/HSN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 -https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WCPX-DT.us_locals1" tvg-name="ION TV1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-television-us.png",ION TV1
-http://fl7.moveonjoy.com/ION_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION TV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-television-us.png",ION TV2
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-television-us.png",ION TV
 http://fl7.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ION Mystery" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-mystery-us.png",ION Mystery
@@ -1232,6 +1229,7 @@ http://myvipmedia.com:8080/z1DyPMzh/h1fUC86/139454
 -#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",
 -https://fm1077.serv00.net/404/404.m3u8
 -https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
+
 
 
 
