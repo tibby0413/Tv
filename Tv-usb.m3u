@@ -1015,10 +1015,11 @@ http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45505&extension=ts&play_token=RBWPcCsiiO
 
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme East" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme East
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme (East)" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme (East)
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=91887&extension=ts&play_token=uXZrXZ0URY
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951357&extension=ts&play_token=HFiXmd9MMB
 
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme West" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme West
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme (West)" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme (West)
 https://fl31.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Movies",Showtime Next
@@ -1029,22 +1030,30 @@ http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=92018&extension=ts&play_token=H04ERo1ftx
 
-#EXTINF:-1 tvg-id="5StarMax.us" tvg-name="5StarMax" tvg-logo="https://drive.google.com/uc?id=1cnInPC3w697-dVP1zEkLOH-MX7-J4-qX" group-title="Movies",Cinemax 5 Starmax
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8 
--https://drive.google.com/uc?id=1yBzsSld61vtAwnMNof3Z1NXTk1asyK4K
-
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies",Cinemax East
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies",Cinemax (East)
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 -https://fl31.moveonjoy.com/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies",Cinemax West
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45594&extension=ts&play_token=FpM6wpIjy7
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies",Cinemax (West)
+http://restream-live.realiptv.to:8080/live/33741215/82527298/2611.ts
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45594&extension=ts&play_token=FpM6wpIjy7
 
-#EXTINF:-1 tvg-id="Cinemax.Spanish.HD.us2" tvg-name="Cinemax (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-en-espanol-us.png" group-title="Movies",Cinemax (Spanish)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45597&extension=ts&play_token=QuZvyGOFmV
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Movies",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+
+-#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="5StarMax" tvg-logo="https://drive.google.com/uc?id=1cnInPC3w697-dVP1zEkLOH-MX7-J4-qX" group-title="Movies",Cinemax 5 Starmax
+-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+-https://drive.google.com/uc?id=1yBzsSld61vtAwnMNof3Z1NXTk1asyK4K
+
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-action-us.png" group-title="Movies",Cinemax Action
+http://restream-live.realiptv.to:8080/live/33741215/82527298/51557.ts
+
+-#EXTINF:-1 tvg-id="Cinemax.Spanish.HD.us2" tvg-name="Cinemax (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-en-espanol-us.png" group-title="Movies",Cinemax (Spanish)
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45597&extension=ts&play_token=QuZvyGOFmV
 
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies",Cinemax Hits
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45599&extension=ts&play_token=kFU0KNk7fw
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45599&extension=ts&play_token=kFU0KNk7fw
 
 #EXTINF:-1 tvg-id="Thriller.Max.us2" tvg-name="Cinemax ThrillerMax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-thrillermax-us.png" group-title="Movies",Cinemax ThrillerMax
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45595&extension=ts&play_token=hgAno6VEiQ
@@ -1232,6 +1241,7 @@ http://myvipmedia.com:8080/z1DyPMzh/h1fUC86/139454
 -#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",
 -https://fm1077.serv00.net/404/404.m3u8
 -https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
+
 
 
 
