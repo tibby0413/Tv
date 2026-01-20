@@ -957,7 +957,7 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-cinema-us.png" group-title="Movies",Starz Cinema (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/631879.ts
 
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="Movies" group-title=" ",Starz Comedy
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-comedy-us.png" group-title="Movies",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 -http://23.237.104.106:8080/USA_STARZ_COMEDY/mpegts
 
@@ -1232,6 +1232,7 @@ http://myvipmedia.com:8080/z1DyPMzh/h1fUC86/139454
 -#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",
 -https://fm1077.serv00.net/404/404.m3u8
 -https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
+
 
 
 
