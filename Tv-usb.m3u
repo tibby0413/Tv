@@ -1289,6 +1289,7 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
 
 
 
+PORN
 
 
 -Brazzers TV Europe
@@ -1303,13 +1304,16 @@ http://myvipmedia.com:8080/z1DyPMzh/h1fUC86/139454
 
 
 
-
+N/A
 
 -No Channel
 -#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",
 -https://fm1077.serv00.net/404/404.m3u8
 -https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
 
+
+
+TESTING
 
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/sony-sci-fi-ru.png" group-title="Movies",.sci-fi
 #EXT-X-ALLOW-CACHE:YES
@@ -1320,6 +1324,10 @@ http://86.57.209.210/Sci-Fi/tracks-v1a2/mono.m3u8
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:network-caching=1000
 https://flussonic.salomtv.uz/eurosport_2/tracks-v1a2a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rap Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/radio-s-tv-rs.png" group-title=" ",Rap Classics
+https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/96/playlist.m3u8
+
 
 
 
