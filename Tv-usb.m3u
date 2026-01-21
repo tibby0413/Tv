@@ -493,7 +493,7 @@ http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 http://fl61.moveonjoy.com/Comedy_Central/index.m3u8
 -https://streamer1.nexgen.bz/COMEDY_CENTRAL/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="Comedy Central (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (West)
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89211.m3u8
 -https://lax3.rocketdns.info:25463/live/19742329/27604387/89211.m3u8?token=HkNcWEBYFAkUAgQHBVZQAAMHAVNRWlRSBgIHVAcHVAcEAwMJBgVQBVISH0ZAFRFRUwtoXlQaXgtbUwIAH0dHQAATa1BXEgwRBwELVAdQQRgQEl5aVRpeA05DQ1hXRwgRV1YADAUAAREaElYcRwQRWlMKaFNVTg1QB0MJX0YJXh9HDlpmV1VbUlhUEV4RUUEYEA9ERxICCkYODR8TUQxGQQQVURsJEgMLDwIRSBECDEFcEkVOEgJGZjFDHxNWHUZWCxJdVl0SDBFbA0ZcEU1BXUE5RVJDTBZWAwxWQxFfEANHTRZUUkhpUFleXQFQFQpbXBUVDRIMRh9ADFxfWhFdQToRXV0RChQKAgMCVAJDHg==
 
@@ -1301,6 +1301,7 @@ http://myvipmedia.com:8080/z1DyPMzh/h1fUC86/139454
 -#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",
 -https://fm1077.serv00.net/404/404.m3u8
 -https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
+
 
 
 
