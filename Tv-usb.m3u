@@ -577,13 +577,16 @@ http://23.237.104.106:8080/USA_OWN/index.m3u8
 
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.(Pacific.A.Feed).us2" tvg-name="OWN (Oprah Winfrey Network) (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/oprah-winfrey-network-us.png" group-title="Entertainment",OWN (Oprah Winfrey Network) (West)
 http://23.237.104.106:8080/USA_OWN/index.m3u8
+-Oprah.Winfrey.Network.(Pacific.A.Feed).us2
 
-Oprah.Winfrey.Network.(Pacific.A.Feed).us2
-#EXTINF:-1 tvg-id="" tvg-name="Grit" tvg-logo="https://i.imgur.com/6w1Wj3j.png",Grit
+#EXTINF:-1 tvg-id="" tvg-name="Grit" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Western",Grit
 https://fl31.moveonjoy.com/GRIT_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Grit Xtra" tvg-logo="https://grittv.com/static/media/gritxtra-logo.667bade59125e88430f4.png",Grit Xtra
+#EXTINF:-1 tvg-id="" tvg-name="Grit Xtra" tvg-logo="https://grittv.com/static/media/gritxtra-logo.667bade59125e88430f4.png" group-title="Western",Grit Xtra
 https://d37xwpg3gzvq8m.cloudfront.net/playlist/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/insp-us.png" group-title="Western",INSP
+http://fl1.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/hKDccCL.png",Motor Trend
 http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
@@ -1062,6 +1065,7 @@ http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 -http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45504&extension=ts&play_token=pTBzJuvNY8
+-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (West)
 http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
@@ -1180,6 +1184,10 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/2412.ts
 
 #EXTINF:-1 tvg-id="SonyChannel.mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-channel-br.png" group-title="Movies",Sony Channel (Spanish)
 https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hdnet-movies-us.png" group-title="Movies",HDNet Movies
+http://restream-live.realiptv.to:8080/live/19742329/27604387/89182.m3u8 -dunno
+-https://mia7.rocketdns.info:25463/live/19742329/27604387/89182.m3u8?token=HkNcWEBYFAkUBQECVwNaDAZTBVZRCFZRAFUHAwtRVApUAFJbBwMEUQASH0ZAFRFRUwtoXlQaXgtbUAsDH0dHQAATa1BXEgwRBwELVAdQQRgQEl5aVRpeA05DQ1hXRwgRXVECCAMEFB8UVUsQVhMNVV45U1JGUQdWQFtdRF8JHhEKD2tdVl1XXVISCUYDQ08WWxVHFQpWEV8OTRFTWhFAUhEEFgMRBAMEDxIfRlAOFlpGFE4VChoxYEBNEVRLEVddFghbVxEKFF4FRQtGH0MKR20UUkRESgFSDwRBEwlHAhFJQ1lYS29VXFheVgdHCAxaQUQNFQQaSBEPDl1YRwpAbBUIUBsJEgUAAgkCVQJDHg==
 
 #EXTINF:-1 tvg-id="" tvg-name="24 Hour Free Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/24-hour-free-movies-vod.png" group-title="Movies",24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
@@ -1301,6 +1309,7 @@ http://myvipmedia.com:8080/z1DyPMzh/h1fUC86/139454
 -#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",
 -https://fm1077.serv00.net/404/404.m3u8
 -https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
+
 
 
 
