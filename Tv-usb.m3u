@@ -314,9 +314,18 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 -#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+ (Italian)" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs-512x512.png" group-title="Sports",FIFA+ (Italian)
 -https://5d95f7d7.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/ecf58e53-fcda-4b38-a8e3-eaec887fc573/2.m3u8
 
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-name="FIFA+ Women" tvg-logo=" " group-title="Sports",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Sports",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 -https://list.iptvcat.com/my_list/s/d4547e5e97e73c001fe4c4c00aab56c4.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Sports",DSports 
+http://104.238.205.28:9090/278758_.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DSports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="Sports",DSports 2
+http://104.238.205.28:9090/278757_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
@@ -325,6 +334,11 @@ http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 -http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Sports",ESPN 3
+http://104.238.205.28:9090/278763_.m3u8
+-Canal.ESPN.3.(Bolivia).ar
+-ESPN.3.br
 
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-us.png" group-title="Sports",SEC Network
 https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
@@ -475,9 +489,13 @@ ENTERTAINMENT
 https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png",Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (East)
 http://fl61.moveonjoy.com/Comedy_Central/index.m3u8
 -https://streamer1.nexgen.bz/COMEDY_CENTRAL/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Comedy Central (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (West)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/89211.m3u8
+-https://lax3.rocketdns.info:25463/live/19742329/27604387/89211.m3u8?token=HkNcWEBYFAkUAgQHBVZQAAMHAVNRWlRSBgIHVAcHVAcEAwMJBgVQBVISH0ZAFRFRUwtoXlQaXgtbUwIAH0dHQAATa1BXEgwRBwELVAdQQRgQEl5aVRpeA05DQ1hXRwgRV1YADAUAAREaElYcRwQRWlMKaFNVTg1QB0MJX0YJXh9HDlpmV1VbUlhUEV4RUUEYEA9ERxICCkYODR8TUQxGQQQVURsJEgMLDwIRSBECDEFcEkVOEgJGZjFDHxNWHUZWCxJdVl0SDBFbA0ZcEU1BXUE5RVJDTBZWAwxWQxFfEANHTRZUUkhpUFleXQFQFQpbXBUVDRIMRh9ADFxfWhFdQToRXV0RChQKAgMCVAJDHg==
 
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png",HGTV
 http://fl41.moveonjoy.com/HGTV/index.m3u8
@@ -1283,6 +1301,7 @@ http://myvipmedia.com:8080/z1DyPMzh/h1fUC86/139454
 -#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",
 -https://fm1077.serv00.net/404/404.m3u8
 -https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
+
 
 
 
