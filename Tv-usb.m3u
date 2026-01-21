@@ -1282,8 +1282,8 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 #EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+-#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
+-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
 
 
 
@@ -1295,7 +1295,7 @@ PORN
 -Brazzers TV Europe
 -http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
-Extasy HD
+-Extasy HD
 -http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 
 PASSION XXX
@@ -1315,18 +1315,19 @@ N/A
 
 TESTING
 
-#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/sony-sci-fi-ru.png" group-title="Movies",.sci-fi
-#EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:network-caching=1000
-http://86.57.209.210/Sci-Fi/tracks-v1a2/mono.m3u8
+-#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/sony-sci-fi-ru.png" group-title="Movies",.sci-fi
+-#EXT-X-ALLOW-CACHE:YES
+-#EXTVLCOPT:network-caching=1000
+-http://86.57.209.210/Sci-Fi/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/eurosport-2-ro.png" group-title="Sports",Eurosport 2
-#EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:network-caching=1000
-https://flussonic.salomtv.uz/eurosport_2/tracks-v1a2a2/mono.m3u8
+-#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/eurosport-2-ro.png" group-title="Sports",Eurosport 2
+-#EXT-X-ALLOW-CACHE:YES
+-#EXTVLCOPT:network-caching=1000
+-https://flussonic.salomtv.uz/eurosport_2/tracks-v1a2a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rap Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/radio-s-tv-rs.png" group-title=" ",Rap Classics
 https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/96/playlist.m3u8
+
 
 
 
