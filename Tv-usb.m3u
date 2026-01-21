@@ -1311,6 +1311,16 @@ http://myvipmedia.com:8080/z1DyPMzh/h1fUC86/139454
 -https://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/sony-sci-fi-ru.png" group-title="Movies",.sci-fi
+#EXT-X-ALLOW-CACHE:YES
+#EXTVLCOPT:network-caching=1000
+http://86.57.209.210/Sci-Fi/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/eurosport-2-ro.png" group-title="Sports",Eurosport 2
+#EXT-X-ALLOW-CACHE:YES
+#EXTVLCOPT:network-caching=1000
+https://flussonic.salomtv.uz/eurosport_2/tracks-v1a2a2/mono.m3u8
+
 
 
 
