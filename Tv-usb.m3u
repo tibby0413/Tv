@@ -289,8 +289,8 @@ https://7pal.short.gy/prima4k
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 -https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Inter 24/7" tvg-logo="https://drive.google.com/uc?id=1g0AzhNmwrptzqdsOo9ymYpsza7eYQSda" group-title="Sports",Inter 24/7
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63/variant.m3u8?x-plex-token=95vZ-zU5GbKHKJFxs3x8&x-plex-advertising-identifier=&x-plex-client-identifier=adc6ceb7-aac0-4785-a164-3a4db1476509&x-plex-playback-id=p_8a9acf4c-b774-46c6-a69f-d3933dc9e700&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1768547492&url=77c25c6e4e6304831d5eda3234091b07-349983a0b63040446b64a7a8c87e55598fea4f464e6bb83b020ce84ad06150cbc51646703331663d30de41657641105fa764f87844d53b2b5cd12902a45d3dbeee33ccff52339d4803e17130d7aa0938539ce5ad9b4811174d5f1334952a3e5cdeaaef8cf47376461780eaae423f8ae0b2dc9877b2c3b042255502cfb66eaa5f5f4ab5871a19937af8534bc435c09d2326b5a85442e4539ea30f2f576113fe798187efd55c90328719a4a839845caa18&_gl=1*1q0n93k*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3Njg1NDQ2NjkkbzEkZzEkdDE3Njg1NDc0ODQkajYwJGwwJGgw
+#EXTINF:-1 tvg-id="plex.tv.INTER.24/7.plex" tvg-name="Inter 24/7" tvg-logo="https://drive.google.com/uc?id=1g0AzhNmwrptzqdsOo9ymYpsza7eYQSda" group-title="Sports",Inter 24/7
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XKW7zQPxUx7SZ7UsbzrZ
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Sports",Rai Sport
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
@@ -1326,6 +1326,7 @@ TESTING
 
 #EXTINF:-1 tvg-id="" tvg-name="Rap Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/radio-s-tv-rs.png" group-title=" ",Rap Classics
 https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/96/playlist.m3u8
+
 
 
 
