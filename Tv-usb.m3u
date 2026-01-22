@@ -648,7 +648,7 @@ https://amg00654-itv-amg00654c1-lg-dk-2692.playouts.now.amagi.tv/ts-us-e2-n2/pla
 -plex.tv.Hell`s.Kitchen.&amp;.Kitchen.Nightmares.plex
 
 #EXTINF:-1 tvg-id="plex.tv.Hell`s.Kitchen.&amp;.Kitchen.Nightmares.plex" tvg-name="Hell's Kitchen & Kitchen Nightmares" tvg-logo="https://drive.google.com/uc?id=1Bc74vuPi7-SH43c-E-hsZvOa_a30sngy",Hell's Kitchen & Kitchen Nightmares
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c/variant.m3u8?x-plex-token=CvMD48vXmpV4C3EzSm4w&x-plex-advertising-identifier=&x-plex-client-identifier=adc6ceb7-aac0-4785-a164-3a4db1476509&x-plex-playback-id=p_c878aa0b-e42a-4696-adf5-d589d43c40ea&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1768715767&url=6be39871bcff76c6936d975cd9791c83-4434e4e8f802a98fa846b06f9645b2d2373f4f491b9d5d9296beb1d66e9337bd7b1ae8180e623cfdfd6c6b783b86c02b8f5a2983d3120862c5ee2338ae8dde9ff45c8f3e11ac8a6176a5ad9d853a51591053a8ee8b70011f8bab9742108876328e0859aa72d2e6c1b7788a7735ed9a215c686a0ab9974124a50d3f86eabd5606abcd2dc953e8d83639580d7d1edecca8a46c03ecf6545ddb1ed125199371ba6a
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kLTvx5_R6KMy9Uxx6WCF&_gl=1*xqxijm*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3NjkwNjg2NTEkbzE5JGcxJHQxNzY5MDY4ODg5JGo1NiRsMCRoMA..
 
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/travel-channel-us.png",Travel Channel
 https://fl31.moveonjoy.com/Travel_Channel/index.m3u8
@@ -1285,6 +1285,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
