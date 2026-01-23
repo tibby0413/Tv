@@ -909,11 +909,10 @@ http://fl61.moveonjoy.com/OXYGEN/index.m3u8
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3873.ts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/USA/tracks-v1a1/mono.ts.m3u8
--http://104.255.88.155/usa/mpegts
+http://104.255.88.155/usa/mpegts
+-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/USA/tracks-v1a1/mono.ts.m3u8
 -https://dvrfl04.tulix.tv/teleup-usa/mpegts
 -https://streamer1.nexgen.bz/USA/tracks-v1a1/mono.ts.m3u8
--http://104.255.88.155/usa/mpegts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/2379.ts
@@ -1297,6 +1296,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
