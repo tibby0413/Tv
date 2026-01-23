@@ -300,12 +300,12 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 -https://i.imgur.com/TQFWEIS.png - Canal do Inter 
 
--#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 1" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports",Premier Sports 1
--https://7pal.short.gy/prsport1
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 1" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports",Premier Sports 1
+https://7pal.short.gy/prsport1
 -https://46.229.251.19/live/P4B9TB9xR8/humongous2tonight/5029.ts?token=ShJcU0BbQQNHAQ1ZDwcMCgxSCAlfDFBYV1AHAVBUAlEBBlYKCgMFW1EbGBpEF0dcWF1vWQIXXlQBUFsbRxFAV0NvXVYRCUEIUAsHDQ5TFxUbRFldAxdeUAZUWgVTVgIGBxwWQlpXQQNHDQUAB1YFGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BAwAPABIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVRBA4BCQEEREg=
 
--#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports",Premier Sports 2
--https://7pal.short.gy/prsport2
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports",Premier Sports 2
+https://7pal.short.gy/prsport2
 -https://46.229.251.19/live/P4B9TB9xR8/humongous2tonight/5029.ts?token=ShJcU0BbQQNHAQ1ZDwcMCgxSCAlfDFBYV1AHAVBUAlEBBlYKCgMFW1EbGBpEF0dcWF1vWQIXXlQBUFsbRxFAV0NvXVYRCUEIUAsHDQ5TFxUbRFldAxdeUAZUWgVTVgIGBxwWQlpXQQNHDQUAB1YFGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BAwAPABIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVRBA4BCQEEREg=
 
 #EXTINF:-1 tvg-id="plex.tv.FIFA+.plex" tvg-name="FIFA+" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs-512x512.png" group-title="Sports",FIFA+
@@ -1316,6 +1316,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
