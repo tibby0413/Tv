@@ -139,9 +139,6 @@ http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-kids-dash-icon-us.png" group-title="Cartoons",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="Entertainment",PBS
-https://wttwdt.lls.pbs.org/out/v1/bab398469bfc4defb18cc596c47e42ca/index.m3u8
-
 #EXTINF:-1 tvg-id="LegoChannel.us2" tvg-name="LEGO Channel" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Lego-Logo-PNG-Cutout.png" group-title="Cartoons",LEGO Channel
 https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBC4300005AL
 
@@ -488,6 +485,9 @@ https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 
 ENTERTAINMENT
+
+#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="Entertainment",PBS
+https://wttwdt.lls.pbs.org/out/v1/bab398469bfc4defb18cc596c47e42ca/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png",Paramount Network
 https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
@@ -909,15 +909,16 @@ http://fl61.moveonjoy.com/OXYGEN/index.m3u8
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3873.ts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/USA/tracks-v1a1/mono.ts.m3u8
+http://104.255.88.155/usa/mpegts
+-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/USA/tracks-v1a1/mono.ts.m3u8
+-https://dvrfl04.tulix.tv/teleup-usa/mpegts
 -https://streamer1.nexgen.bz/USA/tracks-v1a1/mono.ts.m3u8
--http://104.255.88.155/usa/index.m3u8
 -http://104.255.88.155/usa/mpegts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/2379.ts
 
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (Latin America)
+#EXTINF:-1 tvg-id="Canal.USA.Network.(Costa.Rica).cr" tvg-name="USA Network (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (Latin America)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/tracks-v1a1/mono.ts.m3u8
 -https://streamer1.nexgen.bz/SYFY/tracks-v1a1/mono.ts.m3u8
 -https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
@@ -1296,6 +1297,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
