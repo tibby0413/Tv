@@ -946,7 +946,7 @@ https://fl7.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3823.ts
 
-#EXTINF:-1 tvg-id="plex.tv.Bravo.Vault.plex" tvg-name="Bravo Vault" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo Vault
+#EXTINF:-1 tvg-id="plex.tv.Bravo.Vault.plex" tvg-name="Bravo Vault" tvg-logo="https://drive.google.com/uc?id=1FklU0KpWLysb0u2imn23oqMSwWY_W9yz" group-title="Entertainment",Bravo Vault
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645e328fb164db00b4547f05.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=X84KJ9QRkywotD_--WZK
 
 #EXTINF:-1 tvg-id="plex.tv.Real.Housewives.Vault.plex" tvg-name="Bravo Real Housewives Vault" tvg-logo="https://drive.google.com/uc?id=160yQpqoKwbi-2uTDXU2p65jDu6OoUccc" group-title="Entertainment",Bravo Real Housewives Vault
@@ -1307,6 +1307,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
