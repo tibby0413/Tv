@@ -938,10 +938,13 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 -http://1tv41.icu:8080/live/Y06DNq/295733/46688.m3u8
 -http://1tv41.icu:8080/live/Y06DNq/295733/46688.rtmp
 
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png",Bravo
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png",Bravo (East)
 https://fl7.moveonjoy.com/BRAVO/index.m3u8
 -https://streamer1.nexgen.bz/BRAVO/tracks-v1a1/mono.ts.m3u8
 -http://mag.jee-ott.xyz/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951962&extension=ts&play_token=c9nHNGQTrN
+
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png",Bravo (West)
+http://restream-live.realiptv.to:8080/live/33741215/82527298/3823.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Bravo Real Housewives Vault" tvg-logo="https://drive.google.com/uc?id=160yQpqoKwbi-2uTDXU2p65jDu6OoUccc",Bravo Real Housewives Vault
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645f840b361156ab4214e28d/variant.m3u8?x-plex-token=KEqWRtEszG_FhzbqfHkr&x-plex-advertising-identifier=&x-plex-client-identifier=adc6ceb7-aac0-4785-a164-3a4db1476509&x-plex-playback-id=p_1b02f43a-e3b1-4e98-8109-579f666d7124&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1768565943&url=8205e1886880a9266ef8e582946c0f3a-b67a4223d6b3c275a86c7d62a87f158f93c5d548835a585a2b1268ab251a649c576510db06e6bb9b4a97888df9ddb2971078640c9e89addb3b5bbc44d2d9d14a40ac679bbef10d24b8b0a473c8cb74518424f9afe91e5d0020fa096b002b2d227fc8d3c10380116c348d365a32f4ad741ae19472efff3d8825c9dc14dd8c33d5afb47b2dc36777f4fdc23f61554b54939cb4ebdd8e3adb4cf15cdb3851942682
@@ -1301,6 +1304,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
