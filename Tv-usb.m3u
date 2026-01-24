@@ -817,6 +817,9 @@ https://tinyurl.com/munxpc2s
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop
 https://d2n3779oy6efpi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/c96854fd-9176-479c-b346-2b22689f9f24/3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vevo '70s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-70s-vod.png" group-title="Music",Vevo '70s
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54db8c-eca6-11ee-a6fc-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=153e9256-6c71-4864-910a-274aa8f71ee7&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo '80s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-80s-vod.png" group-title="Music",Vevo '80s
 https://tinyurl.com/mr9dex94
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80s-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyN30
@@ -857,6 +860,7 @@ https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w1082727065.m3u
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Gold Rock" tvg-logo="https://kisskissitalia.it/wp-content/uploads/elementor/thumbs/goldrock-pn2i1mhchzwxmzfg437toyzozxxlgyxfdtaqetd25o.png" group-title="Music",Kiss Kiss Gold Rock
+#EXTIMG: https://variety.com/wp-content/uploads/2022/05/PS203401-copy.jpg
 https://kk.fluidstream.eu/kk_rock.mp3?id=Z2MFjiWAfW&FLID=1
 
 #EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss History Lounge" tvg-logo="https://kisskissitalia.it/wp-content/uploads/elementor/thumbs/history_lounge-pqfwd4obpmvur6n0mhxlxwxcouyvxo3kggqd98ddf0.png" group-title="Music",Kiss Kiss History Lounge
@@ -1363,6 +1367,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
