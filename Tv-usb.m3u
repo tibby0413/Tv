@@ -1176,13 +1176,14 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490ba
 -https://amc-scaresbyshudder-1-us.xumo.wurl.tv/2000.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951378&extension=ts&play_token=Jqkmlzlehb
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Crime Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/pluto-tv-crime-drama-vod-us.png" group-title="Movies",Pluto TV Crime Drama
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Crime Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/pluto-tv-crime-drama-vod-us.png" group-title="Movies",Pluto Crime Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f31fd1b4c510e00071c3103&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=350&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Terror" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/pluto-tv-terror-vod-us.png" group-title="Movies",Pluto TV Terror
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Terror" tvg-logo="https://svgtopng.com/download/e0m1md514h71rn01/file_oql1s3d1jl130m1cfk1i5c153b/Pluto%20Terror.png" group-title="Movies",Pluto Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
+-https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/pluto-tv-terror-vod-us.png
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Thrillers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/pluto-tv-thrillers-vod-us.png" group-title="Movies",Pluto TV Thrillers
+#EXTINF:-1 tvg-id="" tvg-name="Pluto Thrillers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/pluto-tv-thrillers-vod-us.png" group-title="Movies",Pluto Thrillers
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e69e08291147bd04a9fd7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=74&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="plex.tv.FilmRise.Horror.plex" tvg-name="FilmRise Horror" tvg-logo="https://drive.google.com/uc?id=18O7ukh_fUhrBl8Qfxotn0FW23fG0xa19" group-title="Movies",FilmRise Horror
@@ -1330,6 +1331,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
