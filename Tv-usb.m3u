@@ -1185,25 +1185,28 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68
 #EXTINF:-1 tvg-id="" tvg-name="BET Visionaries" tvg-logo="https://drive.google.com/uc?id=14KlE-CRkSmzTuxR3nfTvNvyDVxAMFb4O" group-title="Movies",BET Visionaries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663946c1b18d700008d9c168/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=a7667697-c44e-46c5-b778-ae7c88dedb34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31d43a1b-7c50-47b4-9b37-1e2909c73a5b
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comedy" tvg-logo="https://drive.google.com/uc?id=190QGbG_hRo7hJ1DRUeqbRLJRhIlz_sn-" group-title="Movies",Pluto TV Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comedy" tvg-logo="https://drive.google.com/uc?id=1TbaXUy3XsoJ1enWDsZoxEHhLwptmKrnA" group-title="Movies",Pluto TV Comedy
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538426-eca6-11ee-9bf7-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a0eca6-c707-433c-85fa-7a3b2d1a87e2&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Crime Drama" tvg-logo="https://drive.google.com/uc?id=1UbN6GqYrSqmODqfWBemakYh8xo86Gdp0" group-title="Movies",Pluto TV Crime Drama
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Crime Drama" tvg-logo="https://drive.google.com/uc?id=1MA1PvIegTTdIZRIZtGkm2T_nYnfmlDnb" group-title="Movies",Pluto TV Crime Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f31fd1b4c510e00071c3103&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=350&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Crime Movies" tvg-logo="https://drive.google.com/uc?id=1tSvhhLL9Ci3_dCJh380A2A4-e5fHIfVG" group-title="Movies",Pluto TV Crime Movies
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Crime Movies" tvg-logo="https://drive.google.com/uc?id=1gGflUvXsar3UQJQY7JkLtBnvHpG9WloW" group-title="Movies",Pluto TV Crime Movies
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538b2e-eca6-11ee-8295-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6989125c-7089-43e1-9304-ef10eb566a21&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Drama" tvg-logo="https://drive.google.com/uc?id=1mDFdthp5nvXc_gSyaK_QE6TQAonvlrjh" group-title="Movies",Pluto TV Drama
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Drama" tvg-logo="https://drive.google.com/uc?id=12vVmtuY6YSYQamcGpPrm7xt5y6inNNS0" group-title="Movies",Pluto TV Drama
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538548-eca6-11ee-ae65-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd11756c-6dd2-4ca1-bd30-987c52f0cc69&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Romance" tvg-logo="https://drive.google.com/uc?id=19d7QKhRUUFS6DG0jsUN5d4MvHxuptcCD" group-title="Movies",Pluto TV Romance
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Horror" tvg-logo="https://drive.google.com/uc?id=1AMyuL1lXGZ-d66KtOxjXonkp5qN3zx2G" group-title="Movies",Pluto TV Horror
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538c50-eca6-11ee-80a3-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24679ab7-1b40-4f8d-bff0-375370f264c0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Romance" tvg-logo="https://drive.google.com/uc?id=1-LEMqnwWD4RuoBn0_7sra1DuNeYXyOf3" group-title="Movies",Pluto TV Romance
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538a70-eca6-11ee-98d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3212896f-cf34-4be5-917e-ae1aee1c0a07&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Terror" tvg-logo="https://drive.google.com/uc?id=182ISn7kqBdoB5CiI5_qLs5wG8CzcFsYl" group-title="Movies",Pluto TV Terror
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Terror" tvg-logo="https://drive.google.com/uc?id=1v01Fn1ygidSewCF_0usJQkkixnQm1Fcj" group-title="Movies",Pluto TV Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Thrillers" tvg-logo="https://drive.google.com/uc?id=1DbfUd54AHVoelI4OnYl4VeXEEnqZYeNT" group-title="Movies",Pluto TV Thrillers
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Thrillers" tvg-logo="https://drive.google.com/uc?id=1HuOrpis1VU3QiUuBWPCPaMDyKsbfY0Hr" group-title="Movies",Pluto TV Thrillers
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e69e08291147bd04a9fd7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=74&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="plex.tv.FilmRise.Horror.plex" tvg-name="FilmRise Horror" tvg-logo="https://drive.google.com/uc?id=18O7ukh_fUhrBl8Qfxotn0FW23fG0xa19" group-title="Movies",FilmRise Horror
@@ -1351,6 +1354,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
