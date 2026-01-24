@@ -835,16 +835,16 @@ https://tinyurl.com/2nhduj78
 #EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-latino-vod.png" group-title="Music",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT Music" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-music-us.png" group-title="Music",CMT Music
-http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMT Music" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-music-us.png" group-title="Music",CMT Music
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109
 
-#EXTINF:-1 tvg-id="Country.Music.Television.(CMT).ca2" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-us.png" group-title="Entertainment",CMT
-https://fl61.moveonjoy.com:443/CMT/index.m3u8
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-us.png" group-title="Entertainment",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 #EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-name="Radio Italia Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-italia-it.png" group-title="Music",Radio Italia Live
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/1280x720_3440800/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio Zeta TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Radio_Zeta_-_Logo_2017.svg.png/revision/latest/scale-to-width-down/200?cb=20200120230941" group-title="Music",Radio Zeta TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zeta TV" tvg-logo="https://drive.google.com/uc?id=1fpHcK-WHuVvKG7h5lDc_Be0lMYes__EP" group-title="Music",Radio Zeta TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-kiss-kiss-tv-it.png" group-title="Music",Kiss Kiss TV
@@ -1363,6 +1363,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
