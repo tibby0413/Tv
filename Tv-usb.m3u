@@ -1176,6 +1176,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490ba
 -https://amc-scaresbyshudder-1-us.xumo.wurl.tv/2000.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951378&extension=ts&play_token=Jqkmlzlehb
 
+#EXTINF:-1 tvg-id="" tvg-name="BET Cinema" tvg-logo="https://drive.google.com/uc?id=1YmxyT-lLTuTSe635w67bASJ7lw-pRB-A" group-title="Movies",BET Cinema
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
+
+#EXTINF:-1 tvg-id="" tvg-name="BET Comedy Movies" tvg-logo="https://drive.google.com/uc?id=1tqMNUdaiX8rWS8KykLsA4u3MakltwLkc" group-title="Movies",BET Comedy Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68c32d88f56983aba40052bd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=a7667697-c44e-46c5-b778-ae7c88dedb34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33e4c6f6-43cd-4f78-ab77-de9f0ae62832
+
+#EXTINF:-1 tvg-id="" tvg-name="BET Visionaries" tvg-logo="https://drive.google.com/uc?id=14KlE-CRkSmzTuxR3nfTvNvyDVxAMFb4O" group-title="Movies",BET Visionaries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663946c1b18d700008d9c168/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=a7667697-c44e-46c5-b778-ae7c88dedb34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31d43a1b-7c50-47b4-9b37-1e2909c73a5b
+
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comedy" tvg-logo="https://drive.google.com/uc?id=190QGbG_hRo7hJ1DRUeqbRLJRhIlz_sn-" group-title="Movies",Pluto TV Comedy
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538426-eca6-11ee-9bf7-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a0eca6-c707-433c-85fa-7a3b2d1a87e2&userId=&serverSideAds=true
 
@@ -1342,6 +1351,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
