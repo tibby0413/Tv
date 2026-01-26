@@ -850,14 +850,14 @@ https://tinyurl.com/mr9dex94
 https://tinyurl.com/2rnkr4wz
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90s-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyOH0
 
-#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-name="Vevo Retro Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
+#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-name="Vevo Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VevoCountry.us" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-country-vod.png" group-title="Music",Vevo Country
 https://tinyurl.com/2nhduj78
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountry-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyOX0
 
-#EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-latino-vod.png" group-title="Music",Vevo Latino
+#EXTINF:-1 tvg-id="ES:.Vevo.Latino.be" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-latino-vod.png" group-title="Music",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CMT Music" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-music-us.png" group-title="Music",CMT Music
@@ -1394,6 +1394,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
