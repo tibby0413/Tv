@@ -364,11 +364,11 @@ https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3646.ts
 
-#EXTINF:-1 tvg-id="Canal.Fox.Sports.(MÃ©xico).mx" tvg-name="Fox Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Sports",Fox Sports (Spanish)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Sports",Fox Sports (Spanish)
 http://104.238.205.28:9090/278766_.m3u8
 -Canal.Fox.Sports.(MÃ©xico).mx
 
-#EXTINF:-1 tvg-id="Canal.Fox.Sports.2.(MÃ©xico).mx" tvg-name="Fox Sports 2 (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Sports",Fox Sports 2 (Spanish)
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Sports",Fox Sports 2 (Spanish)
 http://104.238.205.28:9090/278767_.m3u8
 -Canal.Fox.Sports.2.(MÃ©xico).mx
 
@@ -1394,6 +1394,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
