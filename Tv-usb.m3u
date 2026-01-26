@@ -391,7 +391,8 @@ https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 -NBC.Sports.Now.us2
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-hd-int.png" group-title="Sports",beIN Sports
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45611&extension=ts&play_token=UCeRliE9zn
+http://restream-live.realiptv.to:8080/live/33741215/82527298/3612.ts
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45611&extension=ts&play_token=UCeRliE9zn
 -http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN Sports XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-xtra-us.png" group-title="Sports",beIN Sports XTRA
@@ -556,14 +557,22 @@ https://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="SyFy (West)" tvg-logo="https://i.imgur.com/4fMWhUE.png",SyFy (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3841.ts
 
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (East)
 http://fl61.moveonjoy.com/FX/index.m3u8
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3642.ts
+
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (West)
+http://restream-live.realiptv.to:8080/live/33741215/82527298/3832.ts
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxm-movie-channel-us.png",FX Movie Channel
 http://fl61.moveonjoy.com/FX_MOVIE/index.m3u8
 
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png",FXX
-http://fl61.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png",FXX (East)
+http://restream-live.realiptv.to:8080/live/33741215/82527298/3737.ts
+-http://fl61.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FXX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png",FXX (West)
+http://restream-live.realiptv.to:8080/live/33741215/82527298/3833.ts
 
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI" tvg-logo="https://i.imgur.com/PggQk7F.png",FYI
 http://fl31.moveonjoy.com/FYI/index.m3u8
@@ -956,6 +965,7 @@ http://104.255.88.155/usa/mpegts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/2379.ts
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3848.ts
 
 #EXTINF:-1 tvg-id="Canal.USA.Network.(Costa.Rica).cr" tvg-name="USA Network (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (Latin America)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/tracks-v1a1/mono.ts.m3u8
@@ -1369,6 +1379,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
