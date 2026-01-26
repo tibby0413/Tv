@@ -321,7 +321,7 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 -https://list.iptvcat.com/my_list/s/d4547e5e97e73c001fe4c4c00aab56c4.m3u8
 
-#EXTINF:-1 tvg-id="MSG.SportsZone.us2" tvg-name="MSG SportsZone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG SportsZone
+#EXTINF:-1 tvg-id="MSG.Zone.1.us2" tvg-name="MSG SportsZone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG SportsZone
 http://restream-live.realiptv.to:8080/live/33741215/82527298/648959.ts
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Sports",DSports 
@@ -1394,6 +1394,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
