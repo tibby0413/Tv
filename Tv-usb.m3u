@@ -633,13 +633,13 @@ http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
 https://25dee28f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/d02653bc-3ddf-44d6-8117-c99acd275841/0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw",Motoretrò (Italian)
+#EXTINF:-1 tvg-id="IT:.MotoretrÃ².be" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw",Motoretrò (Italian)
 https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-name="Discovery Turbo Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-turbo-us.png",Discovery Turbo Tv
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/77701c6a-89e7-4510-865c-b3c528f2a903/3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PowerSports World TV" tvg-logo="https://drive.google.com/uc?id=1mP2QWDHai70Ey0EuNKkATJhpts8niplJ",PowerSports World TV
+#EXTINF:-1 tvg-id="Powersports.World.distro" tvg-name="PowerSports World TV" tvg-logo="https://drive.google.com/uc?id=1mP2QWDHai70Ey0EuNKkATJhpts8niplJ",PowerSports World TV
 https://s5host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/bbb/pwrsp/pwrsp.m3u8?ads.cdnhost=s5host2.localnow.api.cms.amdvids.com&ads.playbackid=662F6B8A-1762-479D-A542-4A6D78574774&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=662F6B8A-1762-479D-A542-4A6D78574774&ads.n4=content_name&ads.v4=PowerSports%20World&ads.n21=app_version&ads.v21=0.0.0&ads.n22=channel_genre&ads.v22=Sports&ads.n23=channel_name&ads.v23=PowerSports%20World&ads.n24=us_privacy&ads.v24=1YNY&ads.n25=pos&ads.v25=midroll&ads.n26=channel_corp&ads.v26=Triple-B%20Media%20LLC&ads.n27=content_livestream&ads.v27=1&ads.n28=content_provider&ads.v28=motoamerica-tv&ads.n29=channel_brand_id&ads.v29=AMDB012218&ads.n30=content_type&ads.v30=channel&ads.n31=did&ads.v31=&ads.n32=gpp_sid&ads.v32=&ads.n33=channel_ext_id&ads.v33=61310bdd76163613787b2d12&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=app_name&ads.v35=&ads.n36=channel_language&ads.v36=en&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=gpp&ads.v38=&ads.n39=network_name&ads.v39=motoamerica-tv&ads.n40=w&ads.v40=1920&ads.n41=ifa_type&ads.v41=&ads.n42=channel_company_id&ads.v42=AMDP500174&ads.n43=content_custom_1_param&ads.v43=662F6B8A-1762-479D-A542-4A6D78574774&ads.n44=channel_title&ads.v44=PowerSports%20World&ads.n45=channel_rating&ads.v45=TV-PG&ads.n46=h&ads.v46=1080&ads.n47=device_type&ads.v47=&ads.n48=content_custom_2_param&ads.v48=AMDB012218&ads.n49=channel_id&ads.v49=662F6B8A-1762-479D-A542-4A6D78574774&ads.n50=device_model&ads.v50=&ads.n51=dnt&ads.v51=&ads.n52=content_producer_name&ads.v52=Triple-B%20Media%20LLC&ads.n53=app_bundle&ads.v53=&ads.n54=ua&ads.v54=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n55=ip&ads.v55=86.48.9.131&ads.n56=app_store_url&ads.v56=&ads.n57=cust_devicename&ads.v57=desktop_web&ads.n58=device_make&ads.v58=
 
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cozi-tv-us.png",Cozi TV
@@ -1396,6 +1396,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
