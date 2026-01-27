@@ -506,8 +506,9 @@ ENTERTAINMENT
 https://wttwdt.lls.pbs.org/out/v1/bab398469bfc4defb18cc596c47e42ca/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png",Paramount Network
-https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
+http://1tv41.icu:8080/live/Y06DNq/295733/46694.m3u8
+-https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
+-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (East)
 http://fl61.moveonjoy.com/Comedy_Central/index.m3u8
@@ -669,7 +670,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=47&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (East)
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Food.Network.HD.(Pacific).us2" tvg-name="Food Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (West)
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3644.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3831.ts
 
@@ -1395,6 +1396,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
