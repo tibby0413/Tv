@@ -814,7 +814,7 @@ http://fl61.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="MTV Flow Latino" tvg-name="MTV Flow Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/mtv-latino-vod.png" group-title="Entertainment",MTV Flow Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Tr3s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tres-us.png" group-title="Music",MTV Tr3s
+#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV Tr3s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tres-us.png" group-title="Music",MTV Tr3s
 http://restream-live.realiptv.to:8080/live/33741215/82527298/89996.ts
 
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-2-us.png" group-title="Music",MTV2
@@ -1398,6 +1398,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
