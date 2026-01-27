@@ -996,9 +996,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 -http://1tv41.icu:8080/live/Y06DNq/295733/10455.m3u8
 -http://1tv41.icu:8080/live/Y06DNq/295733/46688.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT (East) Test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tnt-es.png",TNT (East) Test
-http://lb58.xxip9.top:25461/live/Y06DNq/295733/46688.m3u8?token=ThFcUhFaQQwRUwcBA1QOAgADVwFWAVICWlEHVloGV1YNVwAAVgdQUgAQHkdBQURQV1g7WFQWCgZVVFsLFRFGQVBBa1oGEFkUAgMHXAMDFBkUQQ1cVRYKAk9AE1pdEQkQAQQAA1EQTxRWSkYAQFtXWWlRAUdZV1UQWQwWX1UfEV1bbFBWD1MNUhEIEFUQGRRcRUVGC15BXF5PQAFaTUFSRlARDhFUClUCER4QBl1AWEFETEYLEmFjEE9ABktNVl1BXFxaEVgQDgVGChBJEFxFakRQF0VCUVFfBhBBCRsDER4XXlVLPVEMWF1XURFbWlhGFA9GBBIYEl8MDApHVkFsQlxXFglABFUBBQYQGA==
-
 -#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tnt-es.png",TNT (West)
 
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo (East)
@@ -1403,6 +1400,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
