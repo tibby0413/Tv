@@ -958,7 +958,7 @@ http://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="https://i.imgur.com/ObPFgT8.png",Discovery Life
 http://fl31.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png",Discovery Science
+#EXTINF:-1 tvg-id="CTV.Nature.HD.ca2" tvg-name="CTV Nature Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png",CTV Nature Channel
 http://fl31.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Magnolia-Network-Emblem.png",Magnolia Network
@@ -1398,6 +1398,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
