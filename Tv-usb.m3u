@@ -986,13 +986,12 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/tracks-v1a1/mono.t
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tnt-es.png",TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 -http://1tv41.icu:8080/live/Y06DNq/295733/10455.m3u8
--http://1tv41.icu:8080/live/Y06DNq/295733/10455.rtmp
-
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tnt-es.png",TNT (West)
-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 -http://1tv41.icu:8080/live/Y06DNq/295733/46688.m3u8
--http://1tv41.icu:8080/live/Y06DNq/295733/46688.rtmp
+
+-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tnt-es.png",TNT (West)
+
 
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo (East)
 https://fl7.moveonjoy.com/BRAVO/index.m3u8
@@ -1093,7 +1092,7 @@ https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 -http://23.237.104.106:8080/USA_STARZ_CINEMA/mpegts
 
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-cinema-us.png" group-title="Movies",Starz Cinema (West)
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-cinema-us.png" group-title="Movies",Starz Cinema (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/631879.ts
 
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-comedy-us.png" group-title="Movies",Starz Comedy
@@ -1107,7 +1106,7 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/3962.ts
 https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
 -https://fl1.moveonjoy.com/STARZ_EDGE/mpegts
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.(Pacific).us2" tvg-name="Starz Edge (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="Movies",Starz Edge (West)
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="Movies",Starz Edge (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/631882.ts
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-us.png" group-title="Movies",Starz Encore (East)
@@ -1162,7 +1161,7 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/648984.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=91887&extension=ts&play_token=uXZrXZ0URY
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951357&extension=ts&play_token=HFiXmd9MMB
 
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Extreme (West)" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme (West)
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme (West)" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Movies",Showtime Extreme (West)
 https://fl31.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 -Showtime.Extreme.HD.(Pacific).us2
 
@@ -1292,7 +1291,7 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/93060.ts
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sony-movies-us.png" group-title="Movies",Sony Movies
 http://restream-live.realiptv.to:8080/live/33741215/82527298/2412.ts
 
-#EXTINF:-1 tvg-id="SonyChannel.mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-channel-br.png" group-title="Movies",Sony Channel (Spanish)
+#EXTINF:-1 tvg-id="Canal.Sony.(MÃ©xico).mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-channel-br.png" group-title="Movies",Sony Channel (Spanish)
 https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hdnet-movies-us.png" group-title="Movies",HDNet Movies
@@ -1394,6 +1393,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
