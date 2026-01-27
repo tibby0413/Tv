@@ -567,6 +567,7 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/3841.ts
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (East)
 http://fl61.moveonjoy.com/FX/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3642.ts
+-http://1tv41.icu:8080/live/Y06DNq/295733/46690.m3u8
 
 #EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3832.ts
@@ -1393,6 +1394,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
