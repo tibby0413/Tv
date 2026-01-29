@@ -1211,7 +1211,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1570187&extension=ts&play_token=WRcil0fV2t
 
 #EXTINF:-1 tvg-id="plex.tv.Scares.by.Shudder.plex" tvg-name="Scares By Shudder" tvg-logo="https://drive.usercontent.google.com/download?id=1zKl8utK5G_uGjXewdUDsnhiw_9cTNGW1&authuser=0" group-title="Movies",Scares By Shudder
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9/variant.m3u8?x-plex-token=jZPzNGL7ZtZjgCcx_jpw&x-plex-advertising-identifier=&x-plex-client-identifier=adc6ceb7-aac0-4785-a164-3a4db1476509&x-plex-playback-id=p_668fc24f-2315-4a7c-81ef-e5f6836de329&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1768737183&url=2ec88f24ebd821a5bf7cbd1359b7055e-d4bde7fdaa17fe3ca9f0bb8333269a350c3219618bc1332d76a191973c706557f83f79626e193f9512733560601da2ec45ee3247d5c5b593c1a40882393b460d24aa7b11bcea883f99bcf7bcc66f53723dd04f9255b81c6c8fc796f7800dd9b08b3564f29ec67edefb092793b8338a94876b0316a04ef46e696c37899acb3ed553302100e8f5ad86f299767233f8aed6078f3fce7c8d895a49302e75279a99b6d95ef78eea96b4b4c716896c2596f143a2adbc4f1ad6a625e260d0f0f8f00d5f5c26b39e75f8be48e1b3f56b4e24e44c&_gl=1*gb2z4e*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3Njg3MzY3MjIkbzExJGcxJHQxNzY4NzM3MTczJGo0MCRsMCRoMA..
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=EqoBs7rqeTeX5H_xEsGm
 -https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_desktopweb_AMCScaresbyShudder_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=dpid:cc18a59d-d0af-550c-1440-97f9d1f922e8&ads._fw_content_category=IAB1-5&ads._fw_content_language=undefined&ads._fw_content_genre=Horror%20%26%20Sci-Fi&ads._fw_content_rating=TV-PG&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.xumo_platform=desktopweb&ads.appVersion=2.20.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 -https://amc-scaresbyshudder-1-us.xumo.wurl.tv/2000.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951378&extension=ts&play_token=Jqkmlzlehb
@@ -1399,6 +1399,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
