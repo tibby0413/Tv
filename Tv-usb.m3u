@@ -109,6 +109,9 @@ CARTOONS
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr.
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (West)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (West)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/105939
+
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/43-NICKELODEON/index.m3u8
@@ -1398,6 +1401,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
