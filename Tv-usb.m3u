@@ -586,7 +586,7 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/3833.ts
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI" tvg-logo="https://i.imgur.com/PggQk7F.png",FYI
 http://fl31.moveonjoy.com/FYI/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Game Show Network" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",Game Show Network
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",Game Show Network
 http://fl41.moveonjoy.com/GAME_SHOW/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3650.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648975.ts
@@ -629,14 +629,15 @@ http://fl1.moveonjoy.com/INSP/index.m3u8
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/hKDccCL.png",Motor Trend
 http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
+#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
 https://25dee28f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/d02653bc-3ddf-44d6-8117-c99acd275841/0.m3u8
 
 #EXTINF:-1 tvg-id="IT:.MotoretrÃ².be" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw",Motoretrò (Italian)
 https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-name="Discovery Turbo Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-turbo-us.png",Discovery Turbo Tv
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/77701c6a-89e7-4510-865c-b3c528f2a903/3.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438&ads._fw_ifa_type=dpid&ads._fw_did=ea9bdec2-95c5-524d-320e-eb3b637f13dc&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WBDMotorTrendFASTTV&ads.csid=xumo_desktopweb_WBDMotorTrendFASTTV_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=IAB2&ads._fw_content_language=undefined&ads._fw_content_genre=Automotive&ads._fw_content_rating=TV-PG&ads.xumo_contentId=4240&ads.xumo_contentName=WBDMotorTrendFASTTV&ads.xumo_providerId=4240&ads.xumo_providerName=WBDMotorTrendFASTTV&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951438&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.20.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
+-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/77701c6a-89e7-4510-865c-b3c528f2a903/3.m3u8
 
 #EXTINF:-1 tvg-id="Powersports.World.distro" tvg-name="PowerSports World TV" tvg-logo="https://drive.google.com/uc?id=1mP2QWDHai70Ey0EuNKkATJhpts8niplJ",PowerSports World TV
 https://s5host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/bbb/pwrsp/pwrsp.m3u8?ads.cdnhost=s5host2.localnow.api.cms.amdvids.com&ads.playbackid=662F6B8A-1762-479D-A542-4A6D78574774&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=662F6B8A-1762-479D-A542-4A6D78574774&ads.n4=content_name&ads.v4=PowerSports%20World&ads.n21=app_version&ads.v21=0.0.0&ads.n22=channel_genre&ads.v22=Sports&ads.n23=channel_name&ads.v23=PowerSports%20World&ads.n24=us_privacy&ads.v24=1YNY&ads.n25=pos&ads.v25=midroll&ads.n26=channel_corp&ads.v26=Triple-B%20Media%20LLC&ads.n27=content_livestream&ads.v27=1&ads.n28=content_provider&ads.v28=motoamerica-tv&ads.n29=channel_brand_id&ads.v29=AMDB012218&ads.n30=content_type&ads.v30=channel&ads.n31=did&ads.v31=&ads.n32=gpp_sid&ads.v32=&ads.n33=channel_ext_id&ads.v33=61310bdd76163613787b2d12&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=app_name&ads.v35=&ads.n36=channel_language&ads.v36=en&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=gpp&ads.v38=&ads.n39=network_name&ads.v39=motoamerica-tv&ads.n40=w&ads.v40=1920&ads.n41=ifa_type&ads.v41=&ads.n42=channel_company_id&ads.v42=AMDP500174&ads.n43=content_custom_1_param&ads.v43=662F6B8A-1762-479D-A542-4A6D78574774&ads.n44=channel_title&ads.v44=PowerSports%20World&ads.n45=channel_rating&ads.v45=TV-PG&ads.n46=h&ads.v46=1080&ads.n47=device_type&ads.v47=&ads.n48=content_custom_2_param&ads.v48=AMDB012218&ads.n49=channel_id&ads.v49=662F6B8A-1762-479D-A542-4A6D78574774&ads.n50=device_model&ads.v50=&ads.n51=dnt&ads.v51=&ads.n52=content_producer_name&ads.v52=Triple-B%20Media%20LLC&ads.n53=app_bundle&ads.v53=&ads.n54=ua&ads.v54=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n55=ip&ads.v55=86.48.9.131&ads.n56=app_store_url&ads.v56=&ads.n57=cust_devicename&ads.v57=desktop_web&ads.n58=device_make&ads.v58=
@@ -786,7 +787,6 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 -https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/ef6e1474-272b-4583-8d32-37021a2cf673/4.m3u8
 -AMCThrillers.us
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Stories by AMC" tvg-logo="https://i.imgur.com/QJtwJoS.png",Stories by AMC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
 -https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba/variant.m3u8?x-plex-token=fJ9tFMcnHY19YAUjf9pN&x-plex-advertising-identifier=&x-plex-client-identifier=adc6ceb7-aac0-4785-a164-3a4db1476509&x-plex-playback-id=p_c258689f-30a3-4e44-9aad-8b0aac23c424&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1768724458&url=e81e8367bd5ca2f8057e351d362afc83-0b2ff8323dec0ad76145e68046218051f3dec196ec88d210f2faa383d44d5c44c645775ade464f17a1b92e15ec23ef31109319a0da396afe3f34c4095358019a472826a1074d731092e636ea2e0b79fb3720e9d8599af4942097a2612c5c09020d535171473c1f55458bfcd15b862451e7ad000e4bf0cb685566776d51f704ebd1e27a88e51df4a8b4a368d6c4bb7ca8168a8202e2de7a184ade7842b94eff4e232580f0ce2a2daa79bfc4d242d98aa51a580b0c0f7ed4364feaad7f8a2c5828
@@ -808,10 +808,10 @@ https://fl61.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live
 https://fl61.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-classic-us.png" group-title="Music",MTV Classic
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-classic-us.png" group-title="Music",MTV Classic
 http://fl61.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Flow Latino" tvg-name="MTV Flow Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/mtv-latino-vod.png" group-title="Entertainment",MTV Flow Latino
+#EXTINF:-1 tvg-id="" tvg-name="MTV Flow Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/mtv-latino-vod.png" group-title="Entertainment",MTV Flow Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV Tr3s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tres-us.png" group-title="Music",MTV Tr3s
@@ -823,47 +823,47 @@ http://fl1.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" group-title="Music",NickMusic
 http://restream-live.realiptv.to:8080/live/33741215/82527298/89095.ts
 
-#EXTINF:-1 tvg-id="Vevo 2K" tvg-name="Vevo 2K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-2k-vod.png" group-title="Music",Vevo 2K
+#EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-2k-vod.png" group-title="Music",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-hip-hop-vod.png" group-title="Music",Vevo Hip-Hop
+#EXTINF:-1 tvg-id="Vevo.Hip-Hop.us2" tvg-name="Vevo Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-hip-hop-vod.png" group-title="Music",Vevo Hip-Hop
 https://tinyurl.com/5e8dj3d2
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevohiphop-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTE0MjA5OH0
 
-#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-true-school-hip-hop-vod.png" group-title="Music",Vevo True School Hip-Hop
+#EXTINF:-1 tvg-id="Vevo.True.School.Hip-Hop.us2" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-true-school-hip-hop-vod.png" group-title="Music",Vevo True School Hip-Hop
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=9.18.0-32296d47c9882754e360f1b28a33027c54cbad16&app_name=web&clientDeviceType=0&clientID=c0561b0d-cdab-4a0f-aacd-b89453862ed8&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=c0561b0d-cdab-4a0f-aacd-b89453862ed8&deviceLat=42.3900&deviceLon=-88.3500&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=139.0.0&marketingRegion=US&serverSideAds=false&sessionID=658c3ced-f544-11f0-9f06-8eae8715d1cc&sid=658c3ced-f544-11f0-9f06-8eae8715d1cc&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlZjk4MDc4LTI3MmMtNDExOC1iMTQ3LTc2ZDk2ZWExYTY5YSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2NThjM2NlZC1mNTQ0LTExZjAtOWYwNi04ZWFlODcxNWQxY2MiLCJjbGllbnRJUCI6IjUwLjQ0LjkyLjE2MiIsImNpdHkiOiJXb25kZXIgTGFrZSIsInBvc3RhbENvZGUiOiI2MDA5NyIsImNvdW50cnkiOiJVUyIsImRtYSI6NjAyLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6NDIuMzg5OTk5Mzg5NjQ4NDQsImRldmljZUxvbiI6LTg4LjM0OTk5ODQ3NDEyMTEsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzOS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTguMC0zMjI5NmQ0N2M5ODgyNzU0ZTM2MGYxYjI4YTMzMDI3YzU0Y2JhZDE2IiwiY2xpZW50SUQiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9DaGljYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJhZExvYWQiOnsiY29ob3J0IjoiIn0sIm11bHRpQXVkaW8iOnsiZW5hYmxlZCI6dHJ1ZX0sIm11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9LCJzZWFyY2hBUEkiOnsicXVlcnlWZXJzaW9uIjoiaHlicmlkIn0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhZNjM5NWQtT2JMbVFmX0tjbDAwWGlvVEtjUWV2b3pnUGwzS1NBRmVkVWh2WTVXSGMiLCJmd1ZjSUQyQ29wcGEiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImMwNTYxYjBkLWNkYWItNGEwZi1hYWNkLWI4OTQ1Mzg2MmVkOCIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWFk2Mzk1ZC1PYkxtUWZfS2NsMDBYaW9US2NRZXZvemdQbDNLU0FGZWRVaHZZNVdIYyIsImZtc19oaF9yYW1wX2lkIjoiaFk2Mzk1YWpkdjVqcjVDU3RXNVJuR2xSZ21BaVpKbS00QkRZUGViXzVPSXlFYXFuOCIsImZtc19iaWRpZHR5cGUiOiIxMDQyLDEwNTIsMTAzMiwxMDEyLDEwNzIsMTA4MiIsIl9md18zUF9VSUQiOiJJREw6QXQxb015cXFNcko2bkFoWjBZVVpGTXM1bnRxXzJCd0hCR2plTGlJc193LWxpNk4wRWp6ZnktSHRoMWVJVWVqb05XTlV6aGNjemRZWWZBcUFpWmxBR1JSX0I2bUM3aUxROWFvQjN1RXI0OHZKbktldTFrZGlPTk5teUZSM2JSWXRRcVpHXzRSV25QVW5jRnlucDJSYkhiNllaQ1MxeG9mbUJfaC00OEdOSEJJaGh6MFNnOV8zNmNzbXMxdWwwY0tYY0RqQXhiVE5LcllYVFlqaTlndUlSRGpHVW5PanJXRVJKMU1WVXhlOFhEUE9MRGo4eG91UFplNFl5QVU3M0lGWEYteU1XbklIbTR0V1g2WmxoWjJLOU85RnBXNVZZejNIMy1jVHRzS2k1V0ZDMWhaVWhVVWRseWxDZlI1LTlGbHIxSVctLXcwaXBqOXhXZU1PejZNd3ZMQ2xFQjJ2YUktYVdmSVhNcTMyV1EsUEFJUklEOkF3QjJ0VEk2UHhEUlRNaEVvR2dZYkczSmQ4aVFNbHh6K29vaitYMkp3dlNULGNvbm5lY3RpZDpjQmtsZ3pVWFdiQVhZdTFvZmpXY3RON3ZQUDNENXJfQVQzVDVfeGhZbU5qSVdkc2pCWUZqeVJfRllIVFByZXZnb1BWbnFUN1djWXBjQjNkVGZubVh6dyxVSUQyOkE0QUFBQ2FlRXllYzlJdjI1T1U5bE1ZTjE5SnlyRkdfZXJPTW9ETHRDUjVuWmt0bzJyWUVCWXYxS1FyOUZYTlhZV2FJTmthMWVDM1ZFTW5NV1R6ekdNTm1kSjRSYVFqakdScGxNYlZmSHRxX2tlcTlWMzMtZGVHT3UxODVZR2VMak1Xa3ZnbUpxOTV5b0VQWlFjcW1kSThFaHZXVHNrODBWVVpFbW9yV1oyekZtZmkta0cxbmkxbWxqR2hrNm5UWk9SLWs2X0tUX3NZVTIxb2syNXJYRk9jNFNnLFZJQU5UUDoyOTllMTUxYTIxMmEyYTdhODMwNDY4MDEyOTc4YTU5NWQ1MDE2OGQxN2I3Y2EyYWRkZjMwZjk2N2RjZDQ0YjVjLFRJTlVJVEk6YmNkZDE1MzE4MmFiNWY0YzA4NjI2YWE5MzU4ODQ5N2YyYzhjOGEzN2YwY2UxNWExMTJhNTIxYTY4MjBlYTY4ZCIsImZtc19ydWxlaWQiOiIxMDAwOSwxMDAwMCJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDEifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOll6QTFOakZpTUdRdFkyUmhZaTAwWVRCbUxXRmhZMlF0WWpnNU5EVXpPRFl5WldRNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3Njg5MTk4NTUsImlhdCI6MTc2ODgzMzQ1NSwianRpIjoiMzQ3MGE5ZGQtZTJkYi00NGJiLWIwZjYtNTE0ZDkwZWRkNjI0In0.4lMLCotsjIhNma1ReZhKgQmOp-tvQTXguZ8pf4Cjc_M&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQErAAOtvZyP7gf61NMfmCMgTT95qkd56diQvjluZr_BglQFpDFxBr8K2h4ESaPnnnXXadZxE5Yt-XPcRUjnySk_JLC4BhtCMRzYZhWbU4onnh8KSiSu1sMWodGQIUKAvw4rd_2FcLdAPxvFxwgU8kK0qkaXufmWxybMIEUMfKDz1eu4BN2OTyh_8VYT0M7BWJN-hmpS9TNQvHpAjQ-ZR7T0tlgDFjvqAPj5QSrVCkbZYu2OfKC5rMeyKdma_gtA1h51chvckNTchd4iXYlX5zGsNaXhDipkf5HHnLLS8Y-pQTi_aBNb1jkdG39hdY9FdDRrahJBPg2uOpmoBUDfZJRp3QpEcdLcPUvc07qYA1AHbH3LNvalZHG7Rht39Qa9owk5mEeNv5WNTOGe_ApuB2BlMQOm6HblbpouAHXIyTPG3XYMg1CgpqKU10aAkttj-P5pY6ATxCAVzOHkpMAMeBKfVyiXGqeBzDfjMzNKJfxusWTuvUpQ4ufzHLbv38IM8HHLbSjAateUO0aNmnfF0m1zVqXWejHp8LUVblRyJDsBmhIg_tYa0W9TIr5rjR4rVVP9xwNVXsJQGX66mdGnqqD_OookfSA6DeeEhA356tmCpj5FMyCQDxfNfJ0L2CBH8g4WjGD0XRb4pq0sJBtYXa2e-aupwQGtCNMzVTUkmu24FVK4Hx1IYgfyjyts3xiDf0FjmjrNOXd9ppI1P-ntPvB_916mNaQBgImGbEJxyCmN9o4icXqtuy3uhSuSKbz6yhNDCrM97Hzm9vH3qefkoq7DA3VGCKiliYMmCJX5HtyffWQjv1d-ivif6jE886_Rq32OIsrdG2bgZ3R45uXm6vihAZ0HXvLQlxby8_nuitHQOUavhoI0KLByi910emCt_ciCz0WMbN26NENJz3AWWP0YmSE7G85nHttWA9ZHMpPbRjIkk72gjKVECmTiSQAUezeG7zGNky8r8g5xoiYlQ7eMw_fCqj-7pZFSS9fOk_3CotYeWPRsWnq8qtfFhHI6zsNr_adIcpylqIBHJjh14rjWdGlpozQ8Lyj8m2TvjdP5toqsudjE_b-wo7Ns_zKNdQhth8hR82s9K7_lGFBdoO2qquP4YJxkR519KtaJbB4BipeeH331QYvSIFMVnTamzALsW5Eze1KsTZQ7OdmW9-gwIh3usogNdqRURrmkNUz6O8lKYU.&gpp=DBABLA~BVQqAAAAAWA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2214c59d95-1e6a-43cd-ab60-f53f2e8a7a73%22%2Csu
 -https://tinyurl.com/4bt5kay5
 -http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 
-#EXTINF:-1 tvg-id="VevoRB.us" tvg-name="Vevo R&B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-r-and-b-vod.png" group-title="Music",Vevo R&B
+#EXTINF:-1 tvg-id="Vevo.R.andB.us2" tvg-name="Vevo R&B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-r-and-b-vod.png" group-title="Music",Vevo R&B
 https://tinyurl.com/munxpc2s
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevornb-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYzMH0
 
-#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop
+#EXTINF:-1 tvg-id="Vevo.Pop.us2" tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop
 https://d2n3779oy6efpi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/c96854fd-9176-479c-b346-2b22689f9f24/3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vevo '70s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-70s-vod.png" group-title="Music",Vevo '70s
+#EXTINF:-1 tvg-id="Vevo.70s.us2" tvg-name="Vevo '70s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-70s-vod.png" group-title="Music",Vevo '70s
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54db8c-eca6-11ee-a6fc-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=153e9256-6c71-4864-910a-274aa8f71ee7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo '80s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-80s-vod.png" group-title="Music",Vevo '80s
+#EXTINF:-1 tvg-id="Vevo.80s.us2" tvg-name="Vevo '80s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-80s-vod.png" group-title="Music",Vevo '80s
 https://tinyurl.com/mr9dex94
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80s-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyN30
 
-#EXTINF:-1 tvg-id="Vevo90s.us" tvg-name="Vevo '90s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-90s-vod.png" group-title="Music",Vevo '90s
+#EXTINF:-1 tvg-id="Vevo.90s.us2" tvg-name="Vevo '90s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-90s-vod.png" group-title="Music",Vevo '90s
 https://tinyurl.com/2rnkr4wz
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90s-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyOH0
 
-#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-name="Vevo Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
+#EXTINF:-1 tvg-id="Vevo.Rock.us2" tvg-name="Vevo Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoCountry.us" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-country-vod.png" group-title="Music",Vevo Country
+#EXTINF:-1 tvg-id="Vevo.Country.us2" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-country-vod.png" group-title="Music",Vevo Country
 https://tinyurl.com/2nhduj78
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountry-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyOX0
 
 #EXTINF:-1 tvg-id="ES:.Vevo.Latino.be" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-latino-vod.png" group-title="Music",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CMT Music" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-music-us.png" group-title="Music",CMT Music
+#EXTINF:-1 tvg-id="" tvg-name="CMT Equal Play" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-music-us.png" group-title="Music",CMT Equal Play
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109
 
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-us.png" group-title="Entertainment",CMT
@@ -875,13 +875,13 @@ https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls
 #EXTINF:-1 tvg-id="" tvg-name="Radio Zeta TV" tvg-logo="https://drive.google.com/uc?id=1fpHcK-WHuVvKG7h5lDc_Be0lMYes__EP" group-title="Music",Radio Zeta TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-kiss-kiss-tv-it.png" group-title="Music",Kiss Kiss TV
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-kiss-kiss-tv-it.png" grop-title="Music",Kiss Kiss TV
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KissKissItalia.it" tvg-name="Kiss Kiss Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-kiss-kiss-italia-it.png" group-title="Music",Kiss Kiss Italia
 https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w1082727065.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="Kiss Kiss Napoli TV" tvg-logo="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png" group-title="Music",Kiss Kiss Napoli TV
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Napoli TV" tvg-logo="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png" group-title="Music",Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Gold Rock" tvg-logo="https://kisskissitalia.it/wp-content/uploads/elementor/thumbs/goldrock-pn2i1mhchzwxmzfg437toyzozxxlgyxfdtaqetd25o.png" group-title="Music",Kiss Kiss Gold Rock
@@ -933,10 +933,10 @@ https://fl41.moveonjoy.com/BET/index.m3u8
 #EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET Gospel" tvg-logo="https://i.imgur.com/jbOkq8C.png",BET Gospel
 http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BET Soul" tvg-logo="https://i.imgur.com/VeuTWUb.png",BET Soul
+#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" tvg-logo="https://i.imgur.com/VeuTWUb.png",BET Soul
 http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BET Her" tvg-logo="https://i.imgur.com/oafsrlo.png",BET Her
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="https://i.imgur.com/oafsrlo.png",BET Her
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
 
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="Classic",TV Land (East)
@@ -948,7 +948,7 @@ https://fl1.moveonjoy.com/TV_LAND/mpegts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/143866.ts
 -http://1tv41.icu:8080/live/Y06DNq/295733/46696.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png",Discovery Channel
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png",Discovery Channel
 https://fl31.moveonjoy.com/Discovery_Channel/index.m3u8
 -http://89.105.221.127/Discovery/mpegts?token=test
 
@@ -961,7 +961,7 @@ http://fl31.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-id="CTV.Nature.HD.ca2" tvg-name="CTV Nature Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png",CTV Nature Channel
 http://fl31.moveonjoy.com/Discovery_Science/index.m3u8
 
-#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Magnolia-Network-Emblem.png",Magnolia Network
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Magnolia-Network-Emblem.png",Magnolia Network
 http://fl1.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime + Investigation" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png",Crime + Investigation
@@ -1005,10 +1005,10 @@ https://fl7.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo (West)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3823.ts
 
-#EXTINF:-1 tvg-id="plex.tv.Bravo.Vault.plex" tvg-name="Bravo Vault" tvg-logo="https://drive.google.com/uc?id=1FklU0KpWLysb0u2imn23oqMSwWY_W9yz" group-title="Entertainment",Bravo Vault
+#EXTINF:-1 tvg-id="" tvg-name="Bravo Vault" tvg-logo="https://drive.google.com/uc?id=1FklU0KpWLysb0u2imn23oqMSwWY_W9yz" group-title="Entertainment",Bravo Vault
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645e328fb164db00b4547f05.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=X84KJ9QRkywotD_--WZK
 
-#EXTINF:-1 tvg-id="plex.tv.Real.Housewives.Vault.plex" tvg-name="Bravo Real Housewives Vault" tvg-logo="https://drive.google.com/uc?id=160yQpqoKwbi-2uTDXU2p65jDu6OoUccc" group-title="Entertainment",Bravo Real Housewives Vault
+#EXTINF:-1 tvg-id="" tvg-name="Real Housewives Vault" tvg-logo="https://drive.google.com/uc?id=160yQpqoKwbi-2uTDXU2p65jDu6OoUccc" group-title="Entertainment",Real Housewives Vault
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645f840b361156ab4214e28d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=5LJrhxfx1rkTzQjQPssB
 
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/vh1-us.png",VH1
@@ -1398,6 +1398,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
