@@ -411,7 +411,7 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/3613.ts
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3613.ts
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.Xtra.en.EspanÌƒol.distro" tvg-name="beIN Sports XTRA (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-xtra-espanol-us.png" group-title="Sports",beIN Sports XTRA (Spanish)
+#EXTINF:-1 tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" tvg-name="beIN Sports XTRA (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-xtra-espanol-us.png" group-title="Sports",beIN Sports XTRA (Spanish)
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 -https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 
@@ -1407,6 +1407,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
