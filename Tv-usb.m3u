@@ -697,9 +697,8 @@ https://amg00654-itv-amg00654c1-lg-dk-2692.playouts.now.amagi.tv/ts-us-e2-n2/pla
 -https://amg00654-itv-amg00654c1-lg-fi-2691.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00654-itvstudiosfast-hellskitchen-lgfi/playlist.m3u8
 -https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
 -https://itv-hellskitchen-rakuten.amagi.tv/1080p/index.m3u8
--plex.tv.Hell`s.Kitchen.&amp;.Kitchen.Nightmares.plex
 
-#EXTINF:-1 tvg-id="plex.tv.Hell`s.Kitchen.&amp;.Kitchen.Nightmares.plex" tvg-name="Hell's Kitchen & Kitchen Nightmares" tvg-logo="https://drive.google.com/uc?id=1Bc74vuPi7-SH43c-E-hsZvOa_a30sngy",Hell's Kitchen & Kitchen Nightmares
+#EXTINF:-1 tvg-id="plex.tv.Hell`s.Kitchen.&.Kitchen.Nightmares.plex" tvg-name="Hell's Kitchen & Kitchen Nightmares" tvg-logo="https://drive.google.com/uc?id=1Bc74vuPi7-SH43c-E-hsZvOa_a30sngy",Hell's Kitchen & Kitchen Nightmares
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kLTvx5_R6KMy9Uxx6WCF&_gl=1*xqxijm*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3NjkwNjg2NTEkbzE5JGcxJHQxNzY5MDY4ODg5JGo1NiRsMCRoMA..
 
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/travel-channel-us.png",Travel Channel
@@ -1407,6 +1406,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
