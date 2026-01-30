@@ -1219,8 +1219,8 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1570187&extension=ts&play_token=WRcil0fV2t
 
 #EXTINF:-1 tvg-id="plex.tv.Scares.by.Shudder.plex" tvg-name="Scares By Shudder" tvg-logo="https://drive.usercontent.google.com/download?id=1zKl8utK5G_uGjXewdUDsnhiw_9cTNGW1&authuser=0" group-title="Movies",Scares By Shudder
-https://amc-scaresbyshudder-1-us.xumo.wurl.tv/2000.m3u8
--https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_desktopweb_AMCScaresbyShudder_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=dpid:cc18a59d-d0af-550c-1440-97f9d1f922e8&ads._fw_content_category=IAB1-5&ads._fw_content_language=undefined&ads._fw_content_genre=Horror%20%26%20Sci-Fi&ads._fw_content_rating=TV-PG&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.xumo_platform=desktopweb&ads.appVersion=2.20.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/bbd9f586-eecc-4207-bf0e-1969d4c2cb8e/4.m3u8
+-https://amc-scaresbyshudder-1-us.xumo.wurl.tv/3000.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951378&extension=ts&play_token=Jqkmlzlehb
 
 #EXTINF:-1 tvg-id="" tvg-name="BET Cinema" tvg-logo="https://drive.google.com/uc?id=1YmxyT-lLTuTSe635w67bASJ7lw-pRB-A" group-title="Movies",BET Cinema
@@ -1406,6 +1406,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
