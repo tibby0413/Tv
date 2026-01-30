@@ -641,7 +641,7 @@ http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
 https://25dee28f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/d02653bc-3ddf-44d6-8117-c99acd275841/0.m3u8
 
-#EXTINF:-1 tvg-id="IT:.MotoretrÃ².be" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw",Motoretrò (Italian)
+#EXTINF:-1 tvg-id="IT:.Motoretrò.be" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw",Motoretrò (Italian)
 https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-name="Discovery Turbo Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-turbo-us.png",Discovery Turbo Tv
@@ -1407,6 +1407,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
