@@ -405,7 +405,7 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/3612.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45611&extension=ts&play_token=UCeRliE9zn
 -http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.EspaÃ±ol.sv" tvg-name="beIN Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-espanol-us.png" group-title="Sports",beIN Sports (Spanish)
+#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="beIN Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-espanol-us.png" group-title="Sports",beIN Sports (Spanish)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3613.ts
 
 #EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-xtra-us.png" group-title="Sports",beIN Sports XTRA
@@ -467,7 +467,7 @@ http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sports",MMA-TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PFLMMA.pl" tvg-name="PFL MMA" tvg-logo="https://s3.us-east-1.amazonaws.com/nextmma.com/league/pfl.png" group-title="Sports",PFL MMA
+#EXTINF:-1 tvg-id="plex.tv.PFL.MMA.plex" tvg-name="PFL MMA" tvg-logo="https://s3.us-east-1.amazonaws.com/nextmma.com/league/pfl.png" group-title="Sports",PFL MMA
 https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wwe-us.png" group-title="Sports",WWE Network
@@ -1426,6 +1426,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
