@@ -352,15 +352,18 @@ https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 http://104.238.205.28:9090/278763_.m3u8
 -Canal.ESPN.3.(Bolivia).ar
 -ESPN.3.br
+-ESPN.3.co - Maybe
 
-#EXTINF:-1 tvg-id="Canal.ESPN.5.(Sudamérica).sv" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
 http://104.238.205.28:9090/278558_.m3u8
 -Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv
+-Canal.ESPN.5.(Sudamérica).sv
 
-#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Sports",ESPN 6
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Sports",ESPN 6
 http://104.238.205.28:9090/278566_.m3u8
+-Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv
 
-#EXTINF:-1 tvg-id="Canal.ESPN.7.(Colombia).sv" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Sports",ESPN 7
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Sports",ESPN 7
 http://104.238.205.28:9090/278567_.m3u8
 -Canal.ESPN.7.(Bolivia).sv
 -Canal.ESPN.7.(Chile).sv
@@ -1454,6 +1457,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
