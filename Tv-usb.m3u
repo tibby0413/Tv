@@ -353,6 +353,9 @@ http://104.238.205.28:9090/278763_.m3u8
 -Canal.ESPN.3.(Bolivia).ar
 -ESPN.3.br
 
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
+http://104.238.205.28:9090/278558_.m3u8
+
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-us.png" group-title="Sports",SEC Network
 https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 -http://1tv41.icu:8080/live/Y06DNq/295733/17608.rtmp
@@ -514,6 +517,9 @@ ENTERTAINMENT
 
 #EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="Entertainment",PBS
 https://wttwdt.lls.pbs.org/out/v1/bab398469bfc4defb18cc596c47e42ca/index.m3u8
+
+#EXTINF:-1 tvg-id="CW.us2" tvg-name="CW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png" group-title="General",CW
+http://104.238.205.28:9090/278689_.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png",Paramount Network
 https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
@@ -1426,6 +1432,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
