@@ -543,7 +543,7 @@ ENTERTAINMENT
 #EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="Entertainment",PBS
 https://wttwdt.lls.pbs.org/out/v1/bab398469bfc4defb18cc596c47e42ca/index.m3u8
 
-#EXTINF:-1 tvg-id="CW.us2" tvg-name="CW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png" group-title="General",CW
+#EXTINF:-1 tvg-id="KUNS-DT.us_locals1" tvg-name="CW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png" group-title="General",CW
 http://104.238.205.28:9090/278689_.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png",Paramount Network
@@ -1457,6 +1457,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
