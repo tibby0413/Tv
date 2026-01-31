@@ -886,6 +886,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-us.png" group-title="Entertainment",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.Exa.TV.mx" tvg-name="Exa TV" tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Music",Exa TV
+http://104.238.205.28:9090/278606_.m3u8
+
 #EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-name="Radio Italia Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-italia-it.png" group-title="Music",Radio Italia Live
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/1280x720_3440800/master.m3u8
 
@@ -1423,6 +1426,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
