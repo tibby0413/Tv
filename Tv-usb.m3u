@@ -353,8 +353,24 @@ http://104.238.205.28:9090/278763_.m3u8
 -Canal.ESPN.3.(Bolivia).ar
 -ESPN.3.br
 
-#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
+#EXTINF:-1 tvg-id="Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
 http://104.238.205.28:9090/278558_.m3u8
+-Canal.ESPN.5.(Sudamérica).sv
+
+#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Sports",ESPN 6
+http://104.238.205.28:9090/278566_.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.(Colombia).sv" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Sports",ESPN 7
+http://104.238.205.28:9090/278567_.m3u8
+-Canal.ESPN.7.(Bolivia).sv
+-Canal.ESPN.7.(Chile).sv
+-Canal.ESPN.7.(Colombia).sv
+-Canal.ESPN.7.(Ecuador).sv
+-Canal.ESPN.7.(Paraguay).sv
+-Canal.ESPN.7.(Perú).sv
+-Canal.ESPN.7.(Sudamérica).sv
+-Canal.ESPN.7.(Uruguay).sv
+-Canal.ESPN.7.(Venezuela).sv
 
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-us.png" group-title="Sports",SEC Network
 https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
@@ -1432,6 +1448,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
