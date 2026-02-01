@@ -331,8 +331,8 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 -https://list.iptvcat.com/my_list/s/d4547e5e97e73c001fe4c4c00aab56c4.m3u8
 
-#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG Sportsnet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG Sportsnet
-http://restream-live.realiptv.to:8080/live/33741215/82527298/648959.ts
+#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).cr" tvg-name="FUTV" tvg-logo="https://drive.google.com/uc?id=19adoQQDJBZxVtpghwtwbBSXgyYPPPMQK" group-title="Sports",FUTV
+http://104.238.205.28:9090/279374_.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Sports",DSports 
 http://104.238.205.28:9090/278758_.m3u8
@@ -399,6 +399,12 @@ https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2
 http://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3646.ts
+
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.3.(México).mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fox-sports-3-lam.png" group-title="Sports",Fox Sports 3
+http://104.238.205.28:9090/278267_.m3u8
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-name="Fox Sports Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/fox-sports-premium-mx.png" group-title="Sports",Fox Sports Premium
+http://104.238.205.28:9090/278598_.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Sur).sv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Sports",Fox Sports (Spanish)
 http://104.238.205.28:9090/278766_.m3u8
@@ -468,6 +474,9 @@ https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=16
 #EXTINF:-1 tvg-id="NFL.SUNDAY.TICKET.RED.ZONE.us2" tvg-name="NFL Sunday Ticket RedZone" tvg-logo="https://drive.google.com/uc?id=1mnbwgLSCG5jstKLj9zg0FHBaKw27k1ND" group-title="Sports",NFL Sunday Ticket RedZone
 http://fl1.moveonjoy.com/NFL_14/index.m3u8
 
+#EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" tvg-name="Fight Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fight-sports-es.png" group-title="Sports",Fight Sports
+http://104.238.205.28:9090/279486_.m3u8
+
 #EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports",MLB Network
 https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 
@@ -482,6 +491,9 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="Sports",NHL Network
 https://7pal.short.gy/nhlnw
+
+#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG Sportsnet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG Sportsnet
+http://restream-live.realiptv.to:8080/live/33741215/82527298/648959.ts
 
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fuse-us.png" group-title="Sports",Fuse
 http://fl1.moveonjoy.com/FUSE/index.m3u8
@@ -1353,6 +1365,9 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/2412.ts
 #EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-channel-br.png" group-title="Movies",Sony Channel (Spanish)
 https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png" group-title="Entertainment",Canal 5
+http://104.238.205.28:9090/278329_.m3u8
+
 #EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hdnet-movies-us.png" group-title="Movies",HDNet Movies
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89182.m3u8 -dunno
 -https://mia7.rocketdns.info:25463/live/19742329/27604387/89182.m3u8?token=HkNcWEBYFAkUBQECVwNaDAZTBVZRCFZRAFUHAwtRVApUAFJbBwMEUQASH0ZAFRFRUwtoXlQaXgtbUAsDH0dHQAATa1BXEgwRBwELVAdQQRgQEl5aVRpeA05DQ1hXRwgRXVECCAMEFB8UVUsQVhMNVV45U1JGUQdWQFtdRF8JHhEKD2tdVl1XXVISCUYDQ08WWxVHFQpWEV8OTRFTWhFAUhEEFgMRBAMEDxIfRlAOFlpGFE4VChoxYEBNEVRLEVddFghbVxEKFF4FRQtGH0MKR20UUkRESgFSDwRBEwlHAhFJQ1lYS29VXFheVgdHCAxaQUQNFQQaSBEPDl1YRwpAbBUIUBsJEgUAAgkCVQJDHg==
@@ -1456,6 +1471,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
