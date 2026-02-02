@@ -13,20 +13,13 @@ NEWS
 https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
 
-#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="News",CBS 2 (Chicago) MAG
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
-
 #EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS 2 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="News",CBS 2 (New York)
 http://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
-
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS 2 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="News",CBS 2 (New York) MAG
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938568&extension=ts&play_token=RbU51QyXTe
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938568&extension=ts&play_token=RbU51QyXTe
 
 #EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="CBS 2 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-11-khou-icon-us.png" group-title="News",CBS 2 (Houston)
 https://fl1.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8
-
-#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="CBS 2 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-11-khou-icon-us.png" group-title="News",CBS 2 (Houston) MAG
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173313&extension=ts&play_token=OQ5QmcsMy6
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173313&extension=ts&play_token=OQ5QmcsMy6
 
 #EXTINF:-1 tvg-id="" tvg-name="CBS News (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="News",CBS News (Chicago)
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
@@ -47,12 +40,10 @@ http://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8
 http://41.205.93.154/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago)
-https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&extension=ts&play_token=eu0mxNTIm6
+-https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 -https://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
--http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&extension=ts&play_token=eu0mxNTIm6
-
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago) MAG
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938592&extension=ts&play_token=ppwGXqAdbA
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938592&extension=ts&play_token=ppwGXqAdbA
 
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png" group-title="News",ABC 7 (New York)
 https://fl1.moveonjoy.com/ABC/index.m3u8
@@ -1360,6 +1351,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fb84bc1b7ad
 -https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 -https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/1080p-cc/index.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.MOVIESPHERE.plex" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/movie-sphere-us.png" group-title="Movies",MovieSphere by Lionsgate MAG
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951548&extension=ts&play_token=TrBag2nt8p
+
 #EXTINF:-1 tvg-id="plex.tv.50.Cent.Action.plex" tvg-name="50 Cent Action" tvg-logo="https://drive.google.com/uc?id=1X4AO4seowqEuVQo_d0AmV_vwjRkib7Of" group-title="Movies",50 Cent Action
 https://di4chcy8fb6ab.cloudfront.net/11002/88817993/hls/playlist.m3u8?ads.xumo_channelId=88817993&ads.csid=hisensechannels_us_lionsgate50centaction_ssai&ads.caid=Lionsgate50CentAction&ads.asnw=&ads._fw_content_language=en&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_coppa=0&ads.xumo_contentId=4256&ads.xumo_contentName=Lionsgate50CentAction&ads.xumo_providerId=4256&ads.xumo_providerName=Lionsgate50CentAction&ads._fw_content_rating=TV-14&ads.xumo_streamId=88817993&ads._fw_h_x_country=US&ads.platform=%5BPLATFORM%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads._fw_is_lat=%5BIS_LAT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads.gpp=%5BGPP%5D&ads.gpp_sid=%5BGPP_SID%5D&ads._fw_app_bundle=%5BAPP_BUNDLE%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.appName=%5BAPP_NAME%5D&ads.vauth=%5BVAUTH%5D&ads._fw_app_store_url=%5BAPP_STORE_URL%5D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9587
 
@@ -1492,6 +1486,7 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
