@@ -78,8 +78,8 @@ http://fl1.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
 http://fl1.moveonjoy.com/TX_Houston_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="News",FOX News
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
--https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45573&extension=ts&play_token=rZa123JYvt
 
 #EXTINF:-1 tvg-id="plex.tv.LiveNOW.from.FOX.plex" tvg-name="LiveNOW from FOX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="News",LiveNOW from FOX
@@ -1481,6 +1481,7 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
