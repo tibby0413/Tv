@@ -40,9 +40,9 @@ http://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8
 http://41.205.93.154/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938592&extension=ts&play_token=ppwGXqAdbA
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938592&extension=ts&play_token=ppwGXqAdbA
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&extension=ts&play_token=eu0mxNTIm6
--https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 -https://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
 
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png" group-title="News",ABC 7 (New York)
@@ -1481,6 +1481,7 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
