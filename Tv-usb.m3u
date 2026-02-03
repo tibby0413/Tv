@@ -39,7 +39,8 @@ http://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8
 http://41.205.93.154/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago)
-http://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+-http://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/74689.ts
 -https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 
@@ -1544,6 +1545,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
