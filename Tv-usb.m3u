@@ -338,6 +338,9 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-name="FIFA+ Women" tvg-logo="https://drive.google.com/uc?id=1FYHeEqNUnz3SqwzXYqVUtCh7OoBq_Ohe" group-title="Sports",FIFA+ Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.Women`s.Sports.Network.plex" tvg-name="Womens Sports Network" tvg-logo="https://drive.google.com/uc?id=1ps7w5z5meZczeTYS9WzAqUovLNXvCSbk" group-title="Sports",Womens Sports Network
+https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Sports",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 -https://list.iptvcat.com/my_list/s/d4547e5e97e73c001fe4c4c00aab56c4.m3u8
@@ -430,10 +433,6 @@ https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports Now" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-sports-us.png" group-title="Sports",NBC Sports Now
 https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
--NBC.Sports.HD.1.us2
--NBC.Sports.HD.2.us2
--NBC.Sports.HD.3.us2
--NBC.Sports.Now.us2
 
 -#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3612.ts
@@ -651,10 +650,14 @@ http://fl61.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI" tvg-logo="https://i.imgur.com/PggQk7F.png",FYI
 http://fl31.moveonjoy.com/FYI/index.m3u8
 
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",Game Show Network
+#EXTINF:-1 tvg-id="plex.tv.Fear.Factor.plex" tvg-name="Fear Factor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/fear-factor-vod.png" group-title=" ",Fear Factor
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/game-show-central-vod-us.png" group-title="Entertainment",Game Show Central
+https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network
 http://fl41.moveonjoy.com/GAME_SHOW/index.m3u8
--http://restream-live.realiptv.to:8080/live/33741215/82527298/3650.ts
--http://restream-live.realiptv.to:8080/live/33741215/82527298/648975.ts
 
 #EXTINF:-1 tvg-id="plex.tv.Family.Feud.plex" tvg-name="Family Feud" tvg-logo="https://drive.google.com/uc?id=1FRO_aPwd_EMRM2vw9exFFW4yV8FjZtTk" group-title="Series",Family Feud
 https://dbrb49pjoymg4.cloudfront.net/10001/99991232/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991232&ads._fw_ifa_type=dpid&ads._fw_did=cc18a59d-d0af-550c-1440-97f9d1f922e8&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FamilyFeud&ads.csid=xumo_desktopweb_FamilyFeud_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Game%20Show%2CFamily&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Game%20Shows&ads._fw_content_rating=TV-PG&ads.xumo_contentId=170&ads.xumo_contentName=FamilyFeud&ads.xumo_providerId=170&ads.xumo_providerName=FamilyFeud&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991232&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.20.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
@@ -949,6 +952,9 @@ http://fl61.moveonjoy.com/OXYGEN/index.m3u8
 
 -#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (West)
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3873.ts
+
+#EXTINF:-1 tvg-id="plex.tv.Dateline.plex" tvg-name="Dateline" tvg-logo="https://drive.google.com/uc?id=1Eh7uAOxkBsrckV6WT8HzhiMlY7wU2DnO" group-title="Documentary",Dateline
+https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
 http://104.255.88.155/usa/mpegts
@@ -1489,6 +1495,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
