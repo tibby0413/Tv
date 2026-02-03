@@ -789,6 +789,9 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 -#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (West)" tvg-logo="https://i.imgur.com/TWFDkap.png",E! (West)
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3830.ts
 
+#EXTINF:-1 tvg-id="99951465" tvg-name="E! Keeping Up" tvg-logo="https://image.xumo.com/v1/channels/channel/99951465/168x168.png?type=color_onBlack" group-title="Reality TV",E! Keeping Up
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951465/hls/master.m3u8?ads.xumo_channelId=99951465&ads.asnw=535279&ads.afid=440667936&ads.sfid=23858577&ads.csid=xumo_web_versantekeepingup_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=e9add8b7-f3eb-4065-963d-4b9ac31d4a0f&ads._fw_vcid2=512116:e9add8b7-f3eb-4065-963d-4b9ac31d4a0f&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=4299&ads.xumo_contentName=VersantEKeepingUp&ads.xumo_providerId=4299&ads.xumo_providerName=VersantEKeepingUp&ads.channelId=99951465&ads._fw_ifa_type=
+
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform" tvg-logo="https://i.imgur.com/BGAGeIf.png",Freeform
 https://fl7.moveonjoy.com/FREE_FORM/index.m3u8
 
@@ -1502,6 +1505,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
