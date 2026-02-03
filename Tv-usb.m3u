@@ -22,7 +22,8 @@ https://fl1.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173313&extension=ts&play_token=OQ5QmcsMy6
 
 #EXTINF:-1 tvg-id="" tvg-name="CBS News (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="News",CBS News (Chicago)
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/a3ecdb4d-09c6-42ed-a193-58be746f85fa:ATL/variant/48319f95bd26ccbfc9150a472dfebf06/bandwidth/5641266.m3u8
+-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 
 #EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="NBC 5 (Chicago)" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="News",NBC 5 (Chicago)
 https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
@@ -85,6 +86,9 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="plex.tv.LiveNOW.from.FOX.plex" tvg-name="LiveNOW from FOX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="News",LiveNOW from FOX
 https://d1bzb7b5prqjmj.cloudfront.net/playlist/amg00488-foxdigital-livenowbyfox-lgus/cb56391e6576619093c82167d6f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dae6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5aae90b438e65a4ac4a4a932b58e68314c9c914b9d1dc46ca168670f4159ac4f3dad715e0d6ab4b918649a96b224048aac214a6c754a2df9e290a88703c430d279ec9f1d06f4c4bc3de3e8292e5b077eb1b8ea82884723eb801e22fce50d82dc281c090cd65561f9fc26319dd5c68e2e25bf1982ab15a12b063e9abeadc3c5f91ff177940c65715434137bdf2d11d88cf14d9e36dd5f4212a31ce954a8c8ef2addbf0dc1ad2759187c39133141a38441ad009ebda4ccb39d17d9fcb110a55590bf8c9028ad58f1e784967b2ad72985317b0d08ec3f80b38c16f521acb68cb5408698365382fab7db7ca723cc9150b83342ff21760d315b2eb7a87d2b18f3132bbdac855ec2fbee578b5d836e93c6c1752c9b14639624372d7e26377405acb57ebdecfa13a4937e5f9c9f1d7407a601d1241079fedf77af9d799c97c877c968d067009f1bfed5119d8dfdb103b31d9bd9a/99/1280x720_2886400/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=730908&extension=ts&play_token=Eqe8eeieXi
+
+#EXTINF:-1 tvg-id="WIFR-LD.us_locals1" tvg-name="Local News Live" tvg-logo="https://drive.google.com/uc?id=1lTa73Jcq61pyKEy8s_E_vF1HsNTJUkFu" group-title="News",Local News Live
+https://zeam-playlist.aws.syncbak.com/media.m3u8?bitrate=3659760&session=878f105b540f411b8f76f56863ff35c5
 
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnn-us.png"e="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -251,8 +255,8 @@ https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italian",Rai Movie
-https://m3u.iranvids.com/rai-movie/output.m3u8
+-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italian",Rai Movie
+-https://m3u.iranvids.com/rai-movie/output.m3u8
 
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai World Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italian",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
@@ -280,10 +284,10 @@ https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/3000.m3u8
 https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/3000.m3u8
 -https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/f2aa277d-7b92-4f72-bb38-fb8d5f86bbc0/2.m3u8
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://drive.google.com/uc?id=1KgYZg9Wd86qeYufHVvEiWDzcg0QIQ7Kl" group-title="Italian",Italia 1
+#EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1" tvg-logo="https://drive.google.com/uc?id=1KgYZg9Wd86qeYufHVvEiWDzcg0QIQ7Kl" group-title="Italian",Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="https://drive.google.com/uc?id=1YfVyMGl6xHIqBCxSJuF2UMShtRI5IHNT" group-title="Italian",Italia 2
+#EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-logo="https://drive.google.com/uc?id=1YfVyMGl6xHIqBCxSJuF2UMShtRI5IHNT" group-title="Italian",Italia 2
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 -http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 
@@ -295,8 +299,8 @@ SPORTS
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 -https://sportsitalia-samsungitaly.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="Prima4K.ro" tvg-name="Prima 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-4k-ro.png" group-title="Sports",Prima 4K
-https://7pal.short.gy/prima4k
+-#EXTINF:-1 tvg-id="Prima4K.ro" tvg-name="Prima 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-4k-ro.png" group-title="Sports",Prima 4K
+-https://7pal.short.gy/prima4k
 
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/inter-tv-it.png" group-title="Sports",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -358,6 +362,9 @@ http://104.238.205.28:9090/278763_.m3u8
 -ESPN.3.br
 -ESPN.3.co - Maybe
 
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png" group-title="Sports",ESPN 4
+http://104.238.205.28:9090/278582_.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
 http://104.238.205.28:9090/278558_.m3u8
 -Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv
@@ -369,15 +376,6 @@ http://104.238.205.28:9090/278566_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Sports",ESPN 7
 http://104.238.205.28:9090/278567_.m3u8
--Canal.ESPN.7.(Bolivia).sv
--Canal.ESPN.7.(Chile).sv
--Canal.ESPN.7.(Colombia).sv
--Canal.ESPN.7.(Ecuador).sv
--Canal.ESPN.7.(Paraguay).sv
--Canal.ESPN.7.(Perú).sv
--Canal.ESPN.7.(Sudamérica).sv
--Canal.ESPN.7.(Uruguay).sv
--Canal.ESPN.7.(Venezuela).sv
 
 #EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/tudn-mx.png" group-title="Sports",TUDN
 http://104.238.205.28:9090/278571_.m3u8
@@ -416,13 +414,12 @@ http://104.238.205.28:9090/278766_.m3u8
 #EXTINF:-1 tvg-id="Canal.Fox.Sports.2.(Cono.Norte).sv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Sports",Fox Sports 2 (Spanish)
 http://104.238.205.28:9090/278767_.m3u8
 
-#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-soccer-plus-us.png" group-title="Sports",Fox Soccer Plus
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3800.ts
+-#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-soccer-plus-us.png" group-title="Sports",Fox Soccer Plus
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3800.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1968452&extension=ts&play_token=T7DRO5bvd1
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png" group-title="Sports",CBS Sports Network
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3621.ts
--https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-golazo-network-us.png" group-title="Sports",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
@@ -435,19 +432,19 @@ https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 -NBC.Sports.HD.3.us2
 -NBC.Sports.Now.us2
 
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-hd-int.png" group-title="Sports",beIN Sports
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3612.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45611&extension=ts&play_token=UCeRliE9zn
 -http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="beIN Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-espanol-us.png" group-title="Sports",beIN Sports (Spanish)
+#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="beIN Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png" group-title="Sports",beIN Sports (Spanish)
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3613.ts
 
-#EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-xtra-us.png" group-title="Sports",beIN Sports XTRA
+#EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png" group-title="Sports",beIN Sports XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 http://restream-live.realiptv.to:8080/live/33741215/82527298/3613.ts
 
-#EXTINF:-1 tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" tvg-name="beIN Sports XTRA (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-xtra-espanol-us.png" group-title="Sports",beIN Sports XTRA (Spanish)
+#EXTINF:-1 tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" tvg-name="beIN Sports XTRA (Spanish)" tvg-logo="https://drive.google.com/uc?id=1JcN6T80BFSVnlf7gGly_UmBOQ9w7qF_c" group-title="Sports",beIN Sports XTRA (Spanish)
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 -https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 
@@ -457,17 +454,17 @@ https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SNY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" group-title="Sports",SNY
 https://fl7.moveonjoy.com/SNY/index.m3u8
 
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="fubo Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fubo-sports-network-us.png" group-title="Sports",fubo Sports Network
-https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/samsung/master.m3u8
+-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="fubo Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fubo-sports-network-us.png" group-title="Sports",fubo Sports Network
+-https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/samsung/master.m3u8
 -https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/vidaa-sports-us/master.m3u8?ads.partner=vidaa-sports-us&ads.channel_name=fubo_sports_network&ads.station_id=120123&ads.vidaa_ads_param=1191211667&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3505
 
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="Sports",NFL RedZone
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3752.ts
+-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="Sports",NFL RedZone
 -https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3752.ts
 
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png" group-title="Sports",NFL Network
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3754.ts
 -https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3754.ts
 -http://84.17.40.25/NFL_NETWORK/index.m3u8
 -http://212.102.60.10/NFL_NETWORK/index.m3u8
 
@@ -1473,8 +1470,6 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
 https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
-http://104.238.205.28:9090/278518_.m3u8
 
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
@@ -1482,6 +1477,7 @@ http://104.238.205.28:9090/278518_.m3u8
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
