@@ -378,19 +378,19 @@ http://104.238.205.28:9090/278566_.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Sports",ESPN 7
 http://104.238.205.28:9090/278567_.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/tudn-mx.png" group-title="Sports",TUDN
-http://104.238.205.28:9090/278571_.m3u8
-
-#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-us.png" group-title="Sports",SEC Network
-https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
--http://1tv41.icu:8080/live/Y06DNq/295733/17608.rtmp
-
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="Sports",ESPN U
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648974.ts
 
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espnews-us.png" group-title="Sports",ESPNews
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/tudn-mx.png" group-title="Sports",TUDN
+http://104.238.205.28:9090/278571_.m3u8
+
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-us.png" group-title="Sports",SEC Network
+https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
+-http://1tv41.icu:8080/live/Y06DNq/295733/17608.rtmp
 
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACC Network
 https://fl31.moveonjoy.com/ACC_NETWORK/index.m3u8
@@ -433,13 +433,13 @@ https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 -NBC.Sports.HD.3.us2
 -NBC.Sports.Now.us2
 
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3612.ts
+-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3612.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45611&extension=ts&play_token=UCeRliE9zn
 -http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="beIN Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png" group-title="Sports",beIN Sports (Spanish)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3613.ts
+-#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="beIN Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png" group-title="Sports",beIN Sports (Spanish)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3613.ts
 
 #EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png" group-title="Sports",beIN Sports XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
@@ -463,7 +463,7 @@ https://fl7.moveonjoy.com/SNY/index.m3u8
 -https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3752.ts
 
-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png" group-title="Sports",NFL Network
+-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png" group-title="Sports",NFL Network
 -https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3754.ts
 -http://84.17.40.25/NFL_NETWORK/index.m3u8
@@ -473,8 +473,8 @@ https://fl7.moveonjoy.com/SNY/index.m3u8
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=desktop&usprivacy=1YNN&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=cc18a59d-d0af-550c-1440-97f9d1f922e8&tmsid=121705&palnonce=&rdid=cc18a59d-d0af-550c-1440-97f9d1f922e8&islat=1&atts=&attmas=&idfv=&screenw=1080&screenh=720&title=NFL%20Channel&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 -https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f/variant.m3u8?x-plex-token=-EETfHz-d7UP_agjxBcy&x-plex-advertising-identifier=&x-plex-client-identifier=adc6ceb7-aac0-4785-a164-3a4db1476509&x-plex-playback-id=p_fa952812-0aa1-4073-9f6a-9616d3699b0f&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1768544686&url=ce736b0e1a2fda2015e69989fc8bb6b0-85f010d7ecffc247a708b5552d7ada0dd8f5e7c5d77a6b245fc57d8544e8cc00a0a624687b2ba5570759835dd4a7af30cb919b27ae4295c157dc6f655be01d29de7b3ac9352e73f4cd8230b300d11201bc3864ed8f47f490d7ee31e34d57df9a777676fc00d008c76a9091aea0f13cd39fcaa08b945aba255c3b32a95286fa56b7662cec0a74db7386dc01c2181ed9fecad87a4b0198d5050d0d154681858d28&_gl=1*1csgv9g*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3Njg1NDQ2NjkkbzEkZzEkdDE3Njg1NDQ2NzckajUyJGwwJGgw
 
-#EXTINF:-1 tvg-id="NFL.SUNDAY.TICKET.RED.ZONE.us2" tvg-name="NFL Sunday Ticket RedZone" tvg-logo="https://drive.google.com/uc?id=1mnbwgLSCG5jstKLj9zg0FHBaKw27k1ND" group-title="Sports",NFL Sunday Ticket RedZone
-http://fl1.moveonjoy.com/NFL_14/index.m3u8
+-#EXTINF:-1 tvg-id="NFL.SUNDAY.TICKET.RED.ZONE.us2" tvg-name="NFL Sunday Ticket RedZone" tvg-logo="https://drive.google.com/uc?id=1mnbwgLSCG5jstKLj9zg0FHBaKw27k1ND" group-title="Sports",NFL Sunday Ticket RedZone
+-http://fl1.moveonjoy.com/NFL_14/index.m3u8
 
 #EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" tvg-name="Fight Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fight-sports-es.png" group-title="Sports",Fight Sports
 http://104.238.205.28:9090/279486_.m3u8
@@ -482,8 +482,8 @@ http://104.238.205.28:9090/279486_.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports",MLB Network
 https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mlb-network-strike-zone-us.png" group-title="Sports",MLB Strike Zone
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=91899&extension=ts&play_token=a4baWLSP7X
+-#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mlb-network-strike-zone-us.png" group-title="Sports",MLB Strike Zone
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=91899&extension=ts&play_token=a4baWLSP7X
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/mlb-vod.png" group-title="Sports",MLB
 https://d2rz3em7ql838g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cy872esk4qweb/playlist.m3u8
@@ -494,8 +494,8 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="Sports",NHL Network
 https://7pal.short.gy/nhlnw
 
-#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG Sportsnet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG Sportsnet
-http://restream-live.realiptv.to:8080/live/33741215/82527298/648959.ts
+-#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG Sportsnet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG Sportsnet
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/648959.ts
 
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fuse-us.png" group-title="Sports",Fuse
 http://fl1.moveonjoy.com/FUSE/index.m3u8
@@ -512,8 +512,8 @@ https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="Canal.Adrenalina.Sports.Network.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/adrenalina-sports-network-mx.png" group-title="Sports",Adrenalina Sports Network
 http://104.238.205.28:9090/278573_.m3u8
 
-#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wwe-us.png" group-title="Sports",WWE Network
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3701.ts
+-#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wwe-us.png" group-title="Sports",WWE Network
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3701.ts
 -https://fl7.moveonjoy.com/WWE/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45462&extension=ts&play_token=s7guKIF3uv
 
@@ -536,7 +536,7 @@ https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="https://drive.google.com/uc?id=1AeXWw0b58b3P8zjKRFXcAQQjXVJxmkgN" group-title="Sports",Golf Channel
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3651.ts
+https://fl31.moveonjoy.com/GOLF/index.m3u8
 -https://fl31.moveonjoy.com/GOLF/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/world-fishing-network-us.png" group-title="Sports",World Fishing Network
@@ -571,8 +571,8 @@ http://fl61.moveonjoy.com/Comedy_Central/index.m3u8
 -https://streamer1.nexgen.bz/COMEDY_CENTRAL/tracks-v1a1/mono.ts.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648957.ts
 
-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (West)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3626.ts
+-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (West)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3626.ts
 -http://restream-live.realiptv.to:8080/live/19742329/27604387/89211.m3u8
 
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png",HGTV
@@ -600,8 +600,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_356
 https://d2fm99ft1zcnjm.cloudfront.net/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 -http://fl61.moveonjoy.com/COURT_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="WMHT-DT.us_locals1" tvg-name="WMHT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/pbs/pbs-wmht-us.png" group-title="Documentary",WMHT
-http://restream-live.realiptv.to:8080/live/33741215/82527298/648972.ts
+-#EXTINF:-1 tvg-id="WMHT-DT.us_locals1" tvg-name="WMHT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/pbs/pbs-wmht-us.png" group-title="Documentary",WMHT
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/648972.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648971.ts
 
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="Documentary",History Channel
@@ -611,10 +611,11 @@ https://fl1.moveonjoy.com/history_channel/index.m3u8
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Smithsonian.Channel.ca2" tvg-name="Smithsonian Channel (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/smithsonian-channel-us.png" group-title="Documentary",Smithsonian Channel (East)
-https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/mpegts
+https://fl31.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+-https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/mpegts
 
-#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/smithsonian-channel-us.png" group-title="Documentary",Smithsonian Channel (West)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/631865.ts
+-#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/smithsonian-channel-us.png" group-title="Documentary",Smithsonian Channel (West)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/631865.ts
 
 #EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/reelz-us.png" group-title="Documentary",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
@@ -624,26 +625,26 @@ http://23.237.104.106:8080/USA_REELZ/index.m3u8
 https://fl1.moveonjoy.com/SYFY/index.m3u8
 -http://104.255.88.155/syfy/mpegts
 
-#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="SyFy (West)" tvg-logo="https://i.imgur.com/4fMWhUE.png",SyFy (West)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3841.ts
+-#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="SyFy (West)" tvg-logo="https://i.imgur.com/4fMWhUE.png",SyFy (West)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3841.ts
 
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (East)
 http://fl61.moveonjoy.com/FX/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3642.ts
 -http://1tv41.icu:8080/live/Y06DNq/295733/46690.m3u8
 
-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (West)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3832.ts
+-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (West)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3832.ts
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxm-movie-channel-us.png",FX Movie Channel
 http://fl61.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png",FXX (East)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3737.ts
--http://fl61.moveonjoy.com/FXX/index.m3u8
+http://fl61.moveonjoy.com/FXX/index.m3u8
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3737.ts
 
-#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FXX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png",FXX (West)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3833.ts
+-#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FXX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png",FXX (West)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3833.ts
 
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI" tvg-logo="https://i.imgur.com/PggQk7F.png",FYI
 http://fl31.moveonjoy.com/FYI/index.m3u8
@@ -663,8 +664,8 @@ https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 -https://fl31.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png",National Geographic (West)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3838.ts
+-#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png",National Geographic (West)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3838.ts
 
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="National Geographic Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nat-geo-wild-us.png",National Geographic Wild
 https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
@@ -691,8 +692,8 @@ http://fl1.moveonjoy.com/INSP/index.m3u8
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/hKDccCL.png",Motor Trend
 http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
-https://25dee28f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/d02653bc-3ddf-44d6-8117-c99acd275841/0.m3u8
+-#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
+-https://25dee28f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/d02653bc-3ddf-44d6-8117-c99acd275841/0.m3u8
 
 #EXTINF:-1 tvg-id="IT:.Motoretrò.be" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw",Motoretrò (Italian)
 https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
@@ -732,15 +733,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=47&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (East)
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (West)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3644.ts
+-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (West)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3644.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3831.ts
 
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cooking-channel-us.png" group-title="Cooking",Cooking Channel
 http://fl61.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/tastemade-vod-us.png" group-title="Cooking",Tastemade
-http://restream-live.realiptv.to:8080/live/33741215/82527298/2405.ts
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In The Kitchen" tvg-logo="https://i.qxh.com/image/resource/66741494be2bbffc6dc1d975/logo_16-9/U3g5xU6vP/original.png",In The Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
@@ -780,8 +781,8 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 -http://23.237.104.106:8080/USA_E/mpegts
 -http://fl61.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (West)" tvg-logo="https://i.imgur.com/TWFDkap.png",E! (West)
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3830.ts
+-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (West)" tvg-logo="https://i.imgur.com/TWFDkap.png",E! (West)
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/3830.ts
 
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform" tvg-logo="https://i.imgur.com/BGAGeIf.png",Freeform
 https://fl7.moveonjoy.com/FREE_FORM/index.m3u8
@@ -833,8 +834,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a294d3e1a2
 -http://lb57.xxip9.top:25461/live/Y06DNq/295733/10464.m3u8?token=ThFcUhFaQQwRCgdWU1BUVwAGUFMDBFEBU1pUUQtQClBQAwJWUApbBgMQHkdBQURQV1g7WFQWCgNTVlUHFRFGQVBBa1oGEFkUAgMHXAMDFBkUQQ1cVRYKAk9AE1pdEQkQAAMNAVsQTxRWSkYAQFtXWWlRAUdZV1UQWQwWX1UfEV1bbFBWD1MNUhEIEFUQGRRcRUVGC15BXF5PQAFaTUFSRlARDhFbBFUUHxBRCkdbQkdPF14TZWcSHkEHG0dcXUBbWl0WCUBfUEMLEB5HW0ZpR1NGEENVVV1XEUBZEQkRHxBYUkxsAV0NWFZRRgxdW0UXDBdRExwWXV0NCxdcS2xDW1ERDhFVBlIBEU8=
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png",A&E
-http://restream-live.realiptv.to:8080/live/33741215/82527298/3607.ts
--https://fl61.moveonjoy.com/ANE/index.m3u8
+https://fl61.moveonjoy.com/ANE/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png",AMC
 http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -859,8 +859,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 -http://41.205.93.154/ANIMALPLANET/index.m3u8
 
-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/love-nature-es.png",Love Nature
-http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/love-nature-es.png",Love Nature
+-http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png",MTV
 https://fl61.moveonjoy.com/MTV/index.m3u8
@@ -876,14 +876,14 @@ http://fl61.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Flow Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/mtv-latino-vod.png" group-title="Entertainment",MTV Flow Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV Tr3s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tres-us.png" group-title="Music",MTV Tr3s
-http://restream-live.realiptv.to:8080/live/33741215/82527298/89996.ts
+-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV Tr3s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tres-us.png" group-title="Music",MTV Tr3s
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/89996.ts
 
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-2-us.png" group-title="Music",MTV2
 http://fl1.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" group-title="Music",NickMusic
-http://restream-live.realiptv.to:8080/live/33741215/82527298/89095.ts
+-#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" group-title="Music",NickMusic
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/89095.ts
 
 #EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-2k-vod.png" group-title="Music",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
@@ -893,8 +893,7 @@ https://tinyurl.com/5e8dj3d2
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevohiphop-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTE0MjA5OH0
 
 #EXTINF:-1 tvg-id="Vevo.True.School.Hip-Hop.us2" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-true-school-hip-hop-vod.png" group-title="Music",Vevo True School Hip-Hop
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=9.18.0-32296d47c9882754e360f1b28a33027c54cbad16&app_name=web&clientDeviceType=0&clientID=c0561b0d-cdab-4a0f-aacd-b89453862ed8&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=c0561b0d-cdab-4a0f-aacd-b89453862ed8&deviceLat=42.3900&deviceLon=-88.3500&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=139.0.0&marketingRegion=US&serverSideAds=false&sessionID=658c3ced-f544-11f0-9f06-8eae8715d1cc&sid=658c3ced-f544-11f0-9f06-8eae8715d1cc&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlZjk4MDc4LTI3MmMtNDExOC1iMTQ3LTc2ZDk2ZWExYTY5YSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2NThjM2NlZC1mNTQ0LTExZjAtOWYwNi04ZWFlODcxNWQxY2MiLCJjbGllbnRJUCI6IjUwLjQ0LjkyLjE2MiIsImNpdHkiOiJXb25kZXIgTGFrZSIsInBvc3RhbENvZGUiOiI2MDA5NyIsImNvdW50cnkiOiJVUyIsImRtYSI6NjAyLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6NDIuMzg5OTk5Mzg5NjQ4NDQsImRldmljZUxvbiI6LTg4LjM0OTk5ODQ3NDEyMTEsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzOS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTguMC0zMjI5NmQ0N2M5ODgyNzU0ZTM2MGYxYjI4YTMzMDI3YzU0Y2JhZDE2IiwiY2xpZW50SUQiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9DaGljYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJhZExvYWQiOnsiY29ob3J0IjoiIn0sIm11bHRpQXVkaW8iOnsiZW5hYmxlZCI6dHJ1ZX0sIm11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9LCJzZWFyY2hBUEkiOnsicXVlcnlWZXJzaW9uIjoiaHlicmlkIn0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhZNjM5NWQtT2JMbVFmX0tjbDAwWGlvVEtjUWV2b3pnUGwzS1NBRmVkVWh2WTVXSGMiLCJmd1ZjSUQyQ29wcGEiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImMwNTYxYjBkLWNkYWItNGEwZi1hYWNkLWI4OTQ1Mzg2MmVkOCIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWFk2Mzk1ZC1PYkxtUWZfS2NsMDBYaW9US2NRZXZvemdQbDNLU0FGZWRVaHZZNVdIYyIsImZtc19oaF9yYW1wX2lkIjoiaFk2Mzk1YWpkdjVqcjVDU3RXNVJuR2xSZ21BaVpKbS00QkRZUGViXzVPSXlFYXFuOCIsImZtc19iaWRpZHR5cGUiOiIxMDQyLDEwNTIsMTAzMiwxMDEyLDEwNzIsMTA4MiIsIl9md18zUF9VSUQiOiJJREw6QXQxb015cXFNcko2bkFoWjBZVVpGTXM1bnRxXzJCd0hCR2plTGlJc193LWxpNk4wRWp6ZnktSHRoMWVJVWVqb05XTlV6aGNjemRZWWZBcUFpWmxBR1JSX0I2bUM3aUxROWFvQjN1RXI0OHZKbktldTFrZGlPTk5teUZSM2JSWXRRcVpHXzRSV25QVW5jRnlucDJSYkhiNllaQ1MxeG9mbUJfaC00OEdOSEJJaGh6MFNnOV8zNmNzbXMxdWwwY0tYY0RqQXhiVE5LcllYVFlqaTlndUlSRGpHVW5PanJXRVJKMU1WVXhlOFhEUE9MRGo4eG91UFplNFl5QVU3M0lGWEYteU1XbklIbTR0V1g2WmxoWjJLOU85RnBXNVZZejNIMy1jVHRzS2k1V0ZDMWhaVWhVVWRseWxDZlI1LTlGbHIxSVctLXcwaXBqOXhXZU1PejZNd3ZMQ2xFQjJ2YUktYVdmSVhNcTMyV1EsUEFJUklEOkF3QjJ0VEk2UHhEUlRNaEVvR2dZYkczSmQ4aVFNbHh6K29vaitYMkp3dlNULGNvbm5lY3RpZDpjQmtsZ3pVWFdiQVhZdTFvZmpXY3RON3ZQUDNENXJfQVQzVDVfeGhZbU5qSVdkc2pCWUZqeVJfRllIVFByZXZnb1BWbnFUN1djWXBjQjNkVGZubVh6dyxVSUQyOkE0QUFBQ2FlRXllYzlJdjI1T1U5bE1ZTjE5SnlyRkdfZXJPTW9ETHRDUjVuWmt0bzJyWUVCWXYxS1FyOUZYTlhZV2FJTmthMWVDM1ZFTW5NV1R6ekdNTm1kSjRSYVFqakdScGxNYlZmSHRxX2tlcTlWMzMtZGVHT3UxODVZR2VMak1Xa3ZnbUpxOTV5b0VQWlFjcW1kSThFaHZXVHNrODBWVVpFbW9yV1oyekZtZmkta0cxbmkxbWxqR2hrNm5UWk9SLWs2X0tUX3NZVTIxb2syNXJYRk9jNFNnLFZJQU5UUDoyOTllMTUxYTIxMmEyYTdhODMwNDY4MDEyOTc4YTU5NWQ1MDE2OGQxN2I3Y2EyYWRkZjMwZjk2N2RjZDQ0YjVjLFRJTlVJVEk6YmNkZDE1MzE4MmFiNWY0YzA4NjI2YWE5MzU4ODQ5N2YyYzhjOGEzN2YwY2UxNWExMTJhNTIxYTY4MjBlYTY4ZCIsImZtc19ydWxlaWQiOiIxMDAwOSwxMDAwMCJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDEifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOll6QTFOakZpTUdRdFkyUmhZaTAwWVRCbUxXRmhZMlF0WWpnNU5EVXpPRFl5WldRNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3Njg5MTk4NTUsImlhdCI6MTc2ODgzMzQ1NSwianRpIjoiMzQ3MGE5ZGQtZTJkYi00NGJiLWIwZjYtNTE0ZDkwZWRkNjI0In0.4lMLCotsjIhNma1ReZhKgQmOp-tvQTXguZ8pf4Cjc_M&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQErAAOtvZyP7gf61NMfmCMgTT95qkd56diQvjluZr_BglQFpDFxBr8K2h4ESaPnnnXXadZxE5Yt-XPcRUjnySk_JLC4BhtCMRzYZhWbU4onnh8KSiSu1sMWodGQIUKAvw4rd_2FcLdAPxvFxwgU8kK0qkaXufmWxybMIEUMfKDz1eu4BN2OTyh_8VYT0M7BWJN-hmpS9TNQvHpAjQ-ZR7T0tlgDFjvqAPj5QSrVCkbZYu2OfKC5rMeyKdma_gtA1h51chvckNTchd4iXYlX5zGsNaXhDipkf5HHnLLS8Y-pQTi_aBNb1jkdG39hdY9FdDRrahJBPg2uOpmoBUDfZJRp3QpEcdLcPUvc07qYA1AHbH3LNvalZHG7Rht39Qa9owk5mEeNv5WNTOGe_ApuB2BlMQOm6HblbpouAHXIyTPG3XYMg1CgpqKU10aAkttj-P5pY6ATxCAVzOHkpMAMeBKfVyiXGqeBzDfjMzNKJfxusWTuvUpQ4ufzHLbv38IM8HHLbSjAateUO0aNmnfF0m1zVqXWejHp8LUVblRyJDsBmhIg_tYa0W9TIr5rjR4rVVP9xwNVXsJQGX66mdGnqqD_OookfSA6DeeEhA356tmCpj5FMyCQDxfNfJ0L2CBH8g4WjGD0XRb4pq0sJBtYXa2e-aupwQGtCNMzVTUkmu24FVK4Hx1IYgfyjyts3xiDf0FjmjrNOXd9ppI1P-ntPvB_916mNaQBgImGbEJxyCmN9o4icXqtuy3uhSuSKbz6yhNDCrM97Hzm9vH3qefkoq7DA3VGCKiliYMmCJX5HtyffWQjv1d-ivif6jE886_Rq32OIsrdG2bgZ3R45uXm6vihAZ0HXvLQlxby8_nuitHQOUavhoI0KLByi910emCt_ciCz0WMbN26NENJz3AWWP0YmSE7G85nHttWA9ZHMpPbRjIkk72gjKVECmTiSQAUezeG7zGNky8r8g5xoiYlQ7eMw_fCqj-7pZFSS9fOk_3CotYeWPRsWnq8qtfFhHI6zsNr_adIcpylqIBHJjh14rjWdGlpozQ8Lyj8m2TvjdP5toqsudjE_b-wo7Ns_zKNdQhth8hR82s9K7_lGFBdoO2qquP4YJxkR519KtaJbB4BipeeH331QYvSIFMVnTamzALsW5Eze1KsTZQ7OdmW9-gwIh3usogNdqRURrmkNUz6O8lKYU.&gpp=DBABLA~BVQqAAAAAWA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2214c59d95-1e6a-43cd-ab60-f53f2e8a7a73%22%2Csu
--https://tinyurl.com/4bt5kay5
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e&userId=&serverSideAds=true
 -http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 
 #EXTINF:-1 tvg-id="Vevo.R.andB.us2" tvg-name="Vevo R&B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-r-and-b-vod.png" group-title="Music",Vevo R&B
@@ -1481,6 +1480,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
