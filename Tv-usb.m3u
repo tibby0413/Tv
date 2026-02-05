@@ -1114,10 +1114,10 @@ http://fl31.moveonjoy.com/HBO_COMEDY/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951701&extension=ts&play_token=9Hf66Wsmsz
 
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz (East)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (East)
-http://fl31.moveonjoy.com/STARZ/index.m3u8
+http://fl31.moveonjoy.com/STARZ/tracks-v1a1/mono.ts.m3u8
+-http://fl31.moveonjoy.com/STARZ/index.m3u8
 -http://212.102.60.10/STARZ/index.m3u8
 -http://23.237.104.106:8080/USA_STARZ/mpegts
--http://fl2.moveonjoy.com/STARZ/index.m3u8
 
 -#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="Starz (West)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (West)
 
@@ -1566,6 +1566,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
