@@ -218,6 +218,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830
 -https://stream.ads.ottera.tv/playlist.m3u8?network_id=4912
 -https://stream.ads.ottera.tv/playlist.m3u8?network_id=4771
 -https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7331
 
 #EXTINF:-1 tvg-id="Galavision.Cable.Network.HD.us2" tvg-name="Galavision (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/galavision-us.png" group-title="Series",Galavision (East)
 http://104.238.205.28:9090/278710_.m3u8
@@ -706,6 +707,9 @@ http://fl1.moveonjoy.com/INSP/index.m3u8
 
 -#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
 -https://25dee28f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/d02653bc-3ddf-44d6-8117-c99acd275841/0.m3u8
+
+#EXTINF:-1 tvg-id="UK:.MOTORVISION.TV.be" tvg-name="MotorVision Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/motorvision-tv-fr.png" group-title="Auto",MotorVision Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5401
 
 #EXTINF:-1 tvg-id="IT:.Motoretrò.be" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw",Motoretrò (Italian)
 https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
@@ -1545,6 +1549,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
