@@ -532,7 +532,7 @@ http://104.238.205.28:9090/278573_.m3u8
 
 -#EXTINF:-1 tvg-id=" " tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/impact-wrestling-vod-us.png" group-title="Sports",Impact Wrestling
 
-#EXTINF:-1 tvg-id=" " tvg-name="TNA Wrestling" tvg-logo="https://image.tmdb.org/t/p/original/uODRfl55zJOsj90grWAw569brZk.png" group-title="Sports",TNA Wrestling
+#EXTINF:-1 tvg-id="plex.tv.TNA.Wrestling.Channel.plex" tvg-name="TNA Wrestling" tvg-logo="https://image.tmdb.org/t/p/original/uODRfl55zJOsj90grWAw569brZk.png" group-title="Sports",TNA Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
 -https://www.nicepng.com/png/full/141-1414956_tna-wrestling-tna-logo.png
 
@@ -1565,6 +1565,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
