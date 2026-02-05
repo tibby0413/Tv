@@ -322,20 +322,24 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 -https://i.imgur.com/TQFWEIS.png - Canal do Inter 
 
--#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 1" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports",Premier Sports 1
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports",Premier Sports 1
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117037
 -https://7pal.short.gy/prsport1
 -https://46.229.251.19/live/P4B9TB9xR8/humongous2tonight/5029.ts?token=ShJcU0BbQQNHAQ1ZDwcMCgxSCAlfDFBYV1AHAVBUAlEBBlYKCgMFW1EbGBpEF0dcWF1vWQIXXlQBUFsbRxFAV0NvXVYRCUEIUAsHDQ5TFxUbRFldAxdeUAZUWgVTVgIGBxwWQlpXQQNHDQUAB1YFGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BAwAPABIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVRBA4BCQEEREg=
 
--#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports",Premier Sports 2
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports",Premier Sports 2
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117038
 -https://7pal.short.gy/prsport2
 -https://46.229.251.19/live/P4B9TB9xR8/humongous2tonight/5029.ts?token=ShJcU0BbQQNHAQ1ZDwcMCgxSCAlfDFBYV1AHAVBUAlEBBlYKCgMFW1EbGBpEF0dcWF1vWQIXXlQBUFsbRxFAV0NvXVYRCUEIUAsHDQ5TFxUbRFldAxdeUAZUWgVTVgIGBxwWQlpXQQNHDQUAB1YFGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BAwAPABIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVRBA4BCQEEREg=
 
-#EXTINF:-1 tvg-id="plex.tv.FIFA+.plex" tvg-name="FIFA+" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs-512x512.png" group-title="Sports",FIFA+
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
--FIFAPlus.uk
+#EXTINF:-1 tvg-id="UK:.FIFA+.be" tvg-name="FIFA+" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs-512x512.png" group-title="Sports",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IT:.FIFA+.be" tvg-name="FIFA+ (Italian)" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs-512x512.png" group-title="Sports",FIFA+ (Italian)
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.FIFA+.plex" tvg-name="FIFA+ (USA)" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs-512x512.png" group-title="Sports",FIFA+ (USA)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-name="FIFA+ Women" tvg-logo="https://drive.google.com/uc?id=1FYHeEqNUnz3SqwzXYqVUtCh7OoBq_Ohe" group-title="Sports",FIFA+ Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
@@ -496,8 +500,8 @@ https://7pal.short.gy/nhlnw
 -#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG Sportsnet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG Sportsnet
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648959.ts
 
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fuse-us.png" group-title="Sports",Fuse
-http://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/big-ten-network-us.png" group-title="Sports",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.UFC.plex" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ufc-us.png" group-title="Sports",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
@@ -528,6 +532,9 @@ http://104.238.205.28:9090/278573_.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/impact-wrestling-vod-us.png" group-title="Sports",Impact Wrestling
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id=" " tvg-name="TNA Wrestling" tvg-logo="https://www.nicepng.com/png/full/141-1414956_tna-wrestling-tna-logo.png" group-title="Sports",TNA Wrestling
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/wpt-world-poker-tour-vod-us.png" group-title="Sports",World Poker Tour
 https://s3host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config4/scheduler/scheduleMaster/95.m3u8?ads.cdnhost=s3host4.localnow.api.cms.amdvids.com&ads.playbackid=9C74C2C7-6B77-4AFD-A514-4EF082394381&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=9C74C2C7-6B77-4AFD-A514-4EF082394381&ads.n4=content_name&ads.v4=EPG%20%7C%20World%20Poker%20Tour&ads.n21=w&ads.v21=1920&ads.n22=device_model&ads.v22=&ads.n23=channel_brand_id&ads.v23=AMDB012133&ads.n24=ip&ads.v24=86.48.9.131&ads.n25=app_name&ads.v25=&ads.n26=channel_rating&ads.v26=TV-PG&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=content_custom_1_param&ads.v28=9C74C2C7-6B77-4AFD-A514-4EF082394381&ads.n29=content_custom_3_param&ads.v29=channel&ads.n30=ifa_type&ads.v30=&ads.n31=h&ads.v31=1080&ads.n32=channel_ext_id&ads.v32=5f734a4a0a6064513436ac12&ads.n33=device_type&ads.v33=&ads.n34=gpp&ads.v34=&ads.n35=channel_id&ads.v35=9C74C2C7-6B77-4AFD-A514-4EF082394381&ads.n36=app_version&ads.v36=0.0.0&ads.n37=channel_name&ads.v37=EPG%20%20World%20Poker%20Tour&ads.n38=content_livestream&ads.v38=1&ads.n39=content_type&ads.v39=channel&ads.n40=app_bundle&ads.v40=&ads.n41=device_make&ads.v41=&ads.n42=network_name&ads.v42=world-poker-tour&ads.n43=channel_corp&ads.v43=WPT%20Enterprises%20INC&ads.n44=pos&ads.v44=midroll&ads.n45=channel_language&ads.v45=en&ads.n46=cust_devicename&ads.v46=desktop_web&ads.n47=url&ads.v47=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n48=app_store_url&ads.v48=&ads.n49=channel_company_id&ads.v49=AMDP500162&ads.n50=content_custom_2_param&ads.v50=AMDB012133&ads.n51=dnt&ads.v51=&ads.n52=channel_title&ads.v52=EPG%20%20World%20Poker%20Tour&ads.n53=channel_genre&ads.v53=Gaming&ads.n54=did&ads.v54=&ads.n55=content_provider&ads.v55=world-poker-tour&ads.n56=content_producer_name&ads.v56=WPT%20Enterprises%20INC&ads.n57=gpp_sid&ads.v57=&ads.n58=us_privacy&ads.v58=1YNY
@@ -692,6 +699,9 @@ https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="get.us2" tvg-name="GetTV" tvg-logo="https://i.imgur.com/evOWORd.png",GetTV
 https://fl31.moveonjoy.com/GET_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fuse-us.png" group-title="Entertainment",Fuse
+http://fl1.moveonjoy.com/FUSE/index.m3u8
+
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="OWN (Oprah Winfrey Network) (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/oprah-winfrey-network-us.png" group-title="Entertainment",OWN (Oprah Winfrey Network) (East)
 http://23.237.104.106:8080/USA_OWN/index.m3u8
 
@@ -710,6 +720,9 @@ http://fl1.moveonjoy.com/INSP/index.m3u8
 
 -#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
 -https://25dee28f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/d02653bc-3ddf-44d6-8117-c99acd275841/0.m3u8
+
+#EXTINF:-1 tvg-id="NASCAR.Channel.us2" tvg-name="Nascar" tvg-logo="https://www.nicepng.com/png/full/143-1432148_nascar-logo-nascar-logo-white-png.png" group-title="Auto",Nascar
+https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UK:.MOTORVISION.TV.be" tvg-name="MotorVision Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/motorvision-tv-fr.png" group-title="Auto",MotorVision Tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5401
@@ -1084,7 +1097,7 @@ http://fl31.moveonjoy.com/HBO_ZONE/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45546&extension=ts&play_token=fSFA7Bf0xB
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png" group-title="Movies",HBO Comedy
-http://restream-live.realiptv.to:8080/live/33741215/82527298/648977.ts
+http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 -http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45551&extension=ts&play_token=TvNWxxxwQs
 
@@ -1552,6 +1565,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
