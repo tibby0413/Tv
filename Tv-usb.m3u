@@ -591,7 +591,7 @@ http://fl61.moveonjoy.com/Comedy_Central/index.m3u8
 http://fl41.moveonjoy.com/HGTV/index.m3u8
 -https://streamer1.nexgen.bz/HGTV/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Tiny.House.Nation.plex" tvg-name="Tiny House Nation" tvg-logo="https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABYbfvZ8L3x9PRRV7564zV0fNwL0Rcwd7BvTkrYo8B3bsbkUzzyWvKhfAtua6j8dHOM0J0W-zj9YN6qBMDeK8MDj4Xc9GDBgHlQ.png?r=4e9",Tiny House Nation
+#EXTINF:-1 tvg-id="" tvg-name="Tiny House Nation" tvg-logo="https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABYbfvZ8L3x9PRRV7564zV0fNwL0Rcwd7BvTkrYo8B3bsbkUzzyWvKhfAtua6j8dHOM0J0W-zj9YN6qBMDeK8MDj4Xc9GDBgHlQ.png?r=4e9",Tiny House Nation
 https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzM4Nzc5MjIyMn0
 
 #EXTINF:-1 tvg-id="Homeful.au" tvg-name="Homeful" tvg-logo="https://drive.google.com/uc?id=1NWAkvumdqs7mOEx67nNbuzcyAwg14AI4",Homeful
@@ -1552,6 +1552,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
