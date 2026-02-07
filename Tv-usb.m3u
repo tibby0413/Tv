@@ -486,7 +486,7 @@ https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 -#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mlb-network-strike-zone-us.png" group-title="Sports",MLB Strike Zone
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=91899&extension=ts&play_token=a4baWLSP7X
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/mlb-vod.png" group-title="Sports",MLB
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Baseball" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/mlb-vod.png" group-title="Sports",MLB Baseball
 https://d2rz3em7ql838g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cy872esk4qweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-icon-us.png" group-title="Sports",NBA TV
@@ -549,7 +549,7 @@ https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 tvg-id="PL:.World.Billiards.TV.be" tvg-name="World Billiards" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B31D4280-4054-4740-A3E3-68C9D079CEA8/3-1x1.png" group-title="Sports",World Billiards
 https://22e6c1b73ed34fd09b19cd2928813cb4.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_WorldBilliardsTV/playlist.m3u8?ads.content_provider=world-billiards-tv&ads.ip=86.48.9.131&ads.device_type=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.coppa=0&ads.device_model=&ads.cust_devicename=&ads.us_privacy=1YNY&ads.device_make=&ads.wurl_channel=967&ads.app_bundle=&ads.content_title=B31D4280-4054-4740-A3E3-68C9D079CEA8&ads.channel_company_id=AMDP500403&ads.did=&ads.content_genre=Sports&ads.dnt=&ads.content_id=B31D4280-4054-4740-A3E3-68C9D079CEA8&ads.ifa_type=&ads.app_name=&ads.channel_ext_id=62a267d4c8297311d4436cc2&ads.channel_corp=NEW%20ID%20Co%20LTD&ads.channel_brand_id=AMDB012778&ads.wurl_name=WorldBilliardsTV&ads.app_store_url=&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
 
-#EXTINF:-1 tvg-id="Strongman.us" tvg-name="Strongman Champions League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/strongman-champions-league-vod.png" group-title="Sports",Strongman Champions League
+#EXTINF:-1 tvg-id="plex.tv.Strongman.Champions.plex" tvg-name="Strongman Champions League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/strongman-champions-league-vod.png" group-title="Sports",Strongman Champions League
 https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png" group-title="Sports",Tennis Channel
@@ -725,7 +725,7 @@ http://fl1.moveonjoy.com/INSP/index.m3u8
 -#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" tvg-name="Motorsport.tv" tvg-logo="https://drive.google.com/uc?id=1zpZGHQB-MAKv1Wg_hRMvlJ8BEllnCO2N",Motorsport.tv
 -https://25dee28f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/d02653bc-3ddf-44d6-8117-c99acd275841/0.m3u8
 
-#EXTINF:-1 tvg-id="NASCAR.Channel.us2" tvg-name="Nascar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-nascar-us.png" group-title="Auto",Nascar
+#EXTINF:-1 tvg-id="NASCAR.Channel.us2" tvg-name="Nascar Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-nascar-us.png" group-title="Auto",Nascar Channel
 https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UK:.MOTORVISION.TV.be" tvg-name="MotorVision Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/motorvision-tv-fr.png" group-title="Auto",MotorVision Tv
@@ -1571,6 +1571,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
