@@ -62,8 +62,8 @@ https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index
 https://fl7.moveonjoy.com/WGN/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=290879&extension=ts&play_token=kqYsJmSp9O
 
-#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="FOX 13 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-13-whbq-us.png" group-title="News",FOX 13 (Tennessee)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+-#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="FOX 13 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-13-whbq-us.png" group-title="News",FOX 13 (Tennessee)
+-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
 https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
@@ -1629,6 +1629,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
