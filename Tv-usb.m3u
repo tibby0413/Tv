@@ -1142,6 +1142,7 @@ http://fl31.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png" group-title="Movies",HBO Comedy
 http://fl31.moveonjoy.com/HBO_COMEDY/index.m3u8
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/648977.ts
 -http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45551&extension=ts&play_token=TvNWxxxwQs
 
@@ -1224,7 +1225,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/74685.ts
 #EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="RetroPlex (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/plex-retroplex-us.png" group-title="Movies",RetroPlex (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/74686.ts
 
-#EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/plex-movieplex-us.png" group-title="Movies",MoviePlex
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/plex-movieplex-us.png" group-title="Movies",MoviePlex (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/93060.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/93060.ts
 
@@ -1275,7 +1276,7 @@ http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648986.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=92018&extension=ts&play_token=H04ERo1ftx
 
-#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="SHO×BET" tvg-logo="https://drive.google.com/uc?id=1qfRRmAPhNyXtilPOjEK5iP641xJ9mYS4" group-title="Movies",SHO×BET
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="SHO×BET (West)" tvg-logo="https://drive.google.com/uc?id=1qfRRmAPhNyXtilPOjEK5iP641xJ9mYS4" group-title="Movies",SHO×BET (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/648983.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648983.ts
 
@@ -1628,6 +1629,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
