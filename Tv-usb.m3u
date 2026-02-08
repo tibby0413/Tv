@@ -485,10 +485,12 @@ http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117072
 http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117074
 
 -#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="Sports",NFL RedZone
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3752.ts
 -https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3752.ts
 
--#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png" group-title="Sports",NFL Network
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3754.ts
 -https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3754.ts
 -http://84.17.40.25/NFL_NETWORK/index.m3u8
@@ -1629,6 +1631,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
