@@ -1289,7 +1289,8 @@ http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 -https://fl31.moveonjoy.com/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies",Cinemax (West)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2611.ts?v=123
+https://dal4.rocketdns.info:25463/live/52748969/72335180/2611.ts?v=123&token=HkNcWEBYFAkUCAUHC1ZUBApWBFUGD10CAFlRCAFUUVBTWFUKAFJTBgISH0ZAFRFRUwtoXlQaXgFUUAIdERBBVhc+XV0RChQBBwkKVApDTxZGD1pSEgJVBFVRBQMFUwEBSUNEUFcSDBEOBAJcAVNBGBADT0NVSgpSDj5XVEUMUVZHW1pMX1waEVlebABWDAJaVkQNFQAaSBELEkMTCQtHXwlNFltaRERSQlURXhFSWwQDRBsVU1cRXRYTShMJR2dgR00WXEtEU11FWVwKEVtBQEFEGxVZSztBBxJHQ1YEX1YXQw4bAxIaEVtRSztQDg1aVwVDXl9WFxFYQwETH0dfXAsIQFZBb0ZaUhIJRgBXVgAKVgIVTQ==
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/2611.ts?v=123
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/2611.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45594&extension=ts&play_token=FpM6wpIjy7
 
@@ -1631,6 +1632,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
