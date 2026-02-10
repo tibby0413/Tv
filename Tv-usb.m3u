@@ -603,6 +603,12 @@ https://wttwdt.lls.pbs.org/out/v1/bab398469bfc4defb18cc596c47e42ca/index.m3u8
 #EXTINF:-1 tvg-id="KUNS-DT.us_locals1" tvg-name="CW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png" group-title="General",CW
 http://104.238.205.28:9090/278689_.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.CW.Forever.plex" tvg-name="CW Forever" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/cw-forever/channel-icon-unfocused.png" group-title="Entertainment",CW Forever
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
+
+#EXTINF:-1 tvg-id="plex.tv.CW.Gold.plex" tvg-name="CW Gold" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/cw-gold/channel-icon-focused.png" group-title="Entertainment",CW Gold
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
+
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png",Paramount Network
 https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 -https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
@@ -1633,6 +1639,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
