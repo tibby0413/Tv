@@ -440,6 +440,9 @@ https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports Now" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-sports-us.png" group-title="Sports",NBC Sports Now
 https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
 
+#EXTINF:-1 tvg-id="plex.tv.Pac-12.Insider.plex" tvg-name="Pac-12 Insider" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/pac-12-insider/channel-icon-unfocused.png" group-title="Sports",Pac-12 Insider
+https://amg00384-pac12fast-amg00384c1-cw-us-7206.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
+
 -#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45611&extension=ts&play_token=UCeRliE9zn
 -http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
@@ -735,6 +738,9 @@ https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Untold.Stories.of.the.ER.plex" tvg-name="Untold Stories of the ER" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/cw-untold-stories-of-the-er/channel-icon-unfocused.png" group-title="Entertainment",Untold Stories of the ER
 https://amg01312-cw-amg01312c32-cw-us-4771.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-untoldstoriesoftheer-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
+#EXTINF:-1 tvg-id="plex.tv.Dr..G:.Medical.Examiner.plex" tvg-name="Dr.G: Medical Examiner" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/dr-g-medical-examiner/channel-icon-unfocused.png" group-title="Documentary",Dr.G: Medical Examiner
+https://amg00512-amg00512c4-cw-us-2473.playouts.now.amagi.tv/playlist/amg00512-filmrisefast-drgmedicalexaminer-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
+
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png",National Geographic (East)
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 -https://fl31.moveonjoy.com/National_Geographic/index.m3u8
@@ -777,29 +783,32 @@ https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playl
 #EXTINF:-1 tvg-id="UK:.MOTORVISION.TV.be" tvg-name="MotorVision Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/motorvision-tv-fr.png" group-title="Auto",MotorVision Tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5401
 
-#EXTINF:-1 tvg-id="IT:.Motoretrò.be" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw",Motoretrò (Italian)
+#EXTINF:-1 tvg-id="IT:.Motoretrò.be" tvg-name="Motoretrò (Italian)" tvg-logo="https://drive.google.com/uc?id=1CL2_q3n3ntg1V55AZbfGVMvFTCH71-dw" group-title="Auto",Motoretrò (Italian)
 https://amg14891-amg14891c2-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c2-amgplt0165/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/hKDccCL.png",Discovery Turbo (Motor Trend)
+#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/hKDccCL.png" group-title="Auto",Discovery Turbo (Motor Trend)
 http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-turbo-us.png",Discovery Turbo Tv
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-turbo-us.png" group-title="Auto",Discovery Turbo Tv
 https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438&ads._fw_ifa_type=dpid&ads._fw_did=ea9bdec2-95c5-524d-320e-eb3b637f13dc&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WBDMotorTrendFASTTV&ads.csid=xumo_desktopweb_WBDMotorTrendFASTTV_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=IAB2&ads._fw_content_language=undefined&ads._fw_content_genre=Automotive&ads._fw_content_rating=TV-PG&ads.xumo_contentId=4240&ads.xumo_contentName=WBDMotorTrendFASTTV&ads.xumo_providerId=4240&ads.xumo_providerName=WBDMotorTrendFASTTV&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951438&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.20.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 -https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/77701c6a-89e7-4510-865c-b3c528f2a903/3.m3u8
 
-#EXTINF:-1 tvg-id="Powersports.World.distro" tvg-name="PowerSports World TV" tvg-logo="https://drive.google.com/uc?id=1mP2QWDHai70Ey0EuNKkATJhpts8niplJ",PowerSports World TV
+#EXTINF:-1 tvg-id="plex.tv.Top.Gear.plex" tvg-name="Top Gear UK" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/top-gear-uk/channel-icon-unfocused.png" group-title="Auto",Top Gear UK
+https://amg00793-bbcstudios-amg00793c5-cw-us-5849.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
+
+#EXTINF:-1 tvg-id="Powersports.World.distro" tvg-name="PowerSports World TV" tvg-logo="https://drive.google.com/uc?id=1mP2QWDHai70Ey0EuNKkATJhpts8niplJ" group-title="Auto",PowerSports World TV
 https://s5host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/bbb/pwrsp/pwrsp.m3u8?ads.cdnhost=s5host2.localnow.api.cms.amdvids.com&ads.playbackid=662F6B8A-1762-479D-A542-4A6D78574774&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=662F6B8A-1762-479D-A542-4A6D78574774&ads.n4=content_name&ads.v4=PowerSports%20World&ads.n21=app_version&ads.v21=0.0.0&ads.n22=channel_genre&ads.v22=Sports&ads.n23=channel_name&ads.v23=PowerSports%20World&ads.n24=us_privacy&ads.v24=1YNY&ads.n25=pos&ads.v25=midroll&ads.n26=channel_corp&ads.v26=Triple-B%20Media%20LLC&ads.n27=content_livestream&ads.v27=1&ads.n28=content_provider&ads.v28=motoamerica-tv&ads.n29=channel_brand_id&ads.v29=AMDB012218&ads.n30=content_type&ads.v30=channel&ads.n31=did&ads.v31=&ads.n32=gpp_sid&ads.v32=&ads.n33=channel_ext_id&ads.v33=61310bdd76163613787b2d12&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=app_name&ads.v35=&ads.n36=channel_language&ads.v36=en&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=gpp&ads.v38=&ads.n39=network_name&ads.v39=motoamerica-tv&ads.n40=w&ads.v40=1920&ads.n41=ifa_type&ads.v41=&ads.n42=channel_company_id&ads.v42=AMDP500174&ads.n43=content_custom_1_param&ads.v43=662F6B8A-1762-479D-A542-4A6D78574774&ads.n44=channel_title&ads.v44=PowerSports%20World&ads.n45=channel_rating&ads.v45=TV-PG&ads.n46=h&ads.v46=1080&ads.n47=device_type&ads.v47=&ads.n48=content_custom_2_param&ads.v48=AMDB012218&ads.n49=channel_id&ads.v49=662F6B8A-1762-479D-A542-4A6D78574774&ads.n50=device_model&ads.v50=&ads.n51=dnt&ads.v51=&ads.n52=content_producer_name&ads.v52=Triple-B%20Media%20LLC&ads.n53=app_bundle&ads.v53=&ads.n54=ua&ads.v54=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n55=ip&ads.v55=86.48.9.131&ads.n56=app_store_url&ads.v56=&ads.n57=cust_devicename&ads.v57=desktop_web&ads.n58=device_make&ads.v58=
 
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cozi-tv-us.png",Cozi TV
 http://fl61.moveonjoy.com/COZI_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Impact.Network.us2" tvg-name="Impact" tvg-logo="https://watchimpact.com/wp-content/uploads/2025/03/Impact-Vector-NEW-White-Text.png",Impact
+#EXTINF:-1 tvg-id="Impact.Network.us2" tvg-name="Impact" tvg-logo="https://watchimpact.com/wp-content/uploads/2025/03/Impact-Vector-NEW-White-Text.png" group-title="Religious",Impact
 https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
 
-#EXTINF:-1 tvg-id="The.Hope.Channel.us2" tvg-name="Hope Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hope-channel-it.png",Hope Channel
+#EXTINF:-1 tvg-id="The.Hope.Channel.us2" tvg-name="Hope Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hope-channel-it.png" group-title="Religious",Hope Channel
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
 
-#EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-name="It's Supernatural! Network" tvg-logo="https://drive.google.com/uc?id=19U9bGiz96bFwaA4ZX09EBY6W2RIO-ddO",It's Supernatural! Network
+#EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-name="It's Supernatural! Network" tvg-logo="https://drive.google.com/uc?id=19U9bGiz96bFwaA4ZX09EBY6W2RIO-ddO" group-title="Religious",It's Supernatural! Network
 https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
 -https://images.prismic.io/sid-roth/Z1CnB5bqstJ98CkT_rsz_1sid_roth_logo_blue_1.png
 
@@ -1651,6 +1660,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
