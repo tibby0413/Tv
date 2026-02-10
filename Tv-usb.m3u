@@ -793,7 +793,7 @@ http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438&ads._fw_ifa_type=dpid&ads._fw_did=ea9bdec2-95c5-524d-320e-eb3b637f13dc&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WBDMotorTrendFASTTV&ads.csid=xumo_desktopweb_WBDMotorTrendFASTTV_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=IAB2&ads._fw_content_language=undefined&ads._fw_content_genre=Automotive&ads._fw_content_rating=TV-PG&ads.xumo_contentId=4240&ads.xumo_contentName=WBDMotorTrendFASTTV&ads.xumo_providerId=4240&ads.xumo_providerName=WBDMotorTrendFASTTV&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951438&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.20.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 -https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/77701c6a-89e7-4510-865c-b3c528f2a903/3.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Top.Gear.plex" tvg-name="Top Gear UK" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/top-gear-uk/channel-icon-unfocused.png" group-title="Auto",Top Gear UK
+#EXTINF:-1 tvg-id="plex.tv.Top.Gear.plex" tvg-name="Top Gear" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/top-gear-uk/channel-icon-unfocused.png" group-title="Auto",BBC Top Gear
 https://amg00793-bbcstudios-amg00793c5-cw-us-5849.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
 #EXTINF:-1 tvg-id="Powersports.World.distro" tvg-name="PowerSports World TV" tvg-logo="https://drive.google.com/uc?id=1mP2QWDHai70Ey0EuNKkATJhpts8niplJ" group-title="Auto",PowerSports World TV
@@ -812,13 +812,19 @@ https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
 https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
 -https://images.prismic.io/sid-roth/Z1CnB5bqstJ98CkT_rsz_1sid_roth_logo_blue_1.png
 
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tbs-us.png",TBS (East)
+#EXTINF:-1 tvg-id=" " tvg-name="Awake Nations Live" tvg-logo="https://files.snappages.site/TB7M39/assets/images/22604301_1024x1024_500.png" group-title="Religious",Awake Nations Live
+https://cdnvod.panda-os.com/livehls/6724695b06304424db25b354/master.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Live Worship" tvg-logo="https://files.snappages.site/TB7M39/assets/images/22604301_1024x1024_500.png" group-title="Religious",Live Worship
+https://cdnvod.panda-os.com/livehls/655ef1ce0630442a365664d3/master.m3u8
+
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tbs-us.png" group-title="Entertainment",TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/2404.ts
 -https://streamer1.nexgen.bz/TBS/tracks-v1a1/mono.ts.m3u8
 -https://fl2.moveonjoy.com/TBS/index.m3u8
 
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tbs-us.png",TBS (West)
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tbs-us.png" group-title="Entertainment",TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="CookingPanda.us" tvg-name="Cooking Panda" tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="Cooking",Cooking Panda
@@ -838,16 +844,16 @@ http://fl61.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/tastemade-vod-us.png" group-title="Cooking",Tastemade
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In The Kitchen" tvg-logo="https://i.qxh.com/image/resource/66741494be2bbffc6dc1d975/logo_16-9/U3g5xU6vP/original.png",In The Kitchen
+#EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In The Kitchen" tvg-logo="https://i.qxh.com/image/resource/66741494be2bbffc6dc1d975/logo_16-9/U3g5xU6vP/original.png" group-title="Cooking",In The Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
-#EXTINF:-1 tvg-id="UK:.Hell`s.Kitchen.be" tvg-name="Hell's Kitchen" tvg-logo="https://i.imgur.com/P9eT0O9.png",Hell's Kitchen
+#EXTINF:-1 tvg-id="UK:.Hell`s.Kitchen.be" tvg-name="Hell's Kitchen" tvg-logo="https://i.imgur.com/P9eT0O9.png" group-title="Cooking",Hell's Kitchen
 https://amg00654-itv-amg00654c1-lg-dk-2692.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00654-itvstudiosfast-hellskitchen-lgdk/playlist.m3u8
 -https://amg00654-itv-amg00654c1-lg-fi-2691.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00654-itvstudiosfast-hellskitchen-lgfi/playlist.m3u8
 -https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
 -https://itv-hellskitchen-rakuten.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Hell`s.Kitchen.&.Kitchen.Nightmares.plex" tvg-name="Hell's Kitchen & Kitchen Nightmares" tvg-logo="https://drive.google.com/uc?id=1Bc74vuPi7-SH43c-E-hsZvOa_a30sngy",Hell's Kitchen & Kitchen Nightmares
+#EXTINF:-1 tvg-id="plex.tv.Hell`s.Kitchen.&.Kitchen.Nightmares.plex" tvg-name="Hell's Kitchen & Kitchen Nightmares" tvg-logo="https://drive.google.com/uc?id=1Bc74vuPi7-SH43c-E-hsZvOa_a30sngy" group-title="Cooking",Hell's Kitchen & Kitchen Nightmares
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kLTvx5_R6KMy9Uxx6WCF&_gl=1*xqxijm*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3NjkwNjg2NTEkbzE5JGcxJHQxNzY5MDY4ODg5JGo1NiRsMCRoMA..
 
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/travel-channel-us.png",Travel Channel
@@ -908,7 +914,7 @@ http://fl61.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Horror.Machine.distro" tvg-name="Horror Machine" tvg-logo="https://p-img.movetv.com/1280x720/7a25625349b0f01c31a6819a004545b5.png" group-title=" ",Horror Machine
+#EXTINF:-1 tvg-id="Horror.Machine.distro" tvg-name="Horror Machine" tvg-logo="https://p-img.movetv.com/1280x720/7a25625349b0f01c31a6819a004545b5.png" group-title="Movies",Horror Machine
 https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UK:.Haunt.TV.be" tvg-name="Haunt TV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E856E29A-0D9D-4250-B163-CCCCEE58E228/3-1x1.png",Haunt TV
@@ -1432,6 +1438,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2412.ts
 #EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-channel-br.png" group-title="Movies",Sony Channel (Spanish)
 https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
+#EXTINF:-1 tvg-id="Box.Cinema.distro" tvg-name="Box Cinema" tvg-logo="https://drive.google.com/uc?id=1QTKWv4TxDnA4XmbOPH2P_Fkry2gjGYo4" group-title="Movies",Box Cinema
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/CQH5QRY/m.m3u8
+
 -#EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png" group-title="Entertainment",Canal 5
 -http://104.238.205.28:9090/278329_.m3u8
 
@@ -1660,6 +1669,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
