@@ -1166,8 +1166,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3835.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=91884&extension=ts&play_token=gBdp5MN4D2
 
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-hits-us.png" group-title="Movies",HBO Hits (East)
-https://fl31.moveonjoy.com/HBO_FAMILY/index.m3u8
--https://fl31.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+https://fl31.moveonjoy.com/HBO_2/index.m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45552&extension=ts&play_token=BA5u1lvuBH
 
 #EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-name="HBO Hits (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-hits-us.png" group-title="Movies",HBO Hits (West)
@@ -1194,6 +1193,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/648981.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648981.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951704&extension=ts&play_token=LeVr22p6hP
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45547&extension=ts&play_token=DCTE98P1AF
+
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO Family (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png" group-title="Movies",HBO Family (Latin America)
+https://fl31.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-latino-us.png" group-title="Movies",HBO Latino
 http://restream-live.realiptv.to:8080/live/52748969/72335180/648980.ts
@@ -1674,6 +1676,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
