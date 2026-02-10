@@ -556,6 +556,9 @@ http://104.238.205.28:9090/278573_.m3u8
 
 -#EXTINF:-1 tvg-id=" " tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/impact-wrestling-vod-us.png" group-title="Sports",Impact Wrestling
 
+#EXTINF:-1 tvg-id=" " tvg-name="WWE NXT" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/cw-presents-wwe-nxt/channel-icon-unfocused.png" group-title="Entertainment",WWE NXT
+https://amg01312-cw-amg01312c51-cw-us-11213.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01312-nexstarmediagroupcw-cwpresentswwenxt-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
+
 #EXTINF:-1 tvg-id="plex.tv.TNA.Wrestling.Channel.plex" tvg-name="TNA Wrestling" tvg-logo="https://image.tmdb.org/t/p/original/uODRfl55zJOsj90grWAw569brZk.png" group-title="Sports",TNA Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
 -https://www.nicepng.com/png/full/141-1414956_tna-wrestling-tna-logo.png
@@ -714,6 +717,9 @@ https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-id="99951396" tvg-name="MythBusters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951396/250x250.png?type=color_onBlack" group-title="Reality TV",MythBusters
 https://dbrb49pjoymg4.cloudfront.net/10001/99951396/hls/playlist.m3u8?ads.xumo_channelId=99951396&ads._fw_ifa_type=&ads._fw_did=9d1b88e2-f3be-4483-ba52-c1c6d4436068&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDMythbusters&ads.csid=xumo_web_WBDMythbusters_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4204&ads.xumo_contentName=WBDMythbusters&ads.xumo_providerId=4204&ads.xumo_providerName=WBDMythbusters&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951396&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
+#EXTINF:-1 tvg-id=" " tvg-name="Penn & Teller: Fool Us" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/penn-teller-fool-us/channel-icon-unfocused.png" group-title="Entertainment",Penn & Teller: Fool Us
+https://amg01312-cw-amg01312c1-cw-us-1753.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-cwpennandteller-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
+
 #EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/game-show-central-vod-us.png" group-title="Entertainment",Game Show Central
 https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
 
@@ -725,6 +731,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991232/hls/master.m3u8?includeAsset
 
 #EXTINF:-1 tvg-id="plex.tv.Family.Feud.Classic.plex" tvg-name="Family Feud Classic" tvg-logo="https://drive.google.com/uc?id=1JBbfO-r2yXL10veie0_dgE_dNp_27xG6" group-title="Series",Family Feud Classic
 https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Untold.Stories.of.the.ER.plex" tvg-name="Untold Stories of the ER" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/cw-untold-stories-of-the-er/channel-icon-unfocused.png" group-title="Entertainment",Untold Stories of the ER
+https://amg01312-cw-amg01312c32-cw-us-4771.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-untoldstoriesoftheer-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png",National Geographic (East)
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
@@ -1036,12 +1045,15 @@ https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (East)
 http://fl61.moveonjoy.com/OXYGEN/index.m3u8
 
--#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (West)
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3873.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3873.ts
 
 #EXTINF:-1 tvg-id="plex.tv.Dateline.plex" tvg-name="Dateline" tvg-logo="https://drive.google.com/uc?id=1Eh7uAOxkBsrckV6WT8HzhiMlY7wU2DnO" group-title="Documentary",Dateline
 https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.World`s.Most.Evil.Killers.plex" tvg-name="World's Most Evil Killers" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/worlds-most-evil-killers/channel-icon-unfocused.png" group-title="Documentary",World's Most Evil Killers
+https://amg00512-amg00512c6-cw-us-2475.playouts.now.amagi.tv/playlist/amg00512-filmrisefast-worldsmostevilkillers-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
 http://104.255.88.155/usa/mpegts
@@ -1639,6 +1651,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
