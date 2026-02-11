@@ -1493,7 +1493,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2207.ts
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="Movies",Sky Cinema Animation
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/587860.ts
 
-#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Movies",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.HD.ie" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Movies",Sky Cinema Comedy
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2206.ts
 
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="Movies",Sky Cinema Drama
@@ -1854,6 +1854,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
