@@ -39,10 +39,9 @@ http://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8
 http://41.205.93.154/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago)
-https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
--http://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
--http://restream-live.realiptv.to:8080/live/52748969/72335180/74689.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/74689.ts
 -https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+-http://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
 
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png" group-title="News",ABC 7 (New York)
 https://fl1.moveonjoy.com/ABC/index.m3u8
@@ -1084,10 +1083,12 @@ https://amg00512-amg00512c6-cw-us-2475.playouts.now.amagi.tv/playlist/amg00512-f
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
 http://104.255.88.155/usa/mpegts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/74688.ts
 -https://dvrfl04.tulix.tv/teleup-usa/mpegts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3848.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/74688.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/2379.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3848.ts
 
@@ -1686,6 +1687,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
