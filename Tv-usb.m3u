@@ -84,7 +84,8 @@ http://fl2.moveonjoy.com/TX_Houston_FOX/index.m3u8
 -http://fl41.moveonjoy.com/TX_Houston_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="News",FOX News
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2543.ts
+-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 -http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45573&extension=ts&play_token=rZa123JYvt
 
@@ -112,13 +113,15 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="Newsmax2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax2-us.png" group-title="News",Newsmax2
 https://newsmax-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-weather-us.png" group-title="News",Fox Weather
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-weather-us.png" group-title="Weather",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="News",AccuWeather NOW
+#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",AccuWeather NOW
 https://fl31.moveonjoy.com/AccuWeather/index.m3u8 
 -https://fl41.moveonjoy.com/AccuWeather/index.m3u8
 
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/weather-channel-hd-us.png" group-title="Weather",The Weather Channel
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42308.ts
 
 
 
@@ -381,11 +384,13 @@ http://104.238.205.28:9090/278758_.m3u8
 http://104.238.205.28:9090/278757_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Sports",ESPN
-http://41.205.93.154/ESPN/index.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3725.ts
+-http://41.205.93.154/ESPN/index.m3u8
 -http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2
-https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
+-https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 -http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Sports",ESPN 3
@@ -472,7 +477,8 @@ https://amg00384-pac12fast-amg00384c1-cw-us-7206.playouts.now.amagi.tv/playlist/
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45611&extension=ts&play_token=UCeRliE9zn
 -http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
--#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="beIN Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png" group-title="Sports",beIN Sports (Spanish)
+#EXTINF:-1 tvg-id="Canal.beIN.Sport.en.Español.sv" tvg-name="beIN Sports (Spanish)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-espanol-int.png" group-title="Sports",beIN Sports (Spanish)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3613.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3613.ts
 
 #EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png" group-title="Sports",beIN Sports XTRA
@@ -492,16 +498,30 @@ https://fl7.moveonjoy.com/SNY/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2413.ts
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="Sports",Sky Sports Main Event
-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117070
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2185.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117070
 
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="Sports",Sky Sports NFL
 http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117063
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="Sports",Sky Sports Football
-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117068
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2188.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117068
 
 #EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-uk.png" group-title="Sports",Sky Sports Arena
-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117064
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2193.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117064
+
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="Sports",Sky Sports Action
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2194.ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="Sports",Sky Sports Premier League
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2180.ts
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Sports",Sky Sports F1
 http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117067
@@ -510,7 +530,8 @@ http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117067
 http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117073
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="Sports",Sky Sports News
-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117072
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117072
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT Sports 4
 http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117074
@@ -1125,7 +1146,8 @@ https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 http://fl61.moveonjoy.com/OXYGEN/index.m3u8
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3839.ts
 
--#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (West)
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (West)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3839.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3873.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3873.ts
 
@@ -1286,10 +1308,15 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/631879.ts
 
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-comedy-us.png" group-title="Movies",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648988.ts
 -http://23.237.104.106:8080/USA_STARZ_COMEDY/mpegts
 
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-in-black-us.png" group-title="Movies",Starz In Black
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-in-black-us.png" group-title="Movies",Starz In Black (East)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3962.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3962.ts
+
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-in-black-us.png" group-title="Movies",Starz In Black (West)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/649402.ts
 
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="Movies",Starz Edge (East)
 https://fl31.moveonjoy.com/STARZ_EDGE/index.m3u8
@@ -1299,11 +1326,13 @@ https://fl31.moveonjoy.com/STARZ_EDGE/index.m3u8
 http://restream-live.realiptv.to:8080/live/52748969/72335180/631882.ts
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-us.png" group-title="Movies",Starz Encore (East)
-https://fl7.moveonjoy.com/Starz_Encore/index.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3950.ts
+-https://fl7.moveonjoy.com/Starz_Encore/index.m3u8
 -https://fl1.moveonjoy.com/Starz_Encore/mpegts
 
 #EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-us.png" group-title="Movies",Starz Encore (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3951.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3951.ts
 
 #EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action
 http://fl31.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
@@ -1319,6 +1348,7 @@ https://fl31.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-suspense-us.png" group-title="Movies",Starz Encore Suspense
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3958.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3958.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3958.ts
 
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-family-us.png" group-title="Movies",Starz Encore Family
@@ -1337,13 +1367,18 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/74686.ts
 http://restream-live.realiptv.to:8080/live/52748969/72335180/93060.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/93060.ts
 
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-kids-and-family-us.png" group-title="Movies",Starz Kids & Family
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-kids-and-family-us.png" group-title="Movies",Starz Kids & Family (East)
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3956.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3956.ts
 -http://23.237.104.106:8080/USA_STARZ_FAMILY/mpegts
 
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-kids-and-family-us.png" group-title="Movies",Starz Kids & Family (West)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631881.ts
+
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns" tvg-logo="https://i.imgur.com/Eo6yLpN.png" group-title="Movies",Starz Encore Westerns
 http://fl31.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3955.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3955.ts
 -http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/mpegts
 
@@ -1371,11 +1406,18 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/648984.ts
 https://fl31.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 -Showtime.Extreme.HD.(Pacific).us2
 
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-family-zone-us.png" group-title="Movies",Showtime Family Zone (West)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631918.ts
+
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Movies",Showtime Next
 http://restream-live.realiptv.to:8080/live/52748969/72335180/648985.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648985.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648985.ts
 -http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=92019&extension=ts&play_token=8jkyi5MwVX
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-showcase-us.png" group-title="Movies",Showtime Showcase (West)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631890.ts
 
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-women-us.png" group-title="Movies",Showtime Women
 http://fl31.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
@@ -1420,6 +1462,22 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 -#EXTINF:-1 tvg-id="Thriller.Max.us2" tvg-name="Cinemax ThrillerMax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-thrillermax-us.png" group-title="Movies",Cinemax ThrillerMax
 -http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45595&extension=ts&play_token=hgAno6VEiQ
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="Movies",Sky Cinema Action
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2207.ts
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="Movies",Sky Cinema Animation
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/587860.ts
+
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605742.ts
+-The.Movie.Channel.(Pacific).us2
+
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527262.ts
+
+#EXTINF:-1 tvg-id="plex.tv.The.Asylum.plex" tvg-name="The Asylum Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/the-asylum-vod-us.png" group-title="Movies",The Asylum Movie Channel
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/709958.ts
 
 -#EXTINF:-1 tvg-id="Family.Movie.Classics.us2" tvg-name="Family Movie Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fmc-family-movie-classics-us.png" group-title="Movies",Family Movie Classics
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1570187&extension=ts&play_token=WRcil0fV2t
@@ -1744,6 +1802,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
