@@ -726,8 +726,7 @@ https://fl31.moveonjoy.com/SYFY/index.m3u8
 -http://104.255.88.155/syfy/mpegts
 
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="SyFy (West)" tvg-logo="https://i.imgur.com/4fMWhUE.png",SyFy (West)
-https://ash2.rocketdns.info:25463/live/52748969/72335180/3841.m3u8?token=HkNcWEBYFAkUCVEFBgdWAFRVUwRVCwEHAVMHAFYEAwYDUlIIUFQGVwESH0ZAFRFRUwtoXlQaXgBaVQIdERBBVhc+XV0RChQBBwkKVApDTxZGD1pSEgJUH0ARWlURXxAAVlIFDAIFFB8UVUsQVhMNVV45U1JGUQdWQFtdRF8JHhEKD2tdVl1XXVISCUYDQ08WWxVHFQpWEV8OTRFTWhFAUhEEFgMRBQMHBxIfRlAOFlpGFE4VChoxYEBNEVRLEVddFghbVxEKFF4FRQtGH0MKR20UUkRESgFSDwRBEwlHAhFJQ1lYS29VXFheVgdHCAxaQUQNFQIaSBEPDl1YRwpAbBUIUBsJEgQBDgcGUARDHg==
--http://restream-live.realiptv.to:8080/live/52748969/72335180/3841.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3841.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3841.ts
 
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (East)
@@ -1745,6 +1744,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
