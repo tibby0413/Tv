@@ -142,14 +142,14 @@ http://fl31.moveonjoy.com/NICKELODEON/index.m3u8
 http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
 -http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Cartoons",TeenNick
-http://restream-live.realiptv.to:8080/live/52748969/72335180/74692.ts
-
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Cartoons",Nicktoons (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/631833.ts
 -http://s.rocketdns.info:8080/33741215/82527298/631833
 -http://restream-live.realiptv.to:8080/33741215/82527298/631833
 -http://user.scalecdn.co:8080/33741215/82527298/631833
+
+#EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Cartoons",TeenNick
+http://restream-live.realiptv.to:8080/live/52748969/72335180/74692.ts
 
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network & [adult swim]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png" group-title="Cartoons",Cartoon Network & [adult swim]
 http://fl61.moveonjoy.com/CARTOON_NETWORK/index.m3u8
@@ -1740,6 +1740,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
