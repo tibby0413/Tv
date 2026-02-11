@@ -1595,6 +1595,9 @@ Music
 http://restream-live.realiptv.to:8080/live/52748969/72335180/89095.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/89095.ts
 
+#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bet-jams-us.png" group-title="Music",BET Jams
+https://fl7.moveonjoy.com/BET_Jams/index.m3u8
+
 #EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-2k-vod.png" group-title="Music",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
@@ -1741,6 +1744,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
