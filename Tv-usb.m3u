@@ -1575,7 +1575,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527262.ts
 #EXTINF:-1 tvg-id="MovieTime.HD.ca2" tvg-name="MovieTime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/movietime-hd-ca.png" group-title="Movies",MovieTime
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3056.ts
 
-#EXTINF:-1 tvg-id="Legend.uk" tvg-name="Legend" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/legend-uk.png" group-title="Movies",Legend (Horror Channel)
+#EXTINF:-1 tvg-id=" " tvg-name="Horror Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/horror-channel-uk.png" group-title="Movies",Horror Channel
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88862.ts
 
 #EXTINF:-1 tvg-id="plex.tv.The.Asylum.plex" tvg-name="The Asylum Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/the-asylum-vod-us.png" group-title="Movies",The Asylum Movie Channel
@@ -1904,6 +1904,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
