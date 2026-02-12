@@ -155,6 +155,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/631833.ts
 -http://restream-live.realiptv.to:8080/33741215/82527298/631833
 -http://user.scalecdn.co:8080/33741215/82527298/631833
 
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="Cartoons",Nicktoons (Uk)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2236.ts
+
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Cartoons",TeenNick
 http://restream-live.realiptv.to:8080/live/52748969/72335180/74692.ts
 
@@ -538,7 +541,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2190.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117067
 
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-uk.png" group-title="Sports",Sky Sports Racing
-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117073
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2226.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117073
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="Sports",Sky Sports News
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
@@ -1904,6 +1908,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
