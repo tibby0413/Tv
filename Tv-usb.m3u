@@ -893,7 +893,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tbs-us.png" group-title="Entertainment",TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CookingPanda.us" tvg-name="Cooking Panda" tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="Cooking",Cooking Panda
+#EXTINF:-1 tvg-id="Cooking.Panda.distro" tvg-name="Cooking Panda" tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="Cooking",Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47&checkedby:iptvcat.com
 
 -#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (East)
@@ -909,11 +909,14 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3644.ts
 http://fl61.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 -http://fl2.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/tastemade-vod-us.png" group-title="Cooking",Tastemade (East)
-https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Tastemade.plex" tvg-name="Tastemade" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8ccf64ea199095b2d5aab71b73a7ed1c.png" group-title="Cooking",Tastemade 
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef51c802ddee5003f1c0225.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_n96fBzyzyPzQWiC_Vt6&_gl=1*10p0sxo*_gcl_au*MTU4MzQwNjU5LjE3NzAxMDQ2ODk.*_ga*NzcyOTc1MTUyLjE3NzAxMDQ2ODk.*_ga_G6FQWNSENB*czE3NzA4NzYwOTgkbzYkZzEkdDE3NzA4NzYxMDUkajUzJGwwJGgw
 
-#EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/tastemade-vod-us.png" group-title="Cooking",Tastemade (West)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2405.ts
+-#EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/tastemade-vod-us.png" group-title="Cooking",Tastemade (East)
+-https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+-#EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/tastemade-vod-us.png" group-title="Cooking",Tastemade (West)
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2405.ts
 
 #EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In The Kitchen" tvg-logo="https://i.qxh.com/image/resource/66741494be2bbffc6dc1d975/logo_16-9/U3g5xU6vP/original.png" group-title="Cooking",In The Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
@@ -1854,6 +1857,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
