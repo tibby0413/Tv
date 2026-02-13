@@ -625,8 +625,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="Canal.Adrenalina.Sports.Network.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/adrenalina-sports-network-mx.png" group-title="Sports",Adrenalina Sports Network
 http://104.238.205.28:9090/278573_.m3u8
 
--#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wwe-us.png" group-title="Sports",WWE Network
--http://restream-live.realiptv.to:8080/live/52748969/72335180/3701.ts
+#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wwe-us.png" group-title="Sports",WWE Network
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3701.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59881.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3701.ts
 -https://fl7.moveonjoy.com/WWE/index.m3u8
@@ -1908,6 +1908,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
