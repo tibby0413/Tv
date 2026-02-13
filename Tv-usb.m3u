@@ -328,6 +328,17 @@ https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
 -https://flash2.xdevel.com/rtptv/rtptv/chunklist_w1281043952.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
 SPORTS
 
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sportitalia-hd-it.png" group-title="Sports",Sportitalia
@@ -384,6 +395,9 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).cr" tvg-name="FUTV" tvg-logo="https://drive.google.com/uc?id=19adoQQDJBZxVtpghwtwbBSXgyYPPPMQK" group-title="Sports",FUTV
 http://104.238.205.28:9090/279374_.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mutv-uk.png" group-title="Sports",MUTV
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2242.ts
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Sports",DSports 
 http://104.238.205.28:9090/278758_.m3u8
@@ -1908,6 +1922,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
