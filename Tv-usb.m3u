@@ -365,6 +365,7 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 HD" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports",Premier Sports 1
 http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117037
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2289.ts
 -https://7pal.short.gy/prsport1
 -https://46.229.251.19/live/P4B9TB9xR8/humongous2tonight/5029.ts?token=ShJcU0BbQQNHAQ1ZDwcMCgxSCAlfDFBYV1AHAVBUAlEBBlYKCgMFW1EbGBpEF0dcWF1vWQIXXlQBUFsbRxFAV0NvXVYRCUEIUAsHDQ5TFxUbRFldAxdeUAZUWgVTVgIGBxwWQlpXQQNHDQUAB1YFGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BAwAPABIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVRBA4BCQEEREg=
 
@@ -398,6 +399,7 @@ http://104.238.205.28:9090/279374_.m3u8
 
 #EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mutv-uk.png" group-title="Sports",MUTV
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2242.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117036
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Sports",DSports 
 http://104.238.205.28:9090/278758_.m3u8
@@ -561,6 +563,9 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2226.ts
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="Sports",Sky Sports News
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117072
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 3
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117039
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT Sports 4
 http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117074
@@ -1195,8 +1200,11 @@ https://fl31.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/true-crime-network-us.png" group-title="Documentary",True Crime Network
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 
--#EXTINF:-1 tvg-id="True.Crime.uk" tvg-name="True Crime" tvg-logo="/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/true-crime-uk.png" group-title="Documentary",True Crime
--https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-6888e72c053adc1e3a34e40e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=oTsDCN9Dxi4Cu-nVh5fg
+#EXTINF:-1 tvg-id="plex.tv.FilmRise.True.Crime.plex" tvg-name="FilmRise True Crime" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/epg/cms/production/452f1693-0c65-4d2d-8fb2-de1ef429164f/FilmRiseTrueCrime_Logo_Color.png" group-title="Documentary",FilmRise True Crime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=f4yXnYZzxAa3r_gQ3maR&_gl=1*p0iwcj*_gcl_au*MTU4MzQwNjU5LjE3NzAxMDQ2ODk.*_ga*NzcyOTc1MTUyLjE3NzAxMDQ2ODk.*_ga_G6FQWNSENB*czE3NzA5NzUyNTkkbzckZzEkdDE3NzA5NzUyOTIkajI3JGwwJGgw
+
+#EXTINF:-1 tvg-id="True.Crime.uk" tvg-name="True Crime" tvg-logo="/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/true-crime-uk.png" group-title="Documentary",True Crime
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2317.ts
 
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (East)
 http://fl61.moveonjoy.com/OXYGEN/index.m3u8
@@ -1922,6 +1930,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
