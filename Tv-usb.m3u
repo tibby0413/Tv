@@ -932,14 +932,14 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="Cooking.Panda.distro" tvg-name="Cooking Panda" tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="Cooking",Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47&checkedby:iptvcat.com
 
--#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (East)
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3644.ts
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (East)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2280.ts
 -http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3644.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3644.ts
--http://restream-live.realiptv.to:8080/live/33741215/82527298/3831.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3831.ts
 
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cooking-channel-us.png" group-title="Cooking",Cooking Channel
 http://fl61.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -1922,6 +1922,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
