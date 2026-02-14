@@ -764,7 +764,8 @@ https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/1080p-cc/index.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3717.ts
 
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-name="TLC (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tlc-us.png",TLC (East)
-http://fl61.moveonjoy.com/TLC/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3763.ts
+-http://fl61.moveonjoy.com/TLC/index.m3u8
 -http://fl12.moveonjoy.com/TLC/index.m3u8
 -http://fl2.moveonjoy.com/TLC/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2404.ts
@@ -775,6 +776,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/48974.ts
 
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tru-tv-us.png",truTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3766.ts
 -https://streamer1.nexgen.bz/TRUTV/index.m3u8
 
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tru-tv-us.png",truTV (West)
@@ -959,6 +961,7 @@ https://cdnvod.panda-os.com/livehls/655ef1ce0630442a365664d3/master.m3u8
 
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tbs-us.png" group-title="Entertainment",TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3761.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/2404.ts
 -https://streamer1.nexgen.bz/TBS/tracks-v1a1/mono.ts.m3u8
 -https://fl2.moveonjoy.com/TBS/index.m3u8
@@ -1007,7 +1010,8 @@ https://amg00654-itv-amg00654c1-lg-dk-2692.playouts.now.amagi.tv/ts-us-e2-n2/pla
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kLTvx5_R6KMy9Uxx6WCF&_gl=1*xqxijm*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3NjkwNjg2NTEkbzE5JGcxJHQxNzY5MDY4ODg5JGo1NiRsMCRoMA..
 
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/travel-channel-us.png",Travel Channel
-https://fl31.moveonjoy.com/Travel_Channel/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3765.ts
+-https://fl31.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/lifetime-us.png",Lifetime
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3659.ts
@@ -1084,8 +1088,12 @@ http://fl61.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-plus-us.png",MeTV Plus
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/607734.ts
 
-#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV (East)" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV (East)
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
+
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV (West)" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV (West)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
 
 -#EXTINF:-1 tvg-id="Horror.Machine.distro" tvg-name="Horror Machine" tvg-logo="https://p-img.movetv.com/1280x720/7a25625349b0f01c31a6819a004545b5.png" group-title="Movies",Horror Machine
 -https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
@@ -1303,7 +1311,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 -http://1tv41.icu:8080/live/Y06DNq/295733/46688.m3u8
 
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tnt-es.png",TNT (West)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2384.ts
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2384.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3764.ts
 
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo (East)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3709.ts
@@ -1991,6 +2001,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
