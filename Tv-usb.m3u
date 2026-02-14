@@ -71,17 +71,14 @@ https://fl31.moveonjoy.com/WGN/index.m3u8
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
-http://fl2.moveonjoy.com/IL_Chicago_FOX/index.m3u8
--http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
+http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
 
 #EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="FOX 25 (Boston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-25-wfxt-us.png" group-title="News",FOX 25 (Boston)
-http://fl2.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
--http://fl41.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
+http://fl41.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="KRIV-DT.us_locals1" tvg-name="FOX 26 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-26-kriv-us.png" group-title="News",FOX 26 (Houston)
-http://fl2.moveonjoy.com/TX_Houston_FOX/index.m3u8
--http://fl41.moveonjoy.com/TX_Houston_FOX/index.m3u8
+http://fl41.moveonjoy.com/TX_Houston_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="News",FOX News
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2543.ts
@@ -1091,7 +1088,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/607734.ts
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
 
-#EXTINF:-1 tvg-id="plex.tv.All.Reality.We.TV.plex" tvg-name="All Reality We TV" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",All Reality We TV
+#EXTINF:-1 tvg-id="plex.tv.All.Reality.We.TV.plex" tvg-name="All Reality We TV" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png",All Reality We TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
 
@@ -2001,6 +1998,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
