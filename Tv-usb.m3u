@@ -1088,12 +1088,12 @@ http://fl61.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="MeTV Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-plus-us.png",MeTV Plus
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/607734.ts
 
-#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV (East)" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV (East)
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
+
+#EXTINF:-1 tvg-id="plex.tv.All.Reality.We.TV.plex" tvg-name="All Reality We TV" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",All Reality We TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
-
-#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV (West)" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV (West)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
 
 -#EXTINF:-1 tvg-id="Horror.Machine.distro" tvg-name="Horror Machine" tvg-logo="https://p-img.movetv.com/1280x720/7a25625349b0f01c31a6819a004545b5.png" group-title="Movies",Horror Machine
 -https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
@@ -2001,6 +2001,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
