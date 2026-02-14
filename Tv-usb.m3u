@@ -592,6 +592,7 @@ http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117074
 
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png" group-title="Sports",NFL Network
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3754.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3670.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2424.ts
 -https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3754.ts
@@ -813,7 +814,8 @@ https://fl31.moveonjoy.com/SYFY/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2407.ts
 -http://104.255.88.155/syfy/mpegts
 
--#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="SyFy (West)" tvg-logo="https://i.imgur.com/4fMWhUE.png",SyFy (West)
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="SyFy (West)" tvg-logo="https://i.imgur.com/4fMWhUE.png",SyFy (West)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3760.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3841.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3841.ts
 
@@ -894,10 +896,12 @@ http://fl7.moveonjoy.com/FUSE/index.m3u8
 
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="OWN (Oprah Winfrey Network) (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/oprah-winfrey-network-us.png" group-title="Entertainment",OWN (Oprah Winfrey Network) (East)
 http://23.237.104.106:8080/USA_OWN/index.m3u8
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3755.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3675.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2422.ts
 
 -#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.(Pacific.A.Feed).us2" tvg-name="OWN (Oprah Winfrey Network) (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/oprah-winfrey-network-us.png" group-title="Entertainment",OWN (Oprah Winfrey Network) (West)
+
 
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Western",Grit
 https://fl31.moveonjoy.com/GRIT_TV/index.m3u8
@@ -1234,8 +1238,11 @@ http://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="https://i.imgur.com/ObPFgT8.png",Discovery Life
 http://fl31.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-id="CTV.Nature.HD.ca2" tvg-name="CTV Nature Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png",CTV Nature Channel
-http://fl31.moveonjoy.com/Discovery_Science/index.m3u8
+-#EXTINF:-1 tvg-id="CTV.Nature.HD.ca2" tvg-name="CTV Nature Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png",CTV Nature Channel
+-http://fl41.moveonjoy.com/Discovery_Science/index.m3u8
+
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png" group-title=" ",Discovery Science
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3757.ts
 
 #EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Magnolia-Network-Emblem.png",Magnolia Network
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3722.ts
@@ -1257,7 +1264,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646e489b5889
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2317.ts
 
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (East)
-http://fl61.moveonjoy.com/OXYGEN/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3756.ts
+-http://fl61.moveonjoy.com/OXYGEN/index.m3u8
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3839.ts
 
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (West)
@@ -1361,6 +1369,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3187.ts
 
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sundance-tv-us.png" group-title="Movies",Sundance TV
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2408.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3759.ts
 -https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Movies",HBO (East)
@@ -1515,7 +1524,8 @@ http://fl31.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 -http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/mpegts
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime (East)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (East)
-http://fl31.moveonjoy.com/SHOWTIME/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3758.ts
+-http://fl31.moveonjoy.com/SHOWTIME/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2416.ts
 -http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45504&extension=ts&play_token=pTBzJuvNY8
@@ -1981,6 +1991,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
