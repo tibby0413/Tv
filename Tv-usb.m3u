@@ -15,7 +15,7 @@ http://fl41.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
 
 #EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS 2 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="News",CBS 2 (New York)
-http://fl61.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
+http://fl41.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938568&extension=ts&play_token=RbU51QyXTe
 
 #EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="CBS 2 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-11-khou-icon-us.png" group-title="News",CBS 2 (Houston)
@@ -1930,6 +1930,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
