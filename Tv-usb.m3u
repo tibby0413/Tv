@@ -1502,7 +1502,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645e328fb164
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645f840b361156ab4214e28d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=5LJrhxfx1rkTzQjQPssB
 
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/vh1-us.png",VH1 (East)
-http://23.237.104.106:8080/USA_VH1/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3699.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3699.ts
+-http://23.237.104.106:8080/USA_VH1/index.m3u8
 -http://fl61.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/vh1-us.png",VH1 (West)
@@ -2236,6 +2238,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
