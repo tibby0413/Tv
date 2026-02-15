@@ -1721,7 +1721,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3758.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2416.ts
 -http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
--#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (West)
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (West)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/631890.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631890.ts
 -http://fl31.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="Movies",Showtime 2
@@ -1767,9 +1769,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/631889.ts
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3966.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3966.ts
 
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-showcase-us.png" group-title="Movies",Showtime Showcase (West)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/631890.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631890.ts
+-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-showcase-us.png" group-title="Movies",Showtime Showcase (West)
 
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-women-us.png" group-title="Movies",Showtime Women
 http://restream-live.realiptv.to:8080/live/52748969/72335180/648986.ts
@@ -2230,6 +2230,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
