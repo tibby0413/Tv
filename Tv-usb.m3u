@@ -651,7 +651,8 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4443.ts
 
 #EXTINF:-1 tvg-id="plex.tv.UFC.plex" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ufc-us.png" group-title="Sports",UFC
-http://fl31.moveonjoy.com/UFC/index.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134&ads._fw_ifa_type=&ads._fw_did=f720a592-5c2e-4a69-83ad-2f3496482443&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=UFC&ads.csid=xumo_web_UFC_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3345&ads.xumo_contentName=UFC&ads.xumo_providerId=3345&ads.xumo_providerName=UFC&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951134&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+-http://fl31.moveonjoy.com/UFC/index.m3u8
 
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sports",MMA-TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
@@ -663,7 +664,9 @@ https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/50908.ts
 -https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/vidaa-sports-us/master.m3u8?ads.partner=vidaa-sports-us&ads.channel_name=fubo_sports_network&ads.station_id=120123&ads.vidaa_ads_param=1191211667&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3505
 
-#EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" tvg-name="Fight Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fight-sports-es.png" group-title="Sports",Fight Sports
+-#EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" tvg-name="Fight Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fight-sports-es.png" group-title="Sports",Fight Sports
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Midwest.us" tvg-name="FanDuel Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/500px-FanDuel_Sports_Network_logo.svg.png" group-title="Sports",FanDuel Sports Network
 http://104.238.205.28:9090/279486_.m3u8
 
 #EXTINF:-1 tvg-id="99951469" tvg-name="HBO Boxing" tvg-logo="https://image.xumo.com/v1/channels/channel/99951469/168x168.png?type=color_onBlack" group-title="Combat Sports",HBO Boxing
@@ -682,7 +685,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3701.ts
 #EXTINF:-1 tvg-id=" " tvg-name="WWE NXT" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/cw-presents-wwe-nxt/channel-icon-unfocused.png" group-title="Entertainment",WWE NXT
 https://amg01312-cw-amg01312c51-cw-us-11213.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01312-nexstarmediagroupcw-cwpresentswwenxt-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
-#EXTINF:-1 tvg-id="plex.tv.TNA.Wrestling.Channel.plex" tvg-name="TNA Wrestling" tvg-logo="https://image.tmdb.org/t/p/original/uODRfl55zJOsj90grWAw569brZk.png" group-title="Sports",TNA Wrestling
+#EXTINF:-1 tvg-id="plex.tv.TNA.Wrestling.Channel.plex" tvg-name="TNA Wrestling" tvg-logo="https://drive.google.com/uc?id=1fesp2tnZg4GGNPqNvrdNNREnA4QE2jzE" group-title="Sports",TNA Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
 -https://www.nicepng.com/png/full/141-1414956_tna-wrestling-tna-logo.png
 
@@ -2042,6 +2045,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
