@@ -751,15 +751,14 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631839.ts
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ Picks" tvg-logo="https://drive.google.com/uc?id=1D7O6RB-dxYsObgzxZn_grA6E-6QwHW7m" group-title="Entertainment",Paramount+ Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
 
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (East)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/3626.ts
--http://restream-live.realiptv.to:8080/live/33741215/82527298/3626.ts
+-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (East)
 -http://fl61.moveonjoy.com/Comedy_Central/index.m3u8
 -https://streamer1.nexgen.bz/COMEDY_CENTRAL/tracks-v1a1/mono.ts.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648957.ts
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (West)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/89211.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3626.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/89211.ts
 -http://restream-live.realiptv.to:8080/live/19742329/27604387/89211.ts
 
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png",HGTV
@@ -2045,6 +2044,7 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
