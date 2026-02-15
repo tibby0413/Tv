@@ -32,6 +32,7 @@ https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/
 
 #EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="NBC 5 (Chicago)" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="News",NBC 5 (Chicago)
 http://212.102.60.10/IL_Chicago_NBC/index.m3u8
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/74688.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/660935.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660935.ts
 -https://fl41.moveonjoy.com/IL_Chicago_NBC/index.m3u8
@@ -202,6 +203,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3719.ts
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Cartoons",Disney Junior (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3828.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3848.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3828.ts
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (East)
@@ -1462,9 +1464,7 @@ http://104.255.88.155/usa/mpegts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/74688.ts
 -https://dvrfl04.tulix.tv/teleup-usa/mpegts
 
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (West)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/3848.ts
--http://restream-live.realiptv.to:8080/live/52748969/72335180/74688.ts
+-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (West)
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/2379.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3848.ts
 
@@ -2238,6 +2238,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
