@@ -440,6 +440,9 @@ http://104.238.205.28:9090/278758_.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DSports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="Sports",DSports 2
 http://104.238.205.28:9090/278757_.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-name="DSports Uruguay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Sports",DSports Uruguay
+http://104.238.205.28:9090/278798_.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Sports",ESPN
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3636.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3636.ts
@@ -636,6 +639,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2179.ts
 
 -#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT Sports 4
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117074
+
+#EXTINF:-1 tvg-id=" " tvg-name="TNT Sports Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-premium-lam.png" group-title="Sports",TNT Sports Premium
+http://104.238.205.28:9090/278777_.m3u8
 
 -#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="Sports",NFL RedZone
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3752.ts
@@ -2230,6 +2236,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
