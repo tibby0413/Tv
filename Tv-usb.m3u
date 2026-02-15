@@ -15,8 +15,8 @@ http://212.102.60.10/IL_Chicago_CBS/index.m3u8
 -http://fl2.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
 
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS 2 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="News",CBS 2 (New York)
-http://fl41.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
+-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS 2 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="News",CBS 2 (New York)
+-http://fl41.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938568&extension=ts&play_token=RbU51QyXTe
 
 -#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="CBS 2 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-11-khou-icon-us.png" group-title="News",CBS 2 (Houston)
@@ -43,7 +43,8 @@ http://212.102.60.10/IL_Chicago_NBC/index.m3u8
 -http://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-news-now-us.png" group-title="News",NBC News Now
-http://41.205.93.154/NBC/index.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=t59wNxmEyqzp9_H4t7QS&_gl=1*dp12cf*_gcl_au*MTU4MzQwNjU5LjE3NzAxMDQ2ODk.*_ga*NzcyOTc1MTUyLjE3NzAxMDQ2ODk.*_ga_G6FQWNSENB*czE3NzExMzc1NjYkbzMkZzAkdDE3NzExMzc1NjckajU5JGwwJGgw
+-http://41.205.93.154/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/74689.ts
@@ -56,8 +57,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/74689.ts
 -#EXTINF:-1 tvg-id="KVUE-DT.us_locals1" tvg-name="ABC 24 (Austin)" tvg-logo="https://drive.google.com/uc?id=1tb6dAET2uTVM9tOqsnzUeTybeU7GCsyU" group-title="News",ABC 24 (Austin)
 -http://fl1.moveonjoy.com/TX_AUSTIN_ABC/index.m3u8
 
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 24/7 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 24/7 News
-https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
+-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 24/7 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 24/7 News
+-https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-live-us.png" group-title="News",ABC News Live
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
@@ -78,11 +79,11 @@ http://212.102.60.10/IL_Chicago_FOX/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
 
-#EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="FOX 25 (Boston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-25-wfxt-us.png" group-title="News",FOX 25 (Boston)
-http://fl41.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
+-#EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="FOX 25 (Boston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-25-wfxt-us.png" group-title="News",FOX 25 (Boston)
+-http://fl41.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
 
-#EXTINF:-1 tvg-id="KRIV-DT.us_locals1" tvg-name="FOX 26 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-26-kriv-us.png" group-title="News",FOX 26 (Houston)
-http://fl41.moveonjoy.com/TX_Houston_FOX/index.m3u8
+-#EXTINF:-1 tvg-id="KRIV-DT.us_locals1" tvg-name="FOX 26 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-26-kriv-us.png" group-title="News",FOX 26 (Houston)
+-http://fl41.moveonjoy.com/TX_Houston_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="News",FOX News
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2543.ts
@@ -107,7 +108,9 @@ https://d1bzb7b5prqjmj.cloudfront.net/playlist/amg00488-foxdigital-livenowbyfox-
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/news-nation-us.png" group-title="News",NewsNation
-http://fl31.moveonjoy.com/NEWS_NATION/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/638792.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/638792.ts
+-http://fl31.moveonjoy.com/NEWS_NATION/index.m3u8
 -https://212.102.60.10/NEWS_NATION/index.m3u8
 
 #EXTINF:-1 tvg-id="Newsmax.TV.distro" tvg-name="Newsmax TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax-tv-us.png" group-title="News",Newsmax TV
@@ -121,7 +124,8 @@ https://247wlive.foxweather.com/stream/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/638797.ts
 
 #EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",AccuWeather NOW
-https://fl31.moveonjoy.com/AccuWeather/index.m3u8 
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+-https://fl31.moveonjoy.com/AccuWeather/index.m3u8 
 -https://fl41.moveonjoy.com/AccuWeather/index.m3u8
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/weather-channel-hd-us.png" group-title="Weather",The Weather Channel
@@ -2135,6 +2139,7 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
