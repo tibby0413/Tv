@@ -1683,7 +1683,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3957.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3957.ts
 
 #EXTINF:-1 tvg-id="Starz.Encore.Español.SD.us2" tvg-name="Starz Encore Espanol" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-espanol-us.png" group-title="Movies",Starz Encore Espanol
-http://restream-live.realiptv.to:8080/live/52748969/72335180/327697.ts
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/327697.ts
 
 #EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="RetroPlex (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/plex-retroplex-us.png" group-title="Movies",RetroPlex (East)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/74685.ts
@@ -1753,6 +1753,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/631918.ts
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (East)" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Movies",Showtime Next (East)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/648985.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648985.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3970.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3970.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648985.ts
 -http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=92019&extension=ts&play_token=8jkyi5MwVX
@@ -2219,9 +2221,7 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS_src.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
-http://restream-live.realiptv.to:8080/live/52748969/72335180/3970.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3970.ts
--https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
+https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
 
 
 
@@ -2230,6 +2230,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3970.ts
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
