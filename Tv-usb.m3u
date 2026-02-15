@@ -1331,33 +1331,38 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3629.ts
 -http://89.105.221.127/Discovery/mpegts?token=test
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family" tvg-logo="https://i.imgur.com/pdNGDJ8.png",Discovery Family
-http://restream-live.realiptv.to:8080/live/52748969/72335180/
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2598.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2598.ts
 -http://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="https://i.imgur.com/ObPFgT8.png",Discovery Life
-http://restream-live.realiptv.to:8080/live/52748969/72335180/
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2597.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2597.ts
 -http://fl31.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 -#EXTINF:-1 tvg-id="CTV.Nature.HD.ca2" tvg-name="CTV Nature Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png",CTV Nature Channel
-http://restream-live.realiptv.to:8080/live/52748969/72335180/
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/
 -http://fl41.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png" group-title=" ",Discovery Science
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2595.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2595.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2595.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3757.ts
 
 #EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Magnolia-Network-Emblem.png",Magnolia Network
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3722.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3722.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3722.ts
 -http://fl51.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/investigation-discovery-id-int.png" group-title="Documentary",Investigation Discovery (West)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3837.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3837.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3837.ts
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime + Investigation" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png",Crime + Investigation
-https://fl31.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/20211.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/20211.ts
+-https://fl31.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/true-crime-network-us.png" group-title="Documentary",True Crime Network
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
@@ -1373,7 +1378,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3756.ts
 -http://fl61.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crime (West)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3839.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3839.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3839.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3873.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3873.ts
 
@@ -1384,7 +1390,8 @@ https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/maste
 https://amg00512-amg00512c6-cw-us-2475.playouts.now.amagi.tv/playlist/amg00512-filmrisefast-worldsmostevilkillers-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
 #EXTINF:-1 tvg-id="plex.tv.Alien.Nation.by.DUST.plex" tvg-name="Alien Nation" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https://provider-static.plex.tv/epg/cms/production/7d5598a6-e100-4fab-979a-cbf775aa8aa7/Alien-Nation_logo_blue_1500x1000.png" group-title="Documentary",Alien Nation
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660931.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/660931.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660931.ts
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
 http://104.255.88.155/usa/mpegts
@@ -2112,7 +2119,8 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS_src.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
-https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/98856f5512a44fb18f0eadfcfc07ca81/3e57ad4c0c474704a8ab6755316b04e2/index.m3u8
+-https://atl2.rocketdns.info:25463/live/52748969/72335180/74688.m3u8?token=HkNcWEBYFAkUVgEHAFIHVwFVBFQDCl1VA1kHUgYABgABVA1bBQcPAwYSH0ZAFRFRUwtoXlQaXgRWVwsJH0dHQAATa1BXEgwRBAEKXQNYQRgQEl5aVRpeA05DQ1hXRwgRVlQMCwQHBBEaElYcRwQRWlMKaFNVTg1QB0MJX0YJXh9HDlpmV1VbUlhUEV4RUUEYEA9ERxICCkYODR8TUQxGQQQVURsJEgULBgMRSBECDEFcEkVOEgJGZjFDHxNWHUZWCxJdVl0SDBFbA0ZcEU1BXUE5RVJDTBZWAwxWQxFfEANHTRZUUkhpUFleXQFQFQpbXBUVDRIKRh9ADFxfWhFdQToRXV0RChQBBwICUQZYQUk=
+-https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/98856f5512a44fb18f0eadfcfc07ca81/3e57ad4c0c474704a8ab6755316b04e2/index.m3u8
 -https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
 
 
@@ -2122,113 +2130,6 @@ https://vod-amc.simplestreamcdn.com/out/v1/a12448f1909542d2abd51ec3e0ce349c/9885
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
