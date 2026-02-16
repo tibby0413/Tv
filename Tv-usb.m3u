@@ -1561,7 +1561,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2408.ts
 -https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Movies",HBO (East)
-https://fl41.moveonjoy.com/HBO/index.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2491.ts
+-https://fl41.moveonjoy.com/HBO/index.m3u8
 -https://fl2.moveonjoy.com/HBO/index.m3u8
 -https://212.102.60.10/HBO/index.m3u8
 -http://89.105.221.127/HBO/mpegts?token=test
@@ -2241,6 +2242,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
