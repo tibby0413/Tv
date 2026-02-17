@@ -1922,14 +1922,21 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2198.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2198.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/650433.ts
 
-#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel
-http://restream-live.realiptv.to:8080/live/52748969/72335180/605742.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605742.ts
--The.Movie.Channel.(Pacific).us2
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel (East)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/527261.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527261.ts
 
-#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra
+#EXTINF:-1 tvg-id="The.Movie.Channel.(Pacific).us2" tvg-name="The Movie Channel (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel (West)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/605741.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605741.ts
+
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra (East)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/527262.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527262.ts
+
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra (West)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/605742.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605742.ts
 
 #EXTINF:-1 tvg-id="MovieTime.HD.ca2" tvg-name="MovieTime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/movietime-hd-ca.png" group-title="Movies",MovieTime
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3056.ts
@@ -2280,6 +2287,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
