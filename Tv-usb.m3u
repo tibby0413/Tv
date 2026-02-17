@@ -2031,6 +2031,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2412.ts
 #EXTINF:-1 tvg-id="Box.Cinema.distro" tvg-name="Box Cinema" tvg-logo="https://drive.google.com/uc?id=1QTKWv4TxDnA4XmbOPH2P_Fkry2gjGYo4" group-title="Movies",Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/CQH5QRY/m.m3u8
 
+#EXTINF:-1 tvg-id="AndFlix.HD.in" tvg-name="&flix" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&flix
+http://223.123.33.46:7000/play/a0eh/index.m3u8
+
 -#EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png" group-title="Entertainment",Canal 5
 -http://104.238.205.28:9090/278329_.m3u8
 
@@ -2273,6 +2276,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
