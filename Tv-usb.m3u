@@ -1909,6 +1909,10 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2203.ts
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2202.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2202.ts
 
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="Sky Cinema Sci-Fi" tvg-logo="https://drive.google.com/uc?id=1XDe_TQIjB0BJgejKZXEdvfTNRF6AQJVX" group-title="Movies",Sky Cinema Sci-Fi
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2167.ts
+-https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/2167.ts
+
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-select-uk.png" group-title="Movies",Sky Cinema Select
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2200.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2200.ts
@@ -2276,6 +2280,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
