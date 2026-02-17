@@ -149,8 +149,10 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42308.ts
 CARTOONS
 
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (East)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (East)
-http://212.102.60.10/NICK_JR/index.m3u8
-http://fl31.moveonjoy.com/NICK_JR/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/74691.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74691.ts
+-http://212.102.60.10/NICK_JR/index.m3u8
+-http://fl31.moveonjoy.com/NICK_JR/index.m3u8
 -http://fl41.moveonjoy.com/NICK_JR/index.m3u8
 -http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
@@ -159,13 +161,21 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/631832.ts
 
 -#EXTINF:-1 tvg-id="Nick.Jr..Too.uk" tvg-name="Nick Jr. Too" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-jr-too-uk.png" group-title="Cartoons",Nick Jr. Too
 
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (East)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (East)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3673.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3673.ts
+-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 -http://fl31.moveonjoy.com/NICKELODEON/index.m3u8
 -http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/43-NICKELODEON/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (West)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (West)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/631831.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631831.ts
+
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Cartoons",Nicktoons (East)
-http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3674.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3674.ts
+-http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
 -http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Cartoons",Nicktoons (West)
@@ -2287,6 +2297,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
