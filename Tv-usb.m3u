@@ -1745,9 +1745,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3965.ts
 -http://212.102.60.10/SHOWTIME_2/index.m3u8
 -http://fl41.moveonjoy.com/SHOWTIME_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="Movies",Showtime 2 (West)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/631912.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631912.ts
+-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="Movies",Showtime 2 (West)
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/631912.ts -is east as well?
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631912.ts -is east as well?
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-extreme-us.png" group-title="Movies",Showtime Extreme (East)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/648984.ts
@@ -2249,6 +2249,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
 -http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
 
 
 
