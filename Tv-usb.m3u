@@ -2288,31 +2288,23 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS_src.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
-https://ny31.rocketdns.info:25463/live/52748969/72335180/4431.m3u8?token=HkNcWEBYFAkUCFUAA1FVAApQUQYAXQADVFNSUgsDV1FdWQMNUggHV1QSH0ZAFRFRUwtoXlQaXgdWUgIdERBBVhc+XV0RChQBBwkKVApDTxZGD1pSEgJUH0ARWlURXxABVlMCCwIHFB8UVUsQVhMNVV45U1JGUQdWQFtdRF8JHhEKD2tdVl1XXVISCUYDQ08WWxVHFQpWEV8OTRFTWhFAUhEEFgMRBAQKBhIfRlAOFlpGFE4VChoxYEBNEVRLEVddFghbVxEKFF4FRQtGH0MKR20UUkRESgFSDwRBEwlHAhFJQ1lYS29VXFheVgdHCAxaQUQNFQIaSBEPDl1YRwpAbBUIUBsJEgQGAgYAUwtDHg==
--https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
+https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
-http://restream-live.realiptv.to:8080/live/52748969/72335180/4431.m3u8
--https://ny31.rocketdns.info:25463/live/52748969/72335180/4431.m3u8?token=HkNcWEBYFAkUCFUAA1FVAApQUQYAXQADVFNSUgsDV1FdWQMNUggHV1QSH0ZAFRFRUwtoXlQaXgdWUgIdERBBVhc+XV0RChQBBwkKVApDTxZGD1pSEgJUH0ARWlURXxABVlMCCwIHFB8UVUsQVhMNVV45U1JGUQdWQFtdRF8JHhEKD2tdVl1XXVISCUYDQ08WWxVHFQpWEV8OTRFTWhFAUhEEFgMRBAQKBhIfRlAOFlpGFE4VChoxYEBNEVRLEVddFghbVxEKFF4FRQtGH0MKR20UUkRESgFSDwRBEwlHAhFJQ1lYS29VXFheVgdHCAxaQUQNFQIaSBEPDl1YRwpAbBUIUBsJEgQGAgYAUwtDHg==
--https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
 
 
+-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
 
 
-
+-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
 
 
 
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
--#EXTINF:-1 tvg-id="Penthouse.TV.XX5.Premium.us2" tvg-name="Penthouse Reality TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/penthouse-reality-tv-bang-bros-bg.png" group-title="XXX",Penthouse Reality TV
--http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-
-
 
 
 
