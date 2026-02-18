@@ -190,6 +190,10 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2236.ts
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Cartoons",TeenNick
 http://restream-live.realiptv.to:8080/live/52748969/72335180/74692.ts
 
+#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" group-title="Music",NickMusic
+http://restream-live.realiptv.to:8080/live/52748969/72335180/89095.ts
+-http://restream-live.realiptv.to:8080/live/33741215/82527298/89095.ts
+
 -#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network & [adult swim]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png" group-title="Cartoons",Cartoon Network & [adult swim]
 -http://fl41.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 -http://1tv41.icu:8080/live/Y06DNq/295733/11644.m3u8
@@ -1362,6 +1366,11 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/48973.ts
 -http://fl51.moveonjoy.com/BET_GOSPEL/index.m3u8
 -http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 
+#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bet-jams-us.png" group-title="Music",BET Jams
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3947.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3947.ts
+-https://fl7.moveonjoy.com/BET_Jams/index.m3u8
+
 #EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" tvg-logo="https://i.imgur.com/VeuTWUb.png",BET Soul
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3948.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3948.ts
@@ -2147,14 +2156,6 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 Music
 
 
-#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" group-title="Music",NickMusic
-http://restream-live.realiptv.to:8080/live/52748969/72335180/89095.ts
--http://restream-live.realiptv.to:8080/live/33741215/82527298/89095.ts
-
-#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bet-jams-us.png" group-title="Music",BET Jams
-http://restream-live.realiptv.to:8080/live/52748969/72335180/3947.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3947.ts
--https://fl7.moveonjoy.com/BET_Jams/index.m3u8
 
 #EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-2k-vod.png" group-title="Music",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
@@ -2309,6 +2310,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
