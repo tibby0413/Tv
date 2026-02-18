@@ -1379,7 +1379,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/631835.ts
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bounce-us.png" group-title="Entertainment",Bounce
 http://restream-live.realiptv.to:8080/live/52748969/72335180/21896.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21896.ts
--http://restream-live.realiptv.to:8080/live/52748969/72335180/
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/660931.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660931.ts
 -https://fl61.moveonjoy.com/BOUNCE_TV/index.m3u8
 -https://fl2.moveonjoy.com/BOUNCE_TV/index.m3u8
 
@@ -1473,9 +1474,7 @@ https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/maste
 #EXTINF:-1 tvg-id="plex.tv.World`s.Most.Evil.Killers.plex" tvg-name="World's Most Evil Killers" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/worlds-most-evil-killers/channel-icon-unfocused.png" group-title="Documentary",World's Most Evil Killers
 https://amg00512-amg00512c6-cw-us-2475.playouts.now.amagi.tv/playlist/amg00512-filmrisefast-worldsmostevilkillers-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
-#EXTINF:-1 tvg-id="plex.tv.Alien.Nation.by.DUST.plex" tvg-name="Alien Nation" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https://provider-static.plex.tv/epg/cms/production/7d5598a6-e100-4fab-979a-cbf775aa8aa7/Alien-Nation_logo_blue_1500x1000.png" group-title="Documentary",Alien Nation
-http://restream-live.realiptv.to:8080/live/52748969/72335180/660931.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660931.ts
+-#EXTINF:-1 tvg-id="plex.tv.Alien.Nation.by.DUST.plex" tvg-name="Alien Nation" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https://provider-static.plex.tv/epg/cms/production/7d5598a6-e100-4fab-979a-cbf775aa8aa7/Alien-Nation_logo_blue_1500x1000.png" group-title="Documentary",Alien Nation
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
 http://104.255.88.155/usa/mpegts
@@ -2310,6 +2309,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
