@@ -915,6 +915,10 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3760.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3841.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3841.ts
 
+
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SyFy" tvg-logo="https://i.imgur.com/4fMWhUE.png",SyFy
+http://restream-live.realiptv.to:8080/live/52748969/72335180/74703.ts
+
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (East)
 http://fl12.moveonjoy.com/FX/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3642.ts
@@ -2306,6 +2310,7 @@ https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/226217
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
