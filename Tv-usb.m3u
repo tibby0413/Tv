@@ -922,10 +922,6 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3760.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3841.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3841.ts
 
-
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="SyFy" tvg-logo="https://i.imgur.com/4fMWhUE.png",SyFy
-http://restream-live.realiptv.to:8080/live/52748969/72335180/74703.ts
-
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (East)
 http://fl12.moveonjoy.com/FX/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3642.ts
@@ -1590,7 +1586,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2408.ts
 -https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Movies",HBO (East)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2491.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2491.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2491.ts
+-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133749
 -https://fl41.moveonjoy.com/HBO/index.m3u8
 -https://fl2.moveonjoy.com/HBO/index.m3u8
 -https://212.102.60.10/HBO/index.m3u8
@@ -1606,6 +1604,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3835.ts
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-hits-us.png" group-title="Movies",HBO Hits (East)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3656.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3188.ts
+-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/166343
 -https://fl31.moveonjoy.com/HBO_2/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45552&extension=ts&play_token=BA5u1lvuBH
 
@@ -1635,6 +1634,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631876.ts
 #EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-drama-us.png" group-title="Movies",HBO Drama
 http://restream-live.realiptv.to:8080/live/52748969/72335180/648981.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648981.ts
+-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/30341
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951704&extension=ts&play_token=LeVr22p6hP
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45547&extension=ts&play_token=DCTE98P1AF
 
@@ -1644,6 +1644,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/648981.ts
 #EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-latino-us.png" group-title="Movies",HBO Latino
 http://restream-live.realiptv.to:8080/live/52748969/72335180/648980.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648980.ts
+-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/166344
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951701&extension=ts&play_token=9Hf66Wsmsz
 
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz (East)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (East)
@@ -1732,6 +1733,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3953.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-family-us.png" group-title="Movies",Starz Encore Family
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3957.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3957.ts
+-http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13583
 
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-suspense-us.png" group-title="Movies",Starz Encore Suspense
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3958.ts
@@ -1780,13 +1782,16 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/93060.ts
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime (East)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (East)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3758.ts
--http://fl31.moveonjoy.com/SHOWTIME/index.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3758.ts
+-http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13579
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2416.ts
+-http://fl31.moveonjoy.com/SHOWTIME/index.m3u8
 -http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/631890.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631890.ts
+-http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13580
 -http://fl31.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="Movies",Showtime 2 (East)
@@ -1858,6 +1863,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3622.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3622.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3713.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3713.ts
+-http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13567
 -https://fl31.moveonjoy.com/CINEMAX/index.m3u8
 -http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 -http://89.105.221.127/cinemax/mpegts?token=test
@@ -1882,6 +1888,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/694516.ts
 #EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-action-us.png" group-title="Movies",Cinemax Action (East)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/51557.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/51557.ts
+-http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13566
 
 #EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-action-us.png" group-title="Movies",Cinemax Action (West)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/81383.ts
@@ -2044,6 +2051,10 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885510/hls/master.m3u8?withResolut
 
 #EXTINF:-1 tvg-id="plex.tv.FilmRise.Western.plex" tvg-name="FilmRise Western" tvg-logo="https://drive.google.com/uc?id=1AMUukU4t7vbvFHHH8hQMqx38q2Q3qQ9k" group-title="Movies",FilmRise Western
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885515&ads.csid=viziowatchfree_us_filmrisewestern_ssai&ads.caid=FilmRiseWestern&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseWestern&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885515&ads.xumo_channelName=FilmRiseWestern&ads._fw_content_programmer_brand=FilmRiseWestern&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6Mjk4NDk5NzEzOX0
+
+#EXTINF:-1 tvg-id=" " tvg-name="Van Helsing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Van_Helsing_(TV_series_logo).png",Van Helsing
+http://restream-live.realiptv.to:8080/live/52748969/72335180/74703.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74703.ts
 
 #EXTINF:-1 tvg-id="plex.tv.Z.Nation.plex" tvg-name="Filmrise Z Nation" tvg-logo="https://drive.google.com/uc?id=1YF2EaJ4GPhb23X7b1P_Ij8g9RnUzplSu" group-title="Movies",Filmrise Z Nation
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885576/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885576&ads.csid=viziowatchfree_us_znation_ssai&ads.caid=ZNation&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=ZNation&ads.xumo_providerId=260&ads.xumo_providerName=ZNation&ads.channelId=88885576&ads.xumo_channelName=ZNation&ads._fw_content_programmer_brand=ZNation&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDM2NzI0MDA1Mn0
@@ -2328,6 +2339,7 @@ http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133757
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
