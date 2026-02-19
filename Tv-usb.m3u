@@ -9,7 +9,8 @@
 
 NEWS
 
--#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="News",CBS 2 (Chicago)
+#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="News",CBS 2 (Chicago)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2648.ts
 -http://212.102.60.10/IL_Chicago_CBS/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 -http://fl2.moveonjoy.com/IL_Chicago_CBS/index.m3u8
@@ -26,8 +27,8 @@ NEWS
 -https://fl2.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173313&extension=ts&play_token=OQ5QmcsMy6
 
-#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="CBS 12 (Tennessee)" tvg-logo="https://drive.google.com/uc?id=1tFEaenZ_uMXD5BaDNSLJXwfOlhOhrBIu" group-title="News",CBS 12 (Tennessee)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/74687.ts
+-#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="CBS 12 (Tennessee)" tvg-logo="https://drive.google.com/uc?id=1tFEaenZ_uMXD5BaDNSLJXwfOlhOhrBIu" group-title="News",CBS 12 (Tennessee)
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/74687.ts
 
 #EXTINF:-1 tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-name="CBS News Chicago" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-chicago-us.png" group-title="News",CBS News Chicago
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
@@ -53,7 +54,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/74688.ts
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=t59wNxmEyqzp9_H4t7QS&_gl=1*dp12cf*_gcl_au*MTU4MzQwNjU5LjE3NzAxMDQ2ODk.*_ga*NzcyOTc1MTUyLjE3NzAxMDQ2ODk.*_ga_G6FQWNSENB*czE3NzExMzc1NjYkbzMkZzAkdDE3NzExMzc1NjckajU5JGwwJGgw
 -http://41.205.93.154/NBC/index.m3u8
 
--#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago)
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2695.ts
 -https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 -http://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
 
@@ -68,8 +70,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600dd53
 -#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 24/7 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 24/7 News
 -https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 
-#EXTINF:-1 tvg-id="WTVC-DT.us_locals1" tvg-name="ABC 9 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-9-wsyr-us.png" group-title="News",ABC 9 (Tennessee)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/74689.ts
+-#EXTINF:-1 tvg-id="WTVC-DT.us_locals1" tvg-name="ABC 9 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-9-wsyr-us.png" group-title="News",ABC 9 (Tennessee)
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/74689.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/74690.ts
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-live-us.png" group-title="News",ABC News Live
@@ -89,7 +91,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/85340.ts
 -#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="FOX 13 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-13-whbq-us.png" group-title="News",FOX 13 (Tennessee)
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 
--#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2567.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/74683.ts
 -http://212.102.60.10/IL_Chicago_FOX/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
@@ -2356,6 +2359,7 @@ http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/130019
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
