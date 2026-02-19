@@ -89,13 +89,14 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/85340.ts
 -#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="FOX 13 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-13-whbq-us.png" group-title="News",FOX 13 (Tennessee)
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/74683.ts
+-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/74683.ts
 -http://212.102.60.10/IL_Chicago_FOX/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
 
--#EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="FOX 25 (Boston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-25-wfxt-us.png" group-title="News",FOX 25 (Boston)
+#EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="FOX 25 (Boston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-25-wfxt-us.png" group-title="News",FOX 25 (Boston)
+https://dai.google.com/linear/hls/pa/event/1kItNgwtQUe54NjjBiiTGg/stream/147e22ea-553e-4410-8650-1cd53bf83032:DLS/master.m3u8
 -http://212.102.60.10/MA_BOSTON_FOX/index.m3u8
 -http://fl41.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
 
@@ -961,6 +962,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/30924.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/30924.ts
 -http://fl31.moveonjoy.com/FYI/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-name="Bar Rescue" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/bar-rescue-vod.png",Bar Rescue
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ad608256-a16e-4a49-a3ac-edc35ec7add1
+
 #EXTINF:-1 tvg-id="plex.tv.Fear.Factor.plex" tvg-name="Fear Factor" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/fear-factor-vod.png" group-title=" ",Fear Factor
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 
@@ -1239,13 +1243,17 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/597268.ts
 http://restream-live.realiptv.to:8080/live/52748969/72335180/607734.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/607734.ts
 
-#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We TV" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",We TV
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv" tvg-logo="https://drive.google.com/uc?id=1HKbAA-QXL4MNAgPkDNtaeLrHxokFolGf",WE tv
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3768.ts
 
-#EXTINF:-1 tvg-id="plex.tv.All.Reality.We.TV.plex" tvg-name="All Reality We TV" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png",All Reality We TV
+#EXTINF:-1 tvg-id="plex.tv.All.Reality.We.TV.plex" tvg-name="All Reality WE tv" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png",All Reality WE tv
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3768.ts
+
+#EXTINF:-1 tvg-id="plex.tv.All.Weddings.We.TV.plex" tvg-name="All Weddings WE tv" tvg-logo="https://drive.google.com/uc?id=1tQgVkjPQruPwp2l17dibj_lbCnIYtolI",All Weddings WE tv
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991625/hls/playlist.m3u8?ads.xumo_channelId=99991625&ads.channelId=99991625&ads.csid=xumo_desktopweb_amcallweddingswetv_ssai&ads._fw_is_lat=1&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_ifa_type=dpid&ads._fw_did=7ced0a36-8ce6-273b-1ab0-1b7ab89b2483&ads._fw_content_category=IAB1-7&ads._fw_content_language=en&ads._fw_content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2653&ads.xumo_contentName=amcallweddingswetv&ads.xumo_providerId=2653&ads.xumo_providerName=amcallweddingswetv&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.xumo_platform=desktopweb&ads.appVersion=2.21.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 
 -#EXTINF:-1 tvg-id="Horror.Machine.distro" tvg-name="Horror Machine" tvg-logo="https://p-img.movetv.com/1280x720/7a25625349b0f01c31a6819a004545b5.png" group-title="Movies",Horror Machine
 -https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
@@ -1265,8 +1273,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65e87f353355
 
 #EXTINF:-1 tvg-id="plex.tv.Ghosts.Are.Real.plex" tvg-name="Ghosts Are Real" tvg-logo="https://drive.google.com/uc?id=1rW_GGG2Usr4wHm_rK29PQ9e-joPqQeUC",Ghosts Are Real
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a294d3e1a2934adfe851f5/variant.m3u8?x-plex-token=95vZ-zU5GbKHKJFxs3x8&x-plex-advertising-identifier=&x-plex-client-identifier=adc6ceb7-aac0-4785-a164-3a4db1476509&x-plex-playback-id=p_f7572e22-f03a-41e8-893e-ce0c8d7526ae&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=143.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1768548185&url=40cd03213f1c99c61ef3d40176641630-5b1373eb86093247e3ef90e89b2b5291c00498f4e4538e8ab9682fd1d646a6c77b87704f0c687ab1ce7be91df0dcbe939a65afe6a31ab976b855e91c15492fd339291d8b26554d97f28dbbedfd1c0baa2f8a121f78723282464861e2762e3ee30ff83876e3292f648ece6237811e0518d3dcfd1e267a12b8e6fa2d2e5e3903f53c1d3e0ebf37289014f86e39e8468d0f33e94b2cd6e7cbdd49d7744ea57f536bb157b4847b7233b293f25e0e874dbd08c25ac29d6230cf6d2465af9b04a9f6302748a9b32fadb0b8ea42686d50ed99065fa554a1f2afec825bb88d507a7bdf09a8cc97ea7e37e1fdcd9c006d5b7f75144abd4f9afd2c170e7f024d47d6496be08145233cc06a2aadf1cf5d8dd7c3b51c7631a42efd5f0d6bd5704c0a25fd2b70f06a52bbc82061782f64cb43550adbde18692954ded09951d9e4f22f5a0e9f4612e8c8ffee4b5afaa2f116d380ecafaf8c6bfd4cfb95cecbfbfe7f79030562fd88c6a13594f400dfe407f2beaddb526d76bb52f4350c9eb063ccb0088fb1347d1324ba18432f46cc913c70b715185b2cca52696c90f1448fb5e1919199f0fd48cd3c7421ebe9ea3c85b7f549cf37f3f045018dd4e9b948f3568a06218b13e95480d2d72ed63db83c3e80c9ac5929f1aab730b85d954d0169e1ad0ef3b3f6cc927742b21f1b62a10246f91db21f44afb84abe81775010545ba54aba5adbc20d40f97fb6c73431c423fa484714886372a9e569cefd38d33aa0bb8e0d047bffd052265bd95f8ecb20218a0ebbefb1503e2a639a73444a9e7a6181157d35605bcf6f6c8b0f714706b2fcfe633e7aa4643d775f6816cbabbe99023382cb2ebc093e7576931937cd670291239a9ad3f3af2788760e43c001f7573f007b50f6c742553647c9f2635c9063f8c8f6d7179d55641b7c37f7299fb2da813a11e8291a4c3f6ebcf2ab14eb7670d0e96e55fac6decabb84c51f9079ce1c2d601e26b12ceee6ba30b1b2d3447cc33e74fffda911930be13aaf771bce60d9587e24e0fca570a3046a355b7667fa025df3d1bfa326d506c7278006e0b12f7f1e8c14470c98cba3354bd039487a89c6d4404425bd96bdd417a39692856b4dab3963f4ad14e80b6732120d243e16188aa089baa0f86ecafd01781fd037fdff5ba272d34e5878f9cff131c24b16a19619cb040d90782b0b8c29d3212d58e306a6ff7a619b47b99003068e7072a646b0eadee6433f4022d744b06124169fb4157bcd00564b989692c02879104cc7a6f755bdcea56c48b58875ccbf8a664906411db0fb731f624931cc021ba9714009ec38fc55937fa483d91b8177cb6b511ec13da37c33ec19577880154c7adefe9c76944ca4833e405eb4605e8df115cb8d31993ea11d176b891f05b8c9c4ebc1bf115ed4c7707d67b2f7a93d8ab928ef89d3da59bc9e0f779ec8239f9c0f9c3bdefb14e644317c83e1113178772d49c78919e918db4f7a184b8cc49f7c6c08f95a3a2577c9915c5d3ec5127bacacf00fc3225d1eeca72089aedb9e80e644310077ecf5cd80855d44514e50a428c3663e178dababc0450091ff87590fa655e9993362b2d40291218e53ebcbfd3887bf1d442f9f64738dd688d0b3517ef03761ef62069a634d7ad7dfa3961d9044a8e149f39958113ddd5cc7238b3add839a213647e05a3bacb2af58609ad84fe02a198da49fbf3f64f9dfe796915087932212d1644ed3e6eb039b1de7be15da1ad6f3b445a417278cc9d87f33d95293777a71999a3ebf4f9a8ac5460865361af5ae5cd8d94b59b8e97f53752d0557ad1ab36d232b766e7ed8ba3533bc90b9f01cd8dbe9232b113f57c8763601741b64c244f7e6dca558cb41a6d471387f0437a2c494d5de68a2b0cee483c0b8054c1c191c8ba17b3a1744f0cad48f5ad7ac0c6980028167724e80f369a5eee697670f904a09f272f1b73265280e9e5ca8f02b102f0ba8bdf83ee10758ca056f85d98981307d183a0dd63a7692b097080bbaccb6c1aff99efa1c739baa4763a4708d6ad2d0aa2e93e00746c721609f6f033746c082b4f77bb4d4c9590827599c85541a04fbc832bee4d9a343c14df46e99ee6eb28c4243f25cd44b34db3e82c65160f7b3ffac91fc36bd73a08317e940a970b82608c8a441927e033fda59ef87cfdc6545d2c759ebb7dd80f97e326ff3750474f20b645560b7c26ebf927358a7349c99815c9d03974c90ac8776b305ddb56fc14f6c5aaf6bb990599c6fc7fae8b695ae89d31fca6dec86f22c07ac723b7f196ccd4cefa7b64ac9c71c6f829cb9005fc408b14a53414249955dfa814ba24befd7&_gl=1*824hfh*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3Njg1NDQ2NjkkbzEkZzEkdDE3Njg1NDgxNzckajYwJGwwJGgw
-
--#EXTINF:-1 tvg-id="" tvg-name="Bar Rescue" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/bar-rescue-vod.png",Bar Rescue
 
 -#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png",A&E
 -https://fl61.moveonjoy.com/ANE/index.m3u8
@@ -2349,6 +2355,7 @@ http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133757
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
