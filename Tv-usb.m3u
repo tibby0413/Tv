@@ -70,6 +70,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600dd53
 
 #EXTINF:-1 tvg-id="WTVC-DT.us_locals1" tvg-name="ABC 9 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-9-wsyr-us.png" group-title="News",ABC 9 (Tennessee)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/74689.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/74690.ts
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-live-us.png" group-title="News",ABC News Live
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
@@ -88,7 +89,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/85340.ts
 -#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="FOX 13 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-13-whbq-us.png" group-title="News",FOX 13 (Tennessee)
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 
--#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
+http://restream-live.realiptv.to:8080/live/52748969/72335180/74683.ts
 -http://212.102.60.10/IL_Chicago_FOX/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
@@ -114,7 +116,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist
 -WPWR-DT.us_locals1
 
 #EXTINF:-1 tvg-id="plex.tv.LiveNOW.from.FOX.plex" tvg-name="LiveNOW from FOX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="News",LiveNOW from FOX
-https://foxvideo-fts-cf.video.fox/live/livenow-fts-uw2/index.m3u8?ad_env=1&_fw_ae=nomvpd&_fw_did=d782b83b-df57-4db4-8e24-53c799af90b8&_fw_is_lat=1&_fw_us_privacy=1YNN&_fw_vcid2=500763%3Ad782b83b-df57-4db4-8e24-53c799af90b8&ad=fw_prod&ad.csid=foxlocal%2Fweb%2Flive%2Flivenow&ad.prof=500763%3Ayospace_foxlocal_web_live&bu=fts&cdn=cf&channel=&exp=1771290266&is_lat=1&mcl_region=uw2&thumbsray=0&traceid=afb1980e-40fa-4f21-8b4b-cef05922d04c&yo.ai=60097&yo.av=4&yo.lpa=dur&yo.pbr=true&yo.pdt=sync&yo.pst=true&yo.t.jt=1500&hdnts=exp%3D1771290326~acl%3D%2F*~hmac%3D5ef28847dde2db6c6deffd93c16b9e5cafd72065f49383af25a34cabafb678f0
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=5yPknUPuFx7otDt9vj9Q&_gl=1*pmxz36*_gcl_au*MTU4MzQwNjU5LjE3NzAxMDQ2ODk.*_ga*NzcyOTc1MTUyLjE3NzAxMDQ2ODk.*_ga_G6FQWNSENB*czE3NzE0NzY3MzQkbzQkZzAkdDE3NzE0NzY3MzYkajU4JGwwJGgw
+-https://foxvideo-fts-cf.video.fox/live/livenow-fts-uw2/index.m3u8?ad_env=1&_fw_ae=nomvpd&_fw_did=d782b83b-df57-4db4-8e24-53c799af90b8&_fw_is_lat=1&_fw_us_privacy=1YNN&_fw_vcid2=500763%3Ad782b83b-df57-4db4-8e24-53c799af90b8&ad=fw_prod&ad.csid=foxlocal%2Fweb%2Flive%2Flivenow&ad.prof=500763%3Ayospace_foxlocal_web_live&bu=fts&cdn=cf&channel=&exp=1771290266&is_lat=1&mcl_region=uw2&thumbsray=0&traceid=afb1980e-40fa-4f21-8b4b-cef05922d04c&yo.ai=60097&yo.av=4&yo.lpa=dur&yo.pbr=true&yo.pdt=sync&yo.pst=true&yo.t.jt=1500&hdnts=exp%3D1771290326~acl%3D%2F*~hmac%3D5ef28847dde2db6c6deffd93c16b9e5cafd72065f49383af25a34cabafb678f0
 -https://d1bzb7b5prqjmj.cloudfront.net/playlist/amg00488-foxdigital-livenowbyfox-lgus/cb56391e6576619093c82167d6f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dae6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5aae90b438e65a4ac4a4a932b58e68314c9c914b9d1dc46ca168670f4159ac4f3dad715e0d6ab4b918649a96b224048aac214a6c754a2df9e290a88703c430d279ec9f1d06f4c4bc3de3e8292e5b077eb1b8ea82884723eb801e22fce50d82dc281c090cd65561f9fc26319dd5c68e2e25bf1982ab15a12b063e9abeadc3c5f91ff177940c65715434137bdf2d11d88cf14d9e36dd5f4212a31ce954a8c8ef2addbf0dc1ad2759187c39133141a38441ad009ebda4ccb39d17d9fcb110a55590bf8c9028ad58f1e784967b2ad72985317b0d08ec3f80b38c16f521acb68cb5408698365382fab7db7ca723cc9150b83342ff21760d315b2eb7a87d2b18f3132bbdac855ec2fbee578b5d836e93c6c1752c9b14639624372d7e26377405acb57ebdecfa13a4937e5f9c9f1d7407a601d1241079fedf77af9d799c97c877c968d067009f1bfed5119d8dfdb103b31d9bd9a/99/1280x720_2886400/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=730908&extension=ts&play_token=Eqe8eeieXi
 
@@ -2346,6 +2349,7 @@ http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133757
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
