@@ -2299,7 +2299,8 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS_src.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
-http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13582
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133757
+-http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13582
 -https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
 
 
@@ -2317,6 +2318,7 @@ http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13582
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
