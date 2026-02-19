@@ -350,18 +350,34 @@ http://104.238.205.28:9090/278775_.m3u8
 Italian
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-1-hd-it.png" group-title="Italian",Rai 1 HD
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
--https://list.iptvcat.com/my_list/s/26c3d3a9979bf1ac8c20bd555781fffe.m3u8
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135849
 -https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+-https://list.iptvcat.com/my_list/s/26c3d3a9979bf1ac8c20bd555781fffe.m3u8
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-2-hd-it.png" group-title="Italian",Rai 2 HD
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135852
+-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-3-hd-it.png" group-title="Italian",Rai 3 HD
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135855
+-http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135854 -1080p
+-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai Italia" tvg-logo="https://drive.usercontent.google.com/download?id=151AxB5pTT6MSKOoyRih2M2hHygzlHAX6&authuser=0" group-title="Italian",Rai Italia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-4-hd-it.png" group-title="Italian",Rai 4 HD
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135857
+-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+-https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
+
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_4K_-_Logo_2016.svg/960px-Rai_4K_-_Logo_2016.svg.png" group-title="Italian",Rai 4k
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135859
+
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-5-hd-it.png" group-title="Italian",Rai 5 HD
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135860
+-http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135861
+
+-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai Italia" tvg-logo="https://drive.usercontent.google.com/download?id=151AxB5pTT6MSKOoyRih2M2hHygzlHAX6&authuser=0" group-title="Italian",Rai Italia
+-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 
 -#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italian",Rai Movie
@@ -374,7 +390,8 @@ https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png" group-title="Italian",Rai Scuola
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135863
+-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 
 -#EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-name="Rai Sudtirol" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sudtirol-it.png" group-title="Italian",Rai Sudtirol
 -https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1379656191.m3u8
@@ -385,6 +402,19 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png" group-title="Italian",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
 
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://drive.usercontent.google.com/download?id=151AxB5pTT6MSKOoyRih2M2hHygzlHAX6&authuser=0" group-title="Italian",Rai Yoyo HD
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135899
+
+#EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1 HD" tvg-logo="https://drive.google.com/uc?id=1KgYZg9Wd86qeYufHVvEiWDzcg0QIQ7Kl" group-title="Italian",Italia 1 HD
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135833
+-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+
+#EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2 HD" tvg-logo="https://drive.google.com/uc?id=1YfVyMGl6xHIqBCxSJuF2UMShtRI5IHNT" group-title="Italian",Italia 2 HD
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135871
+-http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135836
+-https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IT:.Soap.Latino.be" tvg-name="Soap Latino (Italian)" tvg-logo="https://drive.google.com/uc?id=1fe6WdMUVkBmGzY6ILiqg8ZIDFw5iMJCG" group-title="Italian",Soap Latino (Italian)
 https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/3000.m3u8
 -https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/e8826106-1beb-4607-b599-f7fcc4ee9273/2.m3u8
@@ -392,14 +422,6 @@ https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="IT:.Soap.Turco.be" tvg-name="Soap Turco (Italian)" tvg-logo="https://drive.google.com/uc?id=1_flzmKnqkgaWrBHQ50uCHffzZcGiS46g" group-title="Italian",Soap Turco (Italian)
 https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/3000.m3u8
 -https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/f2aa277d-7b92-4f72-bb38-fb8d5f86bbc0/2.m3u8
-
-#EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1" tvg-logo="https://drive.google.com/uc?id=1KgYZg9Wd86qeYufHVvEiWDzcg0QIQ7Kl" group-title="Italian",Italia 1
-http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135833
--https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-
-#EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-logo="https://drive.google.com/uc?id=1YfVyMGl6xHIqBCxSJuF2UMShtRI5IHNT" group-title="Italian",Italia 2
-https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
--http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP.it" tvg-name="RTP Sicilia" tvg-logo="https://drive.google.com/uc?id=1XRykBtUG3J4DZTgTAul0C3Gb2HaqpQks",RTP Sicilia
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
@@ -2372,6 +2394,7 @@ http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/130019
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
