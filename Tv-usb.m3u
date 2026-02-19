@@ -672,7 +672,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2179.ts
 #EXTINF:-1 tvg-id=" " tvg-name="TNT Sports Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-premium-lam.png" group-title="Sports",TNT Sports Premium
 http://104.238.205.28:9090/278777_.m3u8
 
--#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="Sports",NFL RedZone
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="Sports",NFL RedZone
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/249239
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3752.ts
 -https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3752.ts
@@ -2355,6 +2356,7 @@ http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/130019
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
