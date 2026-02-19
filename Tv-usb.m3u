@@ -2342,8 +2342,8 @@ http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133757
 
 
 
--#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
-
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",Showtime 2 TEST
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/130019
 
 -#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
 
@@ -2355,6 +2355,7 @@ http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133757
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
