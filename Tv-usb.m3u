@@ -28,7 +28,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2631.ts
 -https://fl2.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173313&extension=ts&play_token=OQ5QmcsMy6
 
-#EXTINF:-1 tvg-id="KTVT-DT.us_locals1" tvg-name="CBS 11 (Fort Worth)" tvg-logo="https://www.clipartmax.com/png/middle/22-228906_ktvt-cbs-11-logo.png" group-title="News",CBS 11 (Fort Worth)
+#EXTINF:-1 tvg-id="KTVT-DT.us_locals1" tvg-name="CBS 11 (Fort Worth)" tvg-logo="https://news.tccd.edu/wp-content/uploads/2020/11/1200px-CBS112015Logo.svg_.png" group-title="News",CBS 11 (Fort Worth)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2645.ts
 
 -#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="CBS 12 (Tennessee)" tvg-logo="https://drive.google.com/uc?id=1tFEaenZ_uMXD5BaDNSLJXwfOlhOhrBIu" group-title="News",CBS 12 (Tennessee)
@@ -2363,6 +2363,7 @@ http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/130019
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
