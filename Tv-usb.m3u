@@ -355,6 +355,9 @@ http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135849
 -https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 -https://list.iptvcat.com/my_list/s/26c3d3a9979bf1ac8c20bd555781fffe.m3u8
 
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_4K_-_Logo_2016.svg/960px-Rai_4K_-_Logo_2016.svg.png" group-title="Italian",Rai 4k
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135859
+
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-2-hd-it.png" group-title="Italian",Rai 2 HD
 http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135852
 -https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
@@ -366,17 +369,16 @@ http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135855
 
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-4-hd-it.png" group-title="Italian",Rai 4 HD
 http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135857
+-http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135858
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
-
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_4K_-_Logo_2016.svg/960px-Rai_4K_-_Logo_2016.svg.png" group-title="Italian",Rai 4k
-http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135859
 
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-5-hd-it.png" group-title="Italian",Rai 5 HD
 http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135860
 -http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135861
 
--#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai Italia" tvg-logo="https://drive.usercontent.google.com/download?id=151AxB5pTT6MSKOoyRih2M2hHygzlHAX6&authuser=0" group-title="Italian",Rai Italia
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai Italia" tvg-logo="https://drive.usercontent.google.com/download?id=151AxB5pTT6MSKOoyRih2M2hHygzlHAX6&authuser=0" group-title="Italian",Rai Italia
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135874
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 
@@ -391,6 +393,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png" group-title="Italian",Rai Scuola
 http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135863
+-http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135864
 -https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 
 -#EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-name="Rai Sudtirol" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sudtirol-it.png" group-title="Italian",Rai Sudtirol
@@ -1972,8 +1975,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/81382.ts
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13571
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45595&extension=ts&play_token=hgAno6VEiQ
 
-#EXTINF:-1 tvg-id="Sky.Replay.uk" tvg-name="Sky Replay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-replay-uk.png" group-title="Movies",Sky Replay
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2178.ts
+-#EXTINF:-1 tvg-id="Sky.Replay.uk" tvg-name="Sky Replay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-replay-uk.png" group-title="Movies",Sky Replay
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/2178.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2178.ts
 
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-atlantic-uk.png" group-title="Movies",Sky Atlantic
@@ -2006,7 +2009,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/650430.ts
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2203.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2203.ts
 
-#EXTINF:-1 tvg-id="Sky.Hits.HD.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="Movies",Sky Cinema Hits
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="Movies",Sky Cinema Hits
 http://restream-live.realiptv.to:8080/live/52748969/72335180/487358.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/487358.ts
 
@@ -2395,6 +2398,7 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
