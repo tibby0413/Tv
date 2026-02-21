@@ -2387,8 +2387,8 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13985
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13582
 -https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
 
-
--#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",PARAMOUNT NETWORK Test
+http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10439
 
 -#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
 
@@ -2399,6 +2399,7 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13985
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
