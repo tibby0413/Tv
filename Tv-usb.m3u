@@ -2036,6 +2036,10 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2202.ts
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2167.ts
 -https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/2167.ts
 
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="Movies",Sky Cinema Sci-Fi & Horror
+http://restream-live.realiptv.to:8080/live/52748969/72335180/88862.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88862.ts
+
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-select-uk.png" group-title="Movies",Sky Cinema Select
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2200.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2200.ts
@@ -2064,10 +2068,6 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/605742.ts
 #EXTINF:-1 tvg-id="MovieTime.HD.ca2" tvg-name="MovieTime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/movietime-hd-ca.png" group-title="Movies",MovieTime
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3056.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3056.ts
-
-#EXTINF:-1 tvg-id=" " tvg-name="Horror Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/horror-channel-uk.png" group-title="Movies",Horror Channel
-http://restream-live.realiptv.to:8080/live/52748969/72335180/88862.ts
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88862.ts
 
 #EXTINF:-1 tvg-id="plex.tv.The.Asylum.plex" tvg-name="The Asylum Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/the-asylum-vod-us.png" group-title="Movies",The Asylum Movie Channel
 http://restream-live.realiptv.to:8080/live/52748969/72335180/709958.ts
@@ -2426,6 +2426,8 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 -STIRR Horror Movies
 -http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
+-Movies Action (1080p)
+-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 
 
