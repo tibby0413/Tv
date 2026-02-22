@@ -1832,7 +1832,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/631881.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/649403.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/649403.ts
 
-#EXTINF:-1 tvg-id="Starz.Encore.Español.SD.us2" tvg-name="Starz Encore Espanol" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-espanol-us.png" group-title="Movies",Starz Encore Espanol
+#EXTINF:-1 tvg-id="Starz.Encore.Español.SD.us2" tvg-name="Starz Encore en Español" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-espanol-us.png" group-title="Movies",Starz Encore en Español
 http://restream-live.realiptv.to:8080/live/52748969/72335180/327697.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/327697.ts
 
@@ -2417,6 +2417,7 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
