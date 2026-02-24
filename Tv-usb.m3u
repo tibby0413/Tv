@@ -1035,7 +1035,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951396/hls/playlist.m3u8?ads.xumo_c
 https://amg01312-cw-amg01312c1-cw-us-1753.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-cwpennandteller-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
 #EXTINF:-1 tvg-id="plex.tv.Robot.Wars.by.Mech+.plex" tvg-name="Robot Wars by Mech+" tvg-logo="https://images.pluto.tv/channels/677d672ef090ab00085b8e9b/solidLogoPNG.png" group-title="Vod",Robot Wars by Mech+
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/677d672ef090ab00085b8e9b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=b96228a4-0358-433a-84d3-7936eb6fda89&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=45ad6541-1145-11f1-9d33-46600d51a806
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eSD2d4EHo1kLp765px-7&_gl=1*2z7t2a*_gcl_au*MTU4MzQwNjU5LjE3NzAxMDQ2ODk.*_ga*NzcyOTc1MTUyLjE3NzAxMDQ2ODk.*_ga_G6FQWNSENB*czE3NzE5MjI4OTAkbzIkZzEkdDE3NzE5MjMzMTAkajQ2JGwwJGgw
+-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/677d672ef090ab00085b8e9b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=b96228a4-0358-433a-84d3-7936eb6fda89&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=45ad6541-1145-11f1-9d33-46600d51a806
 
 #EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/game-show-central-vod-us.png" group-title="Entertainment",Game Show Central
 https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
@@ -2457,6 +2458,7 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
