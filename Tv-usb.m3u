@@ -265,6 +265,12 @@ https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="Cartoons",MeTV Toons
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/721378.ts
 
+#EXTINF:-1 tvg-id=" " tvg-name="Toonami Aftermath (East)" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Cartoons",Toonami Aftermath (East)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Toonami Aftermath (West)" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Cartoons",Toonami Aftermath (West)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
 
 
 SPANISH
@@ -2196,6 +2202,9 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="EN:.Movies.Thriller.sa" tvg-name="Movies Thriller" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-name="Toonami Aftermath Movies" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Movies",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
 -#EXTINF:-1 tvg-id="AndFlix.HD.in" tvg-name="&flix" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&flix
 -http://223.123.33.46:7000/play/a0eh/index.m3u8
 
@@ -2451,6 +2460,7 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 -STIRR Horror Movies
 -http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
 
 
 
