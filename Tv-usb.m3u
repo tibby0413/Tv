@@ -1034,6 +1034,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951396/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id=" " tvg-name="Penn & Teller: Fool Us" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/penn-teller-fool-us/channel-icon-unfocused.png" group-title="Vod",Penn & Teller: Fool Us
 https://amg01312-cw-amg01312c1-cw-us-1753.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-cwpennandteller-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
+#EXTINF:-1 tvg-id="plex.tv.Robot.Wars.by.Mech+.plex" tvg-name="Robot Wars by Mech+" tvg-logo="https://images.pluto.tv/channels/677d672ef090ab00085b8e9b/solidLogoPNG.png" group-title="Vod",Robot Wars by Mech+
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/677d672ef090ab00085b8e9b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=b96228a4-0358-433a-84d3-7936eb6fda89&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=45ad6541-1145-11f1-9d33-46600d51a806
+
 #EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/game-show-central-vod-us.png" group-title="Entertainment",Game Show Central
 https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
 
@@ -2451,6 +2454,7 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
