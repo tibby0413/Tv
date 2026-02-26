@@ -41,9 +41,9 @@ https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/
 
 #EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="NBC 5 (Chicago)" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="News",NBC 5 (Chicago)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/74688.ts
--http://212.102.60.10/IL_Chicago_NBC/index.m3u8
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/660935.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660935.ts
+-http://212.102.60.10/IL_Chicago_NBC/index.m3u8
 -https://fl41.moveonjoy.com/IL_Chicago_NBC/index.m3u8
 -https://fl2.moveonjoy.com/IL_Chicago_NBC/index.m3u8
 
@@ -2549,6 +2549,7 @@ https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
