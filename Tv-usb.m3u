@@ -154,6 +154,9 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="Newsmax2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax2-us.png" group-title="News",Newsmax2
 https://newsmax-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-news-uk.png" group-title="News",Sky News
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2197.ts
+
 #EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-weather-us.png" group-title="Weather",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/638797.ts
@@ -658,14 +661,23 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/90427.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/90427.ts
 
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/yes-network-us.png" group-title="Sports",Yes Network
-https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
+http://restream-live.realiptv.to:8080/live/52748969/72335180/3695.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3695.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/2377.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2377.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/3776.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3776.ts
+-https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SNY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" group-title="Sports",SNY
-http://fl51.moveonjoy.com/SNY/index.m3u8
--http://restream-live.realiptv.to:8080/live/52748969/72335180/2413.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2413.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2413.ts
+-http://fl51.moveonjoy.com/SNY/index.m3u8
 -https://fl7.moveonjoy.com/SNY/index.m3u8
 -http://fl2.moveonjoy.com/SNY/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-one-uk.png" group-title="Sports",Sky One
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2196.ts
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="Sports",Sky Sports Main Event
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2185.ts
@@ -673,52 +685,75 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2185.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117070
 
--#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="Sports",Sky Sports NFL
--http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117063
-
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="Sports",Sky Sports Football
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2188.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2188.ts
--http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117068
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="Sports",Sky Sports Action
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2194.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2194.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/2195.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2195.ts
+-http://m4.dns-speedy.com:80/Dieter/71AC65/101043
 
 #EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-uk.png" group-title="Sports",Sky Sports Arena
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2193.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2193.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117064
 
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="Sports",Sky Sports Action
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2194.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2194.ts
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2191.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2191.ts
+-http://restream-live.realiptv.to:8080/live/52748969/72335180/2192.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2192.ts
+-http://m4.dns-speedy.com:80/Dieter/71AC65/101050
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="Sports",Sky Sports Premier League
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2182.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
+-#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="Sports",Sky Sports NFL
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117063
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Sports",Sky Sports F1
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2190.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2190.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117067
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="Sports",Sky Sports Football
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2188.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2188.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117068
+-http://m4.dns-speedy.com:80/Dieter/71AC65/101044
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="Sports",Sky Sports Golf
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2186.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2187.ts
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2180.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2180.ts
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Sports",Sky Sports F1
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2190.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2190.ts
--http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117067
-
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-uk.png" group-title="Sports",Sky Sports Racing
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2226.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2226.ts
--http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117073
+-http://m4.dns-speedy.com:80/Dieter/71AC65/103109
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="Sports",Sky Sports News
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2179.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117072
+-http://m4.dns-speedy.com:80/Dieter/71AC65/101042
 
--#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 3
--http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117039
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="Sports",Sky Sports Premier League
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2182.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
+-http://m4.dns-speedy.com:80/Dieter/71AC65/101045
 
--#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT Sports 4
--http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117074
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="Sports",Sky Sports Tennis
+http://m4.dns-speedy.com:80/Dieter/71AC65/1341720
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-uk.png" group-title="Sports",Sky Sports Racing
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2226.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2226.ts
+-http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117073
+-http://m4.dns-speedy.com:80/Dieter/71AC65/101047
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 3
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117039
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT Sports 4
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117074
 
 #EXTINF:-1 tvg-id=" " tvg-name="TNT Sports Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-premium-lam.png" group-title="Sports",TNT Sports Premium
 http://104.238.205.28:9090/278777_.m3u8
@@ -752,7 +787,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3661.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3661.ts
 -http://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 
--#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mlb-network-strike-zone-us.png" group-title="Sports",MLB Strike Zone
+#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mlb-network-strike-zone-us.png" group-title="Sports",MLB Strike Zone
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2480.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=91899&extension=ts&play_token=a4baWLSP7X
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB Baseball" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/mlb-vod.png" group-title="Sports",MLB Baseball
@@ -831,7 +867,8 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/3701.ts
 https://amg01312-cw-amg01312c51-cw-us-11213.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01312-nexstarmediagroupcw-cwpresentswwenxt-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
 #EXTINF:-1 tvg-id="plex.tv.TNA.Wrestling.Channel.plex" tvg-name="TNA Wrestling" tvg-logo="https://drive.google.com/uc?id=1fesp2tnZg4GGNPqNvrdNNREnA4QE2jzE" group-title="Sports",TNA Wrestling
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?advertisingId=&appName=web&appVersion=9.19.0-7a6c115631d945c4f7327de3e03b7c474b692657&app_name=web&clientDeviceType=0&clientID=c0561b0d-cdab-4a0f-aacd-b89453862ed8&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=c0561b0d-cdab-4a0f-aacd-b89453862ed8&deviceLat=42.3900&deviceLon=-88.3500&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=139.0.0&marketingRegion=US&serverSideAds=false&sessionID=649aa9eb-97bb-42d6-85e0-d0595821c87a&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImIwYzY0YWFiLWRmZTYtNDEyYS1iYmM3LThiYjNjMGM5MTM3ZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNmFjYTRhNy0xMzEwLTExZjEtYWYxMC01YTgwM2U4YWJhNmMiLCJjbGllbnRJUCI6IjUwLjQ0LjkyLjE2MiIsImNpdHkiOiJXb25kZXIgTGFrZSIsInBvc3RhbENvZGUiOiI2MDA5NyIsImNvdW50cnkiOiJVUyIsImRtYSI6NjAyLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6NDIuMzg5OTk5Mzg5NjQ4NDQsImRldmljZUxvbiI6LTg4LjM0OTk5ODQ3NDEyMTEsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzOS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTkuMC03YTZjMTE1NjMxZDk0NWM0ZjczMjdkZTNlMDNiN2M0NzRiNjkyNjU3IiwiY2xpZW50SUQiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9DaGljYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJhZExvYWQiOnsiY29ob3J0IjoiIn0sIm11bHRpQXVkaW8iOnsiZW5hYmxlZCI6dHJ1ZX0sIm11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzZWFyY2hBUEkiOnsicXVlcnlWZXJzaW9uIjoiaHlicmlkIn0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhZNjM5NWQtT2JMbVFmX0tjbDAwWGlvVEtjUWV2b3pnUGwzS1NBRmVkVWh2WTVXSGMiLCJmd1ZjSUQyQ29wcGEiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImMwNTYxYjBkLWNkYWItNGEwZi1hYWNkLWI4OTQ1Mzg2MmVkOCIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWFk2Mzk1ZC1PYkxtUWZfS2NsMDBYaW9US2NRZXZvemdQbDNLU0FGZWRVaHZZNVdIYyIsImZtc19oaF9yYW1wX2lkIjoiaFk2Mzk1YWpkdjVqcjVDU3RXNVJuR2xSZ21BaVpKbS00QkRZUGViXzVPSXlFYXFuOCIsImZtc19iaWRpZHR5cGUiOiIxMDQyLDEwNTIsMTAzMiwxMDEyLDEwNzIsMTA4MiIsIl9md18zUF9VSUQiOiJJREw6QWhpTkRxWWduTHU4dDRyaW13VjFnYXd1TFdaelJZbVo2Ukx2Ynh6M1JJY1JPLWdqa09rVUZCdFpjTkxTbWQxbER3dGx0T1pKbG10cDRQYmt6WkRWZlZLb3lzZzJEYjZuTk43cDM2bTZwUzFSSnVGTnZIU0h1TDhqRWJObW11Ul9rc2RyaThpRU0tMWFKMHJnV3JOeDNGR3RlYm5qdXZqMXNLSlFBaFUwT05PRHdtSUZfYmIzQTU1SWZrclhPMUlkYlVDWllVRHpHc3JjVTg2QjdGSDFoVThoTTkwUnBlTVNiWGtKSHZKeVQ4LV9SWm5Ea05MTDhWdjcxcUg2akhqZDQ5LUhqdFJvSjB3X240Qm1HNWdUWDhBV19Vd1Bmb3FndUlRMENrYzUyRy1GTjBfaGp5R0U0Z2lSeFAwcVgtY29rMjdJU080azVkRmNzdHFEaTFkYzl4c3hOeGo3Skx0MlFPRURQU055dGcsUEFJUklEOkF3QjJ0VEk2UHhEUlRNaEVvR2dZYkczSmQ4aVFNbHh6K29vaitYMkp3dlNULGNvbm5lY3RpZDpMb0tOdk9mMjUycE5iSVJOR1hvN0ZPYTdCenlhR0VGQkJPMzJLV29ubUg1cG9HTUdQdFc0a2RVX3VUdlRHTHZVeTRZekJ0bU52SjlvdUhFTW96NUJDQSxVSUQyOkE0QUFBQ3FIZmdIc3RDSldJejJERTBMb3NKYmdMNGhRbDRqaHdkWDdHX2NyV3NYWEFZbGVXRFpwQ3IyS2dKMFEwME40U3VWUExqUW5idFRtWW9kM05GUTZFMlM3bHZkaDdWbnFiMFNxeEwwMDJ4YkpjcnJIV3BqZEs4dDluQWk1UFhxelZ1MFpOaWpvcG9haFB5bFlYWk1vRnUzR1ZqLXhER2ZYS1ByNVBNU3BkZVhOR1ozcFEta1NDXzk4YXlYaEVuRlRpcnhhNjgtWnltQmNmck9ISE41dmRBLFZJQU5UUDoyOTllMTUxYTIxMmEyYTdhODMwNDY4MDEyOTc4YTU5NWQ1MDE2OGQxN2I3Y2EyYWRkZjMwZjk2N2RjZDQ0YjVjLFRJTlVJVEk6YmNkZDE1MzE4MmFiNWY0YzA4NjI2YWE5MzU4ODQ5N2YyYzhjOGEzN2YwY2UxNWExMTJhNTIxYTY4MjBlYTY4ZCIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDEifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3MjEwOTQ5Nzc1NywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOll6QTFOakZpTUdRdFkyUmhZaTAwWVRCbUxXRmhZMlF0WWpnNU5EVXpPRFl5WldRNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzIxOTU4OTcsImlhdCI6MTc3MjEwOTQ5NywianRpIjoiZmZiNTgxZmEtNDhiNi00YmY2LTg3ZTgtM2FlNjg2NWY4NzllIn0.YddeQd5f6coB5PD-ZPI6IU3hWDSjDqDOEB3vHLSO_FI&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEE7cZJU8SYajASwyIo0rA_Lxlcfife_D5il2xHfnedLvuEKHiUfC_r_PEAipbG4hWMTr7zNbvY2s-0GPPuut0nSVoQqOHzSCwEYMxIbSRCDLiT74DrDVjopkKgsa39_S22PT2ksP1efGFuqrJAHoHlRGmER_SSxQlHXDCwid2SnNW6o77lqXdDSAS_TgLw-jiYrTMm19UoUski4bifbRYcmFrWGXGvwx5Texd_FTwyZycGecKrkRyD63vvWxka9NCt-NPkC8of2xNTNPfEaoxPQ0vp8wBbSbXdEHKnaWN2wYnMkQvZOX6pgqenf7kPCH8XpL0yXZf9yF0bl9FzpLYh97XvsCPO7GyzkntpNdWY-8gvKObuxmuB8fKAH7kQotyJUgkEjfBACmcygCqgXadxn2nC1g_vOJuUMbLS0GH5MqEA2M7HPLI96gGpVxVm-sk_GvAbIiAVX8X4uKJnOvpTLaZK3asjZ-mMLwRt2MwtfVEzUTg_mT3MPF67RGMoRWtOWejgJeZ024-YfhAEhmPvG7iZOofu7tPp2jks9CPbCZxa2lmcexKhjma9_VRRT8KKpfdg80enoROPgA9KkuaDn0gKOh_RREH-UuhV4LhB68pmlzSC56bka1kNDIOpCD2EQzQOJpHOgsSrna-3D8RvqI8aoGAHIzGS1Sfx7XvFjFmimSHc2TVHuxxJAblzZ9ZEqLinwTRy0e9J4Z2Rbm7byHISw1dEq2hBYQ-QZBUE1
+http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/1004377
+-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?advertisingId=&appName=web&appVersion=9.19.0-7a6c115631d945c4f7327de3e03b7c474b692657&app_name=web&clientDeviceType=0&clientID=c0561b0d-cdab-4a0f-aacd-b89453862ed8&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=c0561b0d-cdab-4a0f-aacd-b89453862ed8&deviceLat=42.3900&deviceLon=-88.3500&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=139.0.0&marketingRegion=US&serverSideAds=false&sessionID=649aa9eb-97bb-42d6-85e0-d0595821c87a&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImIwYzY0YWFiLWRmZTYtNDEyYS1iYmM3LThiYjNjMGM5MTM3ZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNmFjYTRhNy0xMzEwLTExZjEtYWYxMC01YTgwM2U4YWJhNmMiLCJjbGllbnRJUCI6IjUwLjQ0LjkyLjE2MiIsImNpdHkiOiJXb25kZXIgTGFrZSIsInBvc3RhbENvZGUiOiI2MDA5NyIsImNvdW50cnkiOiJVUyIsImRtYSI6NjAyLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6NDIuMzg5OTk5Mzg5NjQ4NDQsImRldmljZUxvbiI6LTg4LjM0OTk5ODQ3NDEyMTEsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzOS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTkuMC03YTZjMTE1NjMxZDk0NWM0ZjczMjdkZTNlMDNiN2M0NzRiNjkyNjU3IiwiY2xpZW50SUQiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9DaGljYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJhZExvYWQiOnsiY29ob3J0IjoiIn0sIm11bHRpQXVkaW8iOnsiZW5hYmxlZCI6dHJ1ZX0sIm11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzZWFyY2hBUEkiOnsicXVlcnlWZXJzaW9uIjoiaHlicmlkIn0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhZNjM5NWQtT2JMbVFmX0tjbDAwWGlvVEtjUWV2b3pnUGwzS1NBRmVkVWh2WTVXSGMiLCJmd1ZjSUQyQ29wcGEiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImMwNTYxYjBkLWNkYWItNGEwZi1hYWNkLWI4OTQ1Mzg2MmVkOCIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWFk2Mzk1ZC1PYkxtUWZfS2NsMDBYaW9US2NRZXZvemdQbDNLU0FGZWRVaHZZNVdIYyIsImZtc19oaF9yYW1wX2lkIjoiaFk2Mzk1YWpkdjVqcjVDU3RXNVJuR2xSZ21BaVpKbS00QkRZUGViXzVPSXlFYXFuOCIsImZtc19iaWRpZHR5cGUiOiIxMDQyLDEwNTIsMTAzMiwxMDEyLDEwNzIsMTA4MiIsIl9md18zUF9VSUQiOiJJREw6QWhpTkRxWWduTHU4dDRyaW13VjFnYXd1TFdaelJZbVo2Ukx2Ynh6M1JJY1JPLWdqa09rVUZCdFpjTkxTbWQxbER3dGx0T1pKbG10cDRQYmt6WkRWZlZLb3lzZzJEYjZuTk43cDM2bTZwUzFSSnVGTnZIU0h1TDhqRWJObW11Ul9rc2RyaThpRU0tMWFKMHJnV3JOeDNGR3RlYm5qdXZqMXNLSlFBaFUwT05PRHdtSUZfYmIzQTU1SWZrclhPMUlkYlVDWllVRHpHc3JjVTg2QjdGSDFoVThoTTkwUnBlTVNiWGtKSHZKeVQ4LV9SWm5Ea05MTDhWdjcxcUg2akhqZDQ5LUhqdFJvSjB3X240Qm1HNWdUWDhBV19Vd1Bmb3FndUlRMENrYzUyRy1GTjBfaGp5R0U0Z2lSeFAwcVgtY29rMjdJU080azVkRmNzdHFEaTFkYzl4c3hOeGo3Skx0MlFPRURQU055dGcsUEFJUklEOkF3QjJ0VEk2UHhEUlRNaEVvR2dZYkczSmQ4aVFNbHh6K29vaitYMkp3dlNULGNvbm5lY3RpZDpMb0tOdk9mMjUycE5iSVJOR1hvN0ZPYTdCenlhR0VGQkJPMzJLV29ubUg1cG9HTUdQdFc0a2RVX3VUdlRHTHZVeTRZekJ0bU52SjlvdUhFTW96NUJDQSxVSUQyOkE0QUFBQ3FIZmdIc3RDSldJejJERTBMb3NKYmdMNGhRbDRqaHdkWDdHX2NyV3NYWEFZbGVXRFpwQ3IyS2dKMFEwME40U3VWUExqUW5idFRtWW9kM05GUTZFMlM3bHZkaDdWbnFiMFNxeEwwMDJ4YkpjcnJIV3BqZEs4dDluQWk1UFhxelZ1MFpOaWpvcG9haFB5bFlYWk1vRnUzR1ZqLXhER2ZYS1ByNVBNU3BkZVhOR1ozcFEta1NDXzk4YXlYaEVuRlRpcnhhNjgtWnltQmNmck9ISE41dmRBLFZJQU5UUDoyOTllMTUxYTIxMmEyYTdhODMwNDY4MDEyOTc4YTU5NWQ1MDE2OGQxN2I3Y2EyYWRkZjMwZjk2N2RjZDQ0YjVjLFRJTlVJVEk6YmNkZDE1MzE4MmFiNWY0YzA4NjI2YWE5MzU4ODQ5N2YyYzhjOGEzN2YwY2UxNWExMTJhNTIxYTY4MjBlYTY4ZCIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDEifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3MjEwOTQ5Nzc1NywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOll6QTFOakZpTUdRdFkyUmhZaTAwWVRCbUxXRmhZMlF0WWpnNU5EVXpPRFl5WldRNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzIxOTU4OTcsImlhdCI6MTc3MjEwOTQ5NywianRpIjoiZmZiNTgxZmEtNDhiNi00YmY2LTg3ZTgtM2FlNjg2NWY4NzllIn0.YddeQd5f6coB5PD-ZPI6IU3hWDSjDqDOEB3vHLSO_FI&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEE7cZJU8SYajASwyIo0rA_Lxlcfife_D5il2xHfnedLvuEKHiUfC_r_PEAipbG4hWMTr7zNbvY2s-0GPPuut0nSVoQqOHzSCwEYMxIbSRCDLiT74DrDVjopkKgsa39_S22PT2ksP1efGFuqrJAHoHlRGmER_SSxQlHXDCwid2SnNW6o77lqXdDSAS_TgLw-jiYrTMm19UoUski4bifbRYcmFrWGXGvwx5Texd_FTwyZycGecKrkRyD63vvWxka9NCt-NPkC8of2xNTNPfEaoxPQ0vp8wBbSbXdEHKnaWN2wYnMkQvZOX6pgqenf7kPCH8XpL0yXZf9yF0bl9FzpLYh97XvsCPO7GyzkntpNdWY-8gvKObuxmuB8fKAH7kQotyJUgkEjfBACmcygCqgXadxn2nC1g_vOJuUMbLS0GH5MqEA2M7HPLI96gGpVxVm-sk_GvAbIiAVX8X4uKJnOvpTLaZK3asjZ-mMLwRt2MwtfVEzUTg_mT3MPF67RGMoRWtOWejgJeZ024-YfhAEhmPvG7iZOofu7tPp2jks9CPbCZxa2lmcexKhjma9_VRRT8KKpfdg80enoROPgA9KkuaDn0gKOh_RREH-UuhV4LhB68pmlzSC56bka1kNDIOpCD2EQzQOJpHOgsSrna-3D8RvqI8aoGAHIzGS1Sfx7XvFjFmimSHc2TVHuxxJAblzZ9ZEqLinwTRy0e9J4Z2Rbm7byHISw1dEq2hBYQ-QZBUE1
 -http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
 -https://www.nicepng.com/png/full/141-1414956_tna-wrestling-tna-logo.png
 
@@ -839,7 +876,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/68c85164b7af374ee483210f/master.m3u8?advertisingId=&appName=web&appVersion=9.19.0-7a6c115631d945c4f7327de3e03b7c474b692657&app_name=web&clientDeviceType=0&clientID=c0561b0d-cdab-4a0f-aacd-b89453862ed8&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=c0561b0d-cdab-4a0f-aacd-b89453862ed8&deviceLat=42.3900&deviceLon=-88.3500&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=139.0.0&marketingRegion=US&serverSideAds=false&sessionID=fec4bea6-10f0-11f1-aee0-4674c943766c&sid=fec4bea6-10f0-11f1-aee0-4674c943766c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImIwYzY0YWFiLWRmZTYtNDEyYS1iYmM3LThiYjNjMGM5MTM3ZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNmFjYTRhNy0xMzEwLTExZjEtYWYxMC01YTgwM2U4YWJhNmMiLCJjbGllbnRJUCI6IjUwLjQ0LjkyLjE2MiIsImNpdHkiOiJXb25kZXIgTGFrZSIsInBvc3RhbENvZGUiOiI2MDA5NyIsImNvdW50cnkiOiJVUyIsImRtYSI6NjAyLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6NDIuMzg5OTk5Mzg5NjQ4NDQsImRldmljZUxvbiI6LTg4LjM0OTk5ODQ3NDEyMTEsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzOS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTkuMC03YTZjMTE1NjMxZDk0NWM0ZjczMjdkZTNlMDNiN2M0NzRiNjkyNjU3IiwiY2xpZW50SUQiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9DaGljYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJhZExvYWQiOnsiY29ob3J0IjoiIn0sIm11bHRpQXVkaW8iOnsiZW5hYmxlZCI6dHJ1ZX0sIm11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzZWFyY2hBUEkiOnsicXVlcnlWZXJzaW9uIjoiaHlicmlkIn0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhZNjM5NWQtT2JMbVFmX0tjbDAwWGlvVEtjUWV2b3pnUGwzS1NBRmVkVWh2WTVXSGMiLCJmd1ZjSUQyQ29wcGEiOiJjMDU2MWIwZC1jZGFiLTRhMGYtYWFjZC1iODk0NTM4NjJlZDgiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImMwNTYxYjBkLWNkYWItNGEwZi1hYWNkLWI4OTQ1Mzg2MmVkOCIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWFk2Mzk1ZC1PYkxtUWZfS2NsMDBYaW9US2NRZXZvemdQbDNLU0FGZWRVaHZZNVdIYyIsImZtc19oaF9yYW1wX2lkIjoiaFk2Mzk1YWpkdjVqcjVDU3RXNVJuR2xSZ21BaVpKbS00QkRZUGViXzVPSXlFYXFuOCIsImZtc19iaWRpZHR5cGUiOiIxMDQyLDEwNTIsMTAzMiwxMDEyLDEwNzIsMTA4MiIsIl9md18zUF9VSUQiOiJJREw6QWhpTkRxWWduTHU4dDRyaW13VjFnYXd1TFdaelJZbVo2Ukx2Ynh6M1JJY1JPLWdqa09rVUZCdFpjTkxTbWQxbER3dGx0T1pKbG10cDRQYmt6WkRWZlZLb3lzZzJEYjZuTk43cDM2bTZwUzFSSnVGTnZIU0h1TDhqRWJObW11Ul9rc2RyaThpRU0tMWFKMHJnV3JOeDNGR3RlYm5qdXZqMXNLSlFBaFUwT05PRHdtSUZfYmIzQTU1SWZrclhPMUlkYlVDWllVRHpHc3JjVTg2QjdGSDFoVThoTTkwUnBlTVNiWGtKSHZKeVQ4LV9SWm5Ea05MTDhWdjcxcUg2akhqZDQ5LUhqdFJvSjB3X240Qm1HNWdUWDhBV19Vd1Bmb3FndUlRMENrYzUyRy1GTjBfaGp5R0U0Z2lSeFAwcVgtY29rMjdJU080azVkRmNzdHFEaTFkYzl4c3hOeGo3Skx0MlFPRURQU055dGcsUEFJUklEOkF3QjJ0VEk2UHhEUlRNaEVvR2dZYkczSmQ4aVFNbHh6K29vaitYMkp3dlNULGNvbm5lY3RpZDpMb0tOdk9mMjUycE5iSVJOR1hvN0ZPYTdCenlhR0VGQkJPMzJLV29ubUg1cG9HTUdQdFc0a2RVX3VUdlRHTHZVeTRZekJ0bU52SjlvdUhFTW96NUJDQSxVSUQyOkE0QUFBQ3FIZmdIc3RDSldJejJERTBMb3NKYmdMNGhRbDRqaHdkWDdHX2NyV3NYWEFZbGVXRFpwQ3IyS2dKMFEwME40U3VWUExqUW5idFRtWW9kM05GUTZFMlM3bHZkaDdWbnFiMFNxeEwwMDJ4YkpjcnJIV3BqZEs4dDluQWk1UFhxelZ1MFpOaWpvcG9haFB5bFlYWk1vRnUzR1ZqLXhER2ZYS1ByNVBNU3BkZVhOR1ozcFEta1NDXzk4YXlYaEVuRlRpcnhhNjgtWnltQmNmck9ISE41dmRBLFZJQU5UUDoyOTllMTUxYTIxMmEyYTdhODMwNDY4MDEyOTc4YTU5NWQ1MDE2OGQxN2I3Y2EyYWRkZjMwZjk2N2RjZDQ0YjVjLFRJTlVJVEk6YmNkZDE1MzE4MmFiNWY0YzA4NjI2YWE5MzU4ODQ5N2YyYzhjOGEzN2YwY2UxNWExMTJhNTIxYTY4MjBlYTY4ZCIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDEifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3MjEwOTQ5Nzc1NywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOll6QTFOakZpTUdRdFkyUmhZaTAwWVRCbUxXRmhZMlF0WWpnNU5EVXpPRFl5WldRNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzIxOTU4OTcsImlhdCI6MTc3MjEwOTQ5NywianRpIjoiZmZiNTgxZmEtNDhiNi00YmY2LTg3ZTgtM2FlNjg2NWY4NzllIn0.YddeQd5f6coB5PD-ZPI6IU3hWDSjDqDOEB3vHLSO_FI&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEE7cZJU8SYajASwyIo0rA_Lxlcfife_D5il2xHfnedLvuEKHiUfC_r_PEAipbG4hWMTr7zNbvY2s-0GPPuut0nSVoQqOHzSCwEYMxIbSRCDLiT74DrDVjopkKgsa39_S22PT2ksP1efGFuqrJAHoHlRGmER_SSxQlHXDCwid2SnNW6o77lqXdDSAS_TgLw-jiYrTMm19UoUski4bifbRYcmFrWGXGvwx5Texd_FTwyZycGecKrkRyD63vvWxka9NCt-NPkC8of2xNTNPfEaoxPQ0vp8wBbSbXdEHKnaWN2wYnMkQvZOX6pgqenf7kPCH8XpL0yXZf9yF0bl9FzpLYh97XvsCPO7GyzkntpNdWY-8gvKObuxmuB8fKAH7kQotyJUgkEjfBACmcygCqgXadxn2nC1g_vOJuUMbLS0GH5MqEA2M7HPLI96gGpVxVm-sk_GvAbIiAVX8X4uKJnOvpTLaZK3asjZ-mMLwRt2MwtfVEzUTg_mT3MPF67RGMoRWtOWejgJeZ024-YfhAEhmPvG7iZOofu7tPp2jks9CPbCZxa2lmcexKhjma9_VRRT8KKpfdg80enoROPgA9KkuaDn0gKOh_RREH-UuhV4LhB68pmlzSC56bka1kNDIOpCD2EQzQOJpHOgsSrna-3D8RvqI8aoGAHIzGS1Sfx7XvFjFmimSHc2TVHuxxJAblzZ9ZEqLinwTRy0e9J4Z2Rbm7byHISw1dEq2hBYQ-QZBUE1
 -https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68c85164b7af374ee483210f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=b96228a4-0358-433a-84d3-7936eb6fda89&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=fec4bea6-10f0-11f1-aee0-4674c943766c
 
--#EXTINF:-1 tvg-id=" " tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/impact-wrestling-vod-us.png" group-title="Sports",Impact Wrestling
+#EXTINF:-1 tvg-id="88883039" tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/impact-wrestling-vod-us.png" group-title="Sports",Impact Wrestling
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/wpt-world-poker-tour-vod-us.png" group-title="Sports",World Poker Tour
 https://s3host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config4/scheduler/scheduleMaster/95.m3u8?ads.cdnhost=s3host4.localnow.api.cms.amdvids.com&ads.playbackid=9C74C2C7-6B77-4AFD-A514-4EF082394381&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=9C74C2C7-6B77-4AFD-A514-4EF082394381&ads.n4=content_name&ads.v4=EPG%20%7C%20World%20Poker%20Tour&ads.n21=w&ads.v21=1920&ads.n22=device_model&ads.v22=&ads.n23=channel_brand_id&ads.v23=AMDB012133&ads.n24=ip&ads.v24=86.48.9.131&ads.n25=app_name&ads.v25=&ads.n26=channel_rating&ads.v26=TV-PG&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=content_custom_1_param&ads.v28=9C74C2C7-6B77-4AFD-A514-4EF082394381&ads.n29=content_custom_3_param&ads.v29=channel&ads.n30=ifa_type&ads.v30=&ads.n31=h&ads.v31=1080&ads.n32=channel_ext_id&ads.v32=5f734a4a0a6064513436ac12&ads.n33=device_type&ads.v33=&ads.n34=gpp&ads.v34=&ads.n35=channel_id&ads.v35=9C74C2C7-6B77-4AFD-A514-4EF082394381&ads.n36=app_version&ads.v36=0.0.0&ads.n37=channel_name&ads.v37=EPG%20%20World%20Poker%20Tour&ads.n38=content_livestream&ads.v38=1&ads.n39=content_type&ads.v39=channel&ads.n40=app_bundle&ads.v40=&ads.n41=device_make&ads.v41=&ads.n42=network_name&ads.v42=world-poker-tour&ads.n43=channel_corp&ads.v43=WPT%20Enterprises%20INC&ads.n44=pos&ads.v44=midroll&ads.n45=channel_language&ads.v45=en&ads.n46=cust_devicename&ads.v46=desktop_web&ads.n47=url&ads.v47=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n48=app_store_url&ads.v48=&ads.n49=channel_company_id&ads.v49=AMDP500162&ads.n50=content_custom_2_param&ads.v50=AMDB012133&ads.n51=dnt&ads.v51=&ads.n52=channel_title&ads.v52=EPG%20%20World%20Poker%20Tour&ads.n53=channel_genre&ads.v53=Gaming&ads.n54=did&ads.v54=&ads.n55=content_provider&ads.v55=world-poker-tour&ads.n56=content_producer_name&ads.v56=WPT%20Enterprises%20INC&ads.n57=gpp_sid&ads.v57=&ads.n58=us_privacy&ads.v58=1YNY
@@ -858,9 +896,6 @@ https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png" group-title="Sports",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="https://drive.google.com/uc?id=1AeXWw0b58b3P8zjKRFXcAQQjXVJxmkgN" group-title="Sports",Golf Channel
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3651.ts
@@ -930,6 +965,13 @@ https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 
 #EXTINF:-1 tvg-id="" tvg-name="Homeful" tvg-logo="https://drive.google.com/uc?id=1NWAkvumdqs7mOEx67nNbuzcyAwg14AI4",Homeful
 https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.Home.us2" tvg-name="Tastemade Home" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/tastemadehome_color.png" group-title="Cooking",Tastemade Home
+http://restream-live.realiptv.to:8080/live/52748969/72335180/663939.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/663939.ts
+-Not sure
+-https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2405.ts
 
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/destination-america-us.png" group-title="Housing",Destination America
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3717.ts
@@ -1210,13 +1252,6 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2605.ts
 
 #EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8ccf64ea199095b2d5aab71b73a7ed1c.png" group-title="Cooking",Tastemade Food And More
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef51c802ddee5003f1c0225.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_n96fBzyzyPzQWiC_Vt6&_gl=1*10p0sxo*_gcl_au*MTU4MzQwNjU5LjE3NzAxMDQ2ODk.*_ga*NzcyOTc1MTUyLjE3NzAxMDQ2ODk.*_ga_G6FQWNSENB*czE3NzA4NzYwOTgkbzYkZzEkdDE3NzA4NzYxMDUkajUzJGwwJGgw
-
-#EXTINF:-1 tvg-id="Tastemade.Home.us2" tvg-name="Tastemade Home" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/tastemadehome_color.png" group-title="Cooking",Tastemade Home
-http://restream-live.realiptv.to:8080/live/52748969/72335180/663939.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/663939.ts
--Not sure
--https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2405.ts
 
 #EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In The Kitchen" tvg-logo="https://i.qxh.com/image/resource/66741494be2bbffc6dc1d975/logo_16-9/U3g5xU6vP/original.png" group-title="Cooking",In The Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
@@ -1605,6 +1640,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2379.ts
 -https://streamer1.nexgen.bz/SYFY/tracks-v1a1/mono.ts.m3u8
 -https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 -https://moveonjoy-scan.vercel.app/api/scan?url=https://fl41.moveonjoy.com/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-name="Sky Witness" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-witness-uk.png" group-title="Entertainment",Sky Witness
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2177.ts
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tnt-es.png",TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -2511,6 +2549,7 @@ https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
