@@ -104,17 +104,18 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/85340.ts
 -#EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="FOX 13 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-13-whbq-us.png" group-title="News",FOX 13 (Tennessee)
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="News",FOX 32 (Chicago)
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-32-wfld-us.png" group-title="News",FOX 32 (Chicago)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2567.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/74683.ts
 -http://212.102.60.10/IL_Chicago_FOX/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
 
-#EXTINF:-1 tvg-id=" " tvg-name="Fox Chicago+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_Chicago_Plus.svg/1280px-Fox_Chicago_Plus.svg.png" group-title="News",Fox Chicago+
+#EXTINF:-1 tvg-id="667f2bc063a5f20008f4d386" tvg-name="FOX Local Chicago" tvg-logo="https://images.pluto.tv/channels/667f2bc063a5f20008f4d386/solidLogoSVG_1766536010773.svg" group-title="News",FOX Local Chicago
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 -https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
 -WPWR-DT.us_locals1
+-https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png
 
 #EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="FOX 25 (Boston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-25-wfxt-us.png" group-title="News",FOX 25 (Boston)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2570.ts
@@ -384,8 +385,7 @@ http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135855
 -https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/rai-4-hd-it.png" group-title="Italian",Rai 4 HD
-http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135857
--http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135858
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135858
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 
@@ -2446,6 +2446,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="Radio Birikina Tv" tvg-logo="https://drive.google.com/uc?id=1PfXxqbsgahzLzEGqSh_xmBrjVHnNOUhX" group-title="Music",Radio Birikina Tv
 http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-name="Radio Italia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-italia-it.png" group-title="Music",Radio Italia
+http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135857
+
 #EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-name="Radio Italia Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-italia-it.png" group-title="Music",Radio Italia Live
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/1280x720_3440800/master.m3u8
 
@@ -2553,6 +2556,7 @@ https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
