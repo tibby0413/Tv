@@ -46,7 +46,7 @@ http://supersonictv.live:8080/864072/196529/71399
 -https://fl41.moveonjoy.com/IL_Chicago_NBC/index.m3u8
 -https://fl2.moveonjoy.com/IL_Chicago_NBC/index.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Chicago.(Live.Stream).us2" tvg-name="NBC 5 Chicago News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-news-flat-us.png" group-title="News",NBC 5 Chicago News
+#EXTINF:-1 tvg-id="NBC.Chicago.(Live.Stream).us2" tvg-name="NBC 5 Chicago News" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/44934351-EB30-4045-8421-FD35CE6E689F/3-1x1.png" group-title="News",NBC 5 Chicago News
 http://restream-live.realiptv.to:8080/live/52748969/72335180/660935.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660935.ts
 
@@ -64,16 +64,16 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/89853.ts
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=t59wNxmEyqzp9_H4t7QS&_gl=1*dp12cf*_gcl_au*MTU4MzQwNjU5LjE3NzAxMDQ2ODk.*_ga*NzcyOTc1MTUyLjE3NzAxMDQ2ODk.*_ga_G6FQWNSENB*czE3NzExMzc1NjYkbzMkZzAkdDE3NzExMzc1NjckajU5JGwwJGgw
 -http://41.205.93.154/NBC/index.m3u8
 
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 (Chicago)
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png" group-title="News",ABC 7 (Chicago)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/2695.ts
 -https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 -http://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
 
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 24/7 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png" group-title="News",ABC 7 24/7 News
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 24/7 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-kabc-us.png" group-title="News",ABC 7 24/7 News
 http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlHCNtybdALnT9AsIAL1AnYoy7hsmByAYAXnxvPobaTFr
 -https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 
-#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png" group-title="News",ABC 7 (New York)
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="News",ABC 7 (New York)
 http://restream-live.realiptv.to:8080/live/52748969/72335180/112234.ts
 -http://212.102.60.10/NY_NEW_YORK_ABC/index.m3u8
 -https://fl7.moveonjoy.com/ABC/index.m3u8
@@ -111,7 +111,7 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/2567.ts
 -http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
 
-#EXTINF:-1 tvg-id="667f2bc063a5f20008f4d386" tvg-name="FOX Local Chicago" tvg-logo="https://images.pluto.tv/channels/667f2bc063a5f20008f4d386/solidLogoSVG_1766536010773.svg" group-title="News",FOX Local Chicago
+#EXTINF:-1 tvg-id="667f2bc063a5f20008f4d386" tvg-name="FOX Local Chicago" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA782CE-39AF-47C4-9E49-0DE963F33C43/3-1x1.png" group-title="News",FOX Local Chicago
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 -https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
 -WPWR-DT.us_locals1
@@ -2556,6 +2556,7 @@ https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
