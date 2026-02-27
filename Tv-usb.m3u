@@ -1616,6 +1616,9 @@ http://restream-live.realiptv.to:8080/live/52748969/72335180/143866.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/143866.ts
 -http://1tv41.icu:8080/live/Y06DNq/295733/46696.m3u8
 
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/channel-4-uk.png" group-title="Series",Channel 4
+http://restream-live.realiptv.to:8080/live/52748969/72335180/2315.ts
+
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png",Discovery Channel
 http://restream-live.realiptv.to:8080/live/52748969/72335180/3629.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3629.ts
@@ -2631,6 +2634,7 @@ https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
