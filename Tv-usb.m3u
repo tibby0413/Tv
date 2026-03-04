@@ -204,8 +204,7 @@ http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/868893
 -http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/43-NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon (West)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (West)
-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlAwO6bp6ODVvLRwJ1pzSCSIlZRXWpIu3WuC9cRkO4Ojt
--http://restream-live.realiptv.to:8080/live/52748969/72335180/631831.ts
+http://restream-live.realiptv.to:8080/live/52748969/72335180/631831.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631831.ts
 -http://restream-live.realiptv.to:8080/live/52748969/72335180/3673.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3673.ts
@@ -2674,6 +2673,7 @@ https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 
 
