@@ -575,6 +575,9 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/38233
 #EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/tudn-mx.png" group-title="Sports",TUDN
 http://104.238.205.28:9090/278571_.m3u8
 
+#EXTINF:-1 tvg-id="SÃ£o.Paulo/SP..Premiere.Clubes.HD.br" tvg-name="Premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/premiere-br.png" group-title="Sports",Premiere
+https://02.arlivre.online/pre1/index.m3u8
+
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-us.png" group-title="Sports",SEC Network
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3864.ts
 -http://fl51.moveonjoy.com/SEC_NETWORK/index.m3u8
@@ -782,7 +785,6 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4434.ts
 
 #EXTINF:-1 tvg-id="MSG.Sportsnet.2.Zone.1.us2" tvg-name="MSG Sportsnet 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG Sportsnet 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4433.ts
-
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/big-ten-network-us.png" group-title="Sports",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
