@@ -2103,6 +2103,9 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885576/hls/master.m3u8?withResolut
 #EXTINF:-1 tvg-id=" " tvg-name="Van Helsing" tvg-logo="https://drive.google.com/uc?id=1aQGxyQOYXDCU4POXf6yYwsTP8LAl4txL",Van Helsing
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74703.ts
 
+#EXTINF:-1 tvg-id="plex.tv.Miramax.Movie.Channel.plex" tvg-name="Miramax Movie Channel" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" group-title="Movies",Miramax Movie Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Y2xxXVbLsXeSyDW8Mh8Q
+
 #EXTINF:-1 tvg-id="" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/movie-sphere-us.png" group-title="Movies",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
