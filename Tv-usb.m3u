@@ -2192,6 +2192,15 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3724.ts
 -http://fl31.moveonjoy.com/EPIX_HITS/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3724.ts
 
+#EXTINF:-1 tvg-id="plex.tv.MGM.Presents.plex" tvg-name="MGM Presents" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https://provider-static.plex.tv/epg/cms/production/306c74d7-5ff7-4067-b921-a1b6c86efbfa/MGMPresents_logo_dark_-_Carl_HoffelderRDX.png" group-title="Movies",MGM Presents
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=3FWtqQzhN7MZUeuBL3rA
+
+#EXTINF:-1 tvg-id="plex.tv.MGM.Presents:.Action.plex" tvg-name="MGM Presents Action" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/epg/cms/production/64164404-10a7-4f7f-af80-69261f9de1db/MPAction_logo_dark_-_Carl_HoffelderWhite_lettersRDX.png" group-title="Movies",MGM Presents Action
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-689fb42fba3be0bafe349d33.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=bvS4zm1hj1bvyGRXFxGj
+
+#EXTINF:-1 tvg-id="plex.tv.MGM.Presents:.Westerns.plex" tvg-name="MGM Presents Westerns" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="Movies",MGM Presents Westerns
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fXo6qtC5FE9dHs-G8azQ
+
 #EXTINF:-1 tvg-id="IT:.Azione.-.Rakuten.TV.be" tvg-name="Rakuten TV Action Movies (Italian)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/rakuten-tv-action-vod.png" group-title="Movies",Rakuten TV Action Movies (Italian)
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
 
