@@ -1820,7 +1820,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/90438.ts
 -http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/166344
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951701&extension=ts&play_token=9Hf66Wsmsz
 
--#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz (East)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (East)
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz (East)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (East)
+http://212.102.60.231/STARZ/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3680.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3964.ts
 -http://212.102.60.10/STARZ/index.m3u8
@@ -1828,7 +1829,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/90438.ts
 -http://23.237.104.106:8080/USA_STARZ/mpegts
 
 #EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="Starz (West)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (West)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14915 
+http://212.102.60.231/STARZ_WEST/index.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14915 
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/43857 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3963.ts
 -https://fl31.moveonjoy.com/STARZ_WEST/index.m3u8
@@ -1860,7 +1862,8 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14916
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/649402.ts
 
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="Movies",Starz Edge (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14920 
+http://212.102.60.231/STARZ_EDGE/index.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14920 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3961.ts
 -https://fl31.moveonjoy.com/STARZ_EDGE/index.m3u8
 -https://fl1.moveonjoy.com/STARZ_EDGE/mpegts
@@ -1879,7 +1882,8 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14921
 -#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-us.png" group-title="Movies",Starz Encore (West)
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3951.ts
 
--#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (East)" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action (East)
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (East)" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action (East)
+http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
 -http://fl31.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 -http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/mpegts
 
@@ -1891,7 +1895,8 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14923
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3954.ts
 
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-classic-us.png" group-title="Movies",Starz Encore Classic
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14925
+http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14925
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3953.ts
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13584
 -https://fl31.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
