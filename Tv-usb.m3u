@@ -10,11 +10,11 @@
 NEWS
 
 #EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="News",CBS 2 (Chicago)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2648.ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2648.ts
 -http://212.102.60.10/IL_Chicago_CBS/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 -http://fl2.moveonjoy.com/IL_Chicago_CBS/index.m3u8
--http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
 
 #EXTINF:-1 tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-name="CBS News Chicago" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-chicago-us.png" group-title="News",CBS News Chicago
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
