@@ -549,46 +549,52 @@ http://104.238.205.28:9090/278757_.m3u8
 http://104.238.205.28:9090/278798_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Sports",ESPN
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3636.ts
+http://84.17.50.102/espn/index.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3636.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3725.ts
 -http://41.205.93.154/ESPN/index.m3u8
 -http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
+http://84.17.50.102/espn2/index.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
 -https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 -http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Sports",ESPN 3
-http://104.238.205.28:9090/278763_.m3u8
+http://linesource.cc:8080/4cBmc2bmpxsJjm2XCCbM02I5yUOYxKN7/eiXGLIK5j2LgQSHsBycbmbJ7saLCDx6PdS/118
+-http://104.238.205.28:9090/278763_.m3u8
 -Canal.ESPN.3.(Bolivia).ar
 -ESPN.3.br
 -ESPN.3.co - Maybe
 
 #EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png" group-title="Sports",ESPN 4
-http://104.238.205.28:9090/278582_.m3u8
+http://linesource.cc:8080/4cBmc2bmpxsJjm2XCCbM02I5yUOYxKN7/eiXGLIK5j2LgQSHsBycbmbJ7saLCDx6PdS/155
+-http://104.238.205.28:9090/278582_.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
-http://104.238.205.28:9090/278558_.m3u8
+-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
+-http://104.238.205.28:9090/278558_.m3u8
 -Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv
 -Canal.ESPN.5.(Sudamérica).sv
 
-#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Sports",ESPN 6
-http://104.238.205.28:9090/278566_.m3u8
+-#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Sports",ESPN 6
+-http://104.238.205.28:9090/278566_.m3u8
 -Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv
 
-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Sports",ESPN 7
-http://104.238.205.28:9090/278567_.m3u8
+-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Sports",ESPN 7
+-http://104.238.205.28:9090/278567_.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="Sports",ESPN U
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3638.ts
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3638.ts
 -http://fl31.moveonjoy.com/ESPN_U/index.m3u8
 -http://fl41.moveonjoy.com/ESPN_U/index.m3u8
 -http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648974.ts
 
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espnews-us.png" group-title="Sports",ESPNews
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3640.ts
+http://kstv.us:8080/live/qdxkt3R5pH/5118349267/15952.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3640.ts
 -http://fl31.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png" group-title="Sports",ESPN Deportes
