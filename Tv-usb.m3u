@@ -1786,7 +1786,8 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10444
 -https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Movies",HBO (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13434 
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13434 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2491.ts
 -http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133749
 -https://fl41.moveonjoy.com/HBO/index.m3u8
@@ -1813,7 +1814,8 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648976.ts
 
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-movies-us.png" group-title="Movies",HBO Movies
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13437
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13437
 -Also known as HBO Zone
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51552.ts
 -http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133757
@@ -1823,7 +1825,10 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13437
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45546&extension=ts&play_token=fSFA7Bf0xB
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png" group-title="Movies",HBO Comedy (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13438 
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+-http://41.205.64.66/HBO-COMEDY/index.m3u8
+-http://41.223.30.230/HBOCOMEDY/index.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13438 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51550.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648977.ts
 -http://fl31.moveonjoy.com/HBO_COMEDY/index.m3u8
@@ -1835,26 +1840,28 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13438
 
 #EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-drama-us.png" group-title="Movies",HBO Drama (East)
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13436
+-Also known as HBO Signature
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648981.ts
 -http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/30341
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951704&extension=ts&play_token=LeVr22p6hP
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45547&extension=ts&play_token=DCTE98P1AF
 
-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-drama-us.png" group-title="Movies",HBO Drama (West)
-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlBAyxNdAoU4wB0GrZ0aX22oK9-MA5qw_ul4WzKZsQCZ9
+-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Drama (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-drama-us.png" group-title="Movies",HBO Drama (West)
+-http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlBAyxNdAoU4wB0GrZ0aX22oK9-MA5qw_ul4WzKZsQCZ9
+-Also known as HBO Signature
 
 -#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO Family (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png" group-title="Movies",HBO Family (Latin America)
 -https://fl31.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-latino-us.png" group-title="Movies",HBO Latino
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/90438.ts
+-#EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-latino-us.png" group-title="Movies",HBO Latino
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/90438.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648980.ts -720p
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648980.ts
 -http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/166344
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951701&extension=ts&play_token=9Hf66Wsmsz
 
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz (East)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (East)
-http://212.102.60.231/STARZ/index.m3u8
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3680.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3964.ts
 -http://212.102.60.10/STARZ/index.m3u8
@@ -1862,14 +1869,15 @@ http://212.102.60.231/STARZ/index.m3u8
 -http://23.237.104.106:8080/USA_STARZ/mpegts
 
 #EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-name="Starz (West)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (West)
-http://212.102.60.231/STARZ_WEST/index.m3u8
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14915 
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/43857 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3963.ts
 -https://fl31.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-cinema-us.png" group-title="Movies",Starz Cinema (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14918 
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14918 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3960.ts
 -http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 -http://23.237.104.106:8080/USA_STARZ_CINEMA/mpegts
@@ -1878,7 +1886,7 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14918
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631879.ts
 
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-comedy-us.png" group-title="Movies",Starz Comedy (East)
-http://212.102.60.231/STARZ_COMEDY/index.m3u8
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14917 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3959.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648988.ts
@@ -1895,8 +1903,8 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14916
 -#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-in-black-us.png" group-title="Movies",Starz In Black (West)
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/649402.ts
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="Movies",Starz Edge (East)
-http://212.102.60.231/STARZ_EDGE/index.m3u8
+-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-edge-us.png" group-title="Movies",Starz Edge (East)
+-http://212.102.60.231/STARZ_EDGE/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14920 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3961.ts
 -https://fl31.moveonjoy.com/STARZ_EDGE/index.m3u8
@@ -1917,12 +1925,11 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14921
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3951.ts
 
 #EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (East)" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action (East)
-http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
+http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14923 
 -http://fl31.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 -http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/mpegts
 
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (West)" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action (West)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14923 
+-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action (West)" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action (West)
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3952.ts
 
 #EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-black-us.png" group-title="Movies",Starz Encore Black
