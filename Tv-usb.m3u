@@ -332,15 +332,15 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision (New York NY)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (New York NY)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
+#EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision
+http://168.228.44.241:9997/play/a01n/index.m3u8
+
 #EXTINF:-1 tvg-id="KFTR-DT.us_locals1" tvg-name="UniMas (California)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/unimas-us.png" group-title="General",UniMas (California)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 -http://104.238.205.28:9090/278737_.m3u8
 -http://104.238.205.28:9090/278727_.m3u8 -576p
 -http://104.238.205.28:9090/278729_.m3u8 -576p
 -http://104.238.205.28:9090/278727_.m3u8
-
-#EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision
-http://168.228.44.241:9997/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="WFUT-DT.us_locals1" tvg-name="UniMas (New York)" tvg-logo="https://drive.google.com/uc?id=1dC7LEgRD4uFT1szJM0nc738FpYMolRWN" group-title="General",UniMas (New York)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
