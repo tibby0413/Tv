@@ -2023,30 +2023,35 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14919
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/327697.ts
 
 #EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="RetroPlex (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/plex-retroplex-us.png" group-title="Movies",RetroPlex (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/40759 
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45507&extension=ts&play_token=ZcXh9kiR2O
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/40759 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74685.ts
 
 -#EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="RetroPlex (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/plex-retroplex-us.png" group-title="Movies",RetroPlex (West)
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74686.ts
 
 #EXTINF:-1 tvg-id="IndiePlex.HD.us2" tvg-name="IndiePlex (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/plex-indieplex-us.png" group-title="Movies",IndiePlex (East)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93059.ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45543&extension=ts&play_token=HecQbrPXFM
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93059.ts
 -http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/166350
 
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/plex-movieplex-us.png" group-title="Movies",MoviePlex (West)
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13984 
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45536&extension=ts&play_token=dhMshwm2h8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93060.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/93060.ts
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime (East)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (East)
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14168 
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45504&extension=ts&play_token=pTBzJuvNY8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3758.ts
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13579
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2416.ts
 -http://fl31.moveonjoy.com/SHOWTIME/index.m3u8
 -http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
--#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (West)
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Showtime (West)" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime (West)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=92020&extension=ts&play_token=ntHaFtZz5s
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14174 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631890.ts
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13580
@@ -2055,7 +2060,6 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14168
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="Movies",Showtime 2 (East)
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14169 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631912.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3965.ts -720p
 -http://212.102.60.10/SHOWTIME_2/index.m3u8
 -http://fl41.moveonjoy.com/SHOWTIME_2/index.m3u8
 
