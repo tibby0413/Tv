@@ -292,21 +292,25 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/622
 -http://fl41.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Cartoons",Disney Junior (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/623 
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137679
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/623 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3719.ts
 -http://fl61.moveonjoy.com/DISNEY_JR/index.m3u8
 -http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
--#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Cartoons",Disney Junior (West)
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Cartoons",Disney Junior (West)
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137680
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3828.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3848.ts
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/624 
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137681
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/624 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3720.ts
 -http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 
--#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (West)
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (West)
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137682
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3829.ts
 
 #EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-kids-dash-icon-us.png" group-title="Cartoons",PBS Kids
