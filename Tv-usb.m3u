@@ -880,16 +880,16 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_c
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/99197
 -https://7pal.short.gy/nhlnw
 
-#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG SN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG SN
+#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG SN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="Sports",MSG
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15078
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4434.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648959.ts
 
-#EXTINF:-1 tvg-id="MSG.Sportsnet.2.Zone.1.us2" tvg-name="MSG SN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG SN 2
+#EXTINF:-1 tvg-id="MSG.SportsZone.us2" tvg-name="MSG 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-2-us.png" group-title="Sports",MSG 2
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15081
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4433.ts
 
-#EXTINF:-1 tvg-id="MSG.Sportsnet.2.Zone.1.us2" tvg-name="MSG Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="Sports",MSG Plus
+#EXTINF:-1 tvg-id="MSG.Plus.us2" tvg-name="MSG Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="Sports",MSG Plus
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15082
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/big-ten-network-us.png" group-title="Sports",Big Ten Network
