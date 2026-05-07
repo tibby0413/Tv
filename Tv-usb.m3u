@@ -880,21 +880,25 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_c
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/99197
 -https://7pal.short.gy/nhlnw
 
-#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG Sportsnet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG Sportsnet
+#EXTINF:-1 tvg-id="MSG.Sportsnet.Zone.1.HD.us2" tvg-name="MSG SN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG SN
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15078
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4434.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/648959.ts
 
-#EXTINF:-1 tvg-id="MSG.Sportsnet.2.Zone.1.us2" tvg-name="MSG Sportsnet 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG Sportsnet 2
+#EXTINF:-1 tvg-id="MSG.Sportsnet.2.Zone.1.us2" tvg-name="MSG SN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msgsn-us.png" group-title="Sports",MSG SN 2
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15081
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4433.ts
+
+#EXTINF:-1 tvg-id="MSG.Sportsnet.2.Zone.1.us2" tvg-name="MSG Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="Sports",MSG Plus
+http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15082
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/big-ten-network-us.png" group-title="Sports",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4443.ts
 
 #EXTINF:-1 tvg-id="The.Fight.Network.HD.ca2" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/fight-network-ca.png" group-title="Sports",Fight Network
-http://104.250.145.6/livehttpplay?channel_id=23215
+http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/141462
+-http://104.250.145.6/livehttpplay?channel_id=23215
 
 #EXTINF:-1 tvg-id="plex.tv.UFC.plex" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ufc-us.png" group-title="Sports",UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134&ads._fw_ifa_type=&ads._fw_did=f720a592-5c2e-4a69-83ad-2f3496482443&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=UFC&ads.csid=xumo_web_UFC_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3345&ads.xumo_contentName=UFC&ads.xumo_providerId=3345&ads.xumo_providerName=UFC&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951134&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
