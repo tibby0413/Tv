@@ -2558,19 +2558,23 @@ http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/130059
 -https://fl31.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-marquee-us.png" group-title="Movies",MGM+ Marquee
-http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/129989
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/24907
+-http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/129989
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14167 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2583.ts
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13574
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13575
 -http://fl31.moveonjoy.com/EPIX_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-hits-us.png" group-title="Movies",MGM+ Hits
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-hits-us.png" group-title="Movies",MGM+ Hits Server 1
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14164
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/129988
 -http://nor1live.win/livehttpplay?channel_id=23074
 -http://fl31.moveonjoy.com/EPIX_HITS/index.m3u8
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3724.ts
+
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-hits-us.png" group-title="Movies",MGM+ Hits Server 2
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/24906
 
 #EXTINF:-1 tvg-id="plex.tv.MGM.Presents.plex" tvg-name="MGM Presents" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https://provider-static.plex.tv/epg/cms/production/306c74d7-5ff7-4067-b921-a1b6c86efbfa/MGMPresents_logo_dark_-_Carl_HoffelderRDX.png" group-title="Movies",MGM Presents
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6876fa82e50e77c59c8940c2/variant.m3u8?x-plex-token=i4nW6fztxoJFDjSx7po7&x-plex-advertising-identifier=&x-plex-client-identifier=bc87c57f-4049-4f0c-9390-4a103920d73f&x-plex-playback-id=p_bd1366e1-aff3-42e6-a27f-56e5d3c85b49&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=151.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1780017126&url=ef0e3e67b0c8ad3348a5cc35c7f303ad-2ef92a1c8eeb70e0d227d185c902d0291878343bc955e2f7b23c570a13c92bcd3c35a278c8ad5f8d3d4e7aca42799e865da87f5c755cab8a1295bed9e384bde7e998fad9940ed6d8f2db884f5d4a6d2ed17c81ffc8900cb2f94030950606bafc5b0995b4a88b2a56697cd4900669942ffff16f21ba313b9db241e7e367f91b0089a36f766929829860831d9cd1359f0ab12c09f12196abc5bafab8bfd309d0a66a7b53737101061fdcce2f0e34569c52d11ecf5bc919b7a3f889bafb4bfd51fc0477c5e8784f17e480f7121fd5a7e6c6
