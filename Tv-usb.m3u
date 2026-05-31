@@ -2642,46 +2642,55 @@ Music
 
 
 #EXTINF:-1 tvg-id="Vevo.2K.us2" tvg-name="Vevo 2K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-2k-vod.png" group-title="Music",Vevo 2K
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+https://jmp2.uk/stvp-USBB4400015F5
+-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 -https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vevo.Hip-Hop.us2" tvg-name="Vevo Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-hip-hop-vod.png" group-title="Music",Vevo Hip-Hop
-https://tinyurl.com/5e8dj3d2
+https://jmp2.uk/stvp-USBC3600002EK
+-https://tinyurl.com/5e8dj3d2
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevohiphop-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTE0MjA5OH0
 
-#EXTINF:-1 tvg-id="Vevo.True.School.Hip-Hop.us2" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-true-school-hip-hop-vod.png" group-title="Music",Vevo True School Hip-Hop
-https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+-#EXTINF:-1 tvg-id="Vevo.True.School.Hip-Hop.us2" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-true-school-hip-hop-vod.png" group-title="Music",Vevo True School Hip-Hop
+-https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 -http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 
 #EXTINF:-1 tvg-id="Vevo.R.andB.us2" tvg-name="Vevo R&B" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-r-and-b-vod.png" group-title="Music",Vevo R&B
-https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+https://jmp2.uk/stvp-USBC3900009K5
+-https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 -https://tinyurl.com/munxpc2s
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevornb-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYzMH0
 
 #EXTINF:-1 tvg-id="Vevo.Pop.us2" tvg-name="" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop
-https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
+https://jmp2.uk/stvp-USBC3600008WY
+-https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 -https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54e2e4-eca6-11ee-8ea6-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=77dc116d-7f92-4047-a7d1-8c90b4c28c4e&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Vevo.70s.us2" tvg-name="Vevo '70s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-70s-vod.png" group-title="Music",Vevo '70s
-https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+https://jmp2.uk/stvp-USBD300011KQ
+-https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 -https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54db8c-eca6-11ee-a6fc-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=153e9256-6c71-4864-910a-274aa8f71ee7&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Vevo.80s.us2" tvg-name="Vevo '80s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-80s-vod.png" group-title="Music",Vevo '80s
-https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+https://jmp2.uk/stvp-USBD300012YC
+-https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
 -https://tinyurl.com/mr9dex94
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80s-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyN30
 
 #EXTINF:-1 tvg-id="Vevo.90s.us2" tvg-name="Vevo '90s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-90s-vod.png" group-title="Music",Vevo '90s
-https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+https://jmp2.uk/stvp-USBD3000133M
+-https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 -https://tinyurl.com/2rnkr4wz
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90s-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyOH0
 
 #EXTINF:-1 tvg-id="Vevo.Rock.us2" tvg-name="Vevo Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
-https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+https://jmp2.uk/stvp-USBD3000145P
+-https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 -https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vevo.Country.us2" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/vevo-country-vod.png" group-title="Music",Vevo Country
-https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
+https://jmp2.uk/stvp-USBC3600001RQ
+-https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 -https://tinyurl.com/2nhduj78
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountry-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyOX0
 
