@@ -2262,12 +2262,15 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13992
 -Also known as Actionmax
 
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies",Cinemax Hits (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13988 
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13988 
 -Also known as MoreMax
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51553.ts
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13569
--http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45599&extension=ts&play_token=kFU0KNk7fw
+
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies",Cinemax Hits (East) 2
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45599&extension=ts&play_token=kFU0KNk7fw
 
 -#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies",Cinemax Hits (West)
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/81382.ts
