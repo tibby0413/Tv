@@ -193,7 +193,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="Newsmax2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax2-us.png" group-title="News",Newsmax2
 https://newsmax-vizio.amagi.tv/playlist.m3u8
 
--#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-news-uk.png" group-title="News",Sky News
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-news-uk.png" group-title="News",Sky News
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814560&ads.xumo_streamId=88814560&declaredCC1Language=en&ads.caid=SkyNews&ads.csid=tcl2_us_nbcuskynews_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=News&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads.xumo_channelName=SkyNews&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2197.ts
 
 #EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",AccuWeather NOW
