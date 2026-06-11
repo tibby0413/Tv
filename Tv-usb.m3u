@@ -1213,9 +1213,6 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10403
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/30924.ts
 -http://fl31.moveonjoy.com/FYI/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/amc-plus-vod-us.png" group-title="Vod",AMC+
-http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/1004477
-
 #EXTINF:-1 tvg-id=" " tvg-name="The Three Stooges +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/The-three-stooges-5659a60a0e117.png" group-title="Vod",The Three Stooges +
 https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?device_make=&channel_name=Three%20Stooges+&channel_brand_id=AMDB013402&ic=&dnt=&coppa=0&iu=&app_bundle=web.localnow&gdpr_consent=&genre=Comedy&idtype=&app_store_url=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fthree-stooges-plus&device_type=&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F145.0.0.0%20Safari%2F537.36&h=1080&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&channel_corp=C3%20Entertainment%20INC&did=&channel_company_id=AMDP500511&w=1920&device_model=&us_privacy=1YNY&app_name=&content_provider=three-stooges&gdpr=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=50.44.92.162
 
@@ -1566,11 +1563,15 @@ http://23.239.31.26:8989/amc/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3843.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/2367.ts
 
--#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png",AMC (West)
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png",AMC (West)
+http://84.17.50.102/amc/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/643834.ts
 
-#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+
-https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+-#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+
+-https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/amc-plus-vod-us.png" group-title="Vod",AMC+
+http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/1004477
 
 #EXTINF:-1 tvg-id="plex.tv.AMC.Thrillers.plex" tvg-name="AMC Thrillers" tvg-logo="https://i.imgur.com/EVD0aIt.png",AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
