@@ -2586,12 +2586,14 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 -#EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png" group-title="Entertainment",Canal 5
 -http://104.238.205.28:9090/278329_.m3u8
 
--#EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hdnet-movies-us.png" group-title="Movies",HDNet Movies
+#EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hdnet-movies-us.png" group-title="Movies",HDNet Movies
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/89182.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89182.ts
 -https://mia7.rocketdns.info:25463/live/19742329/27604387/89182.m3u8?token=HkNcWEBYFAkUBQECVwNaDAZTBVZRCFZRAFUHAwtRVApUAFJbBwMEUQASH0ZAFRFRUwtoXlQaXgtbUAsDH0dHQAATa1BXEgwRBwELVAdQQRgQEl5aVRpeA05DQ1hXRwgRXVECCAMEFB8UVUsQVhMNVV45U1JGUQdWQFtdRF8JHhEKD2tdVl1XXVISCUYDQ08WWxVHFQpWEV8OTRFTWhFAUhEEFgMRBAMEDxIfRlAOFlpGFE4VChoxYEBNEVRLEVddFghbVxEKFF4FRQtGH0MKR20UUkRESgFSDwRBEwlHAhFJQ1lYS29VXFheVgdHCAxaQUQNFQQaSBEPDl1YRwpAbBUIUBsJEgUAAgkCVQJDHg==
 
 #EXTINF:-1 tvg-id="plex.tv.24.Hour.Free.Movies.plex" tvg-name="24 Hour Free Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/24-hour-free-movies-vod.png" group-title="Movies",24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 
 #EXTINF:-1 tvg-id="Pure.Flix.TV.us2" tvg-name="Pure Flix TV" tvg-logo="https://drive.google.com/uc?id=1sUlepwaicoP4F_xWdzpm8l88v_YsV_jP" group-title="Movies",Pure Flix TV
 https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01884-gacmediafast-pureflixtv-vizious/playlist.m3u8?app_bundle=%7BAPP_BUNDLE%7D&app_name=%7BAPP_NAME%7D&app_store_url=%7BAPP_STORE_URL%7D&coppa=%7BCOPPA%7D&device_make=%7BDEVICE_MAKE%7D&did=%7BADID%7D&dnt=%7BDNT%7D&h=%7BHEIGHT%7D&ifa_type=%7BIFATYPE%7D&lmt=%7BLMT%7D&skip=%7BSKIPPABLE%7D&url=%7BDOMAIN%7D&us_privacy=%7BUSPRIVACY%7D&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDM4MTI0OTkzNn0&w=%7BWIDTH%7D
