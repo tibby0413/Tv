@@ -10,7 +10,8 @@
 NEWS
 
 #EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="News",CBS 2 (Chicago)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2648.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
 -http://stream.cammonitorplus.net/1751/index.m3u8
 -http://89.187.178.197:1970/CBSChicago/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2648.ts
@@ -26,7 +27,8 @@ https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2
 -https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/a3ecdb4d-09c6-42ed-a193-58be746f85fa:ATL/variant/48319f95bd26ccbfc9150a472dfebf06/bandwidth/5641266.m3u8
 
 #EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS 2 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="News",CBS 2 (New York)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938568&extension=ts&play_token=RbU51QyXTe
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2631.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938568&extension=ts&play_token=RbU51QyXTe
 -http://stream.cammonitorplus.net/1810/index.m3u8
 -http://89.187.178.197:1970/CBSNewYork/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2631.ts
@@ -34,7 +36,8 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938568&ext
 -http://fl41.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
 
 #EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="CBS 2 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-11-khou-icon-us.png" group-title="News",CBS 2 (Houston)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173313&extension=ts&play_token=OQ5QmcsMy6
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2640.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173313&extension=ts&play_token=OQ5QmcsMy6
 -http://stream.cammonitorplus.net/1779/index.m3u8
 -http://89.187.178.197:1970/CBSHouston/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2640.ts
@@ -43,19 +46,22 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173313&exte
 -https://fl2.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8
 
 #EXTINF:-1 tvg-id="KTVT-DT.us_locals1" tvg-name="CBS 11 (Texas)" tvg-logo="https://news.tccd.edu/wp-content/uploads/2020/11/1200px-CBS112015Logo.svg_.png" group-title="News",CBS 11 (Texas)
-http://stream.cammonitorplus.net/1763/index.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2645.m3u8
+-http://stream.cammonitorplus.net/1763/index.m3u8
 -http://89.187.178.197:1970/CBSDallas/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2645.ts
 
--#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="CBS 12 (Tennessee)" tvg-logo="https://drive.google.com/uc?id=1tFEaenZ_uMXD5BaDNSLJXwfOlhOhrBIu" group-title="News",CBS 12 (Tennessee)
+#EXTINF:-1 tvg-id="WDEF-DT.us_locals1" tvg-name="CBS 12 (Tennessee)" tvg-logo="https://drive.google.com/uc?id=1tFEaenZ_uMXD5BaDNSLJXwfOlhOhrBIu" group-title="News",CBS 12 (Tennessee)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74687.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74687.ts
 
 #EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="NBC 5 (Chicago)" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="News",NBC 5 (Chicago)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938469&extension=ts&play_token=aDQRgaxIz1
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2464.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938469&extension=ts&play_token=aDQRgaxIz1
 -http://stream.cammonitorplus.net/1753/index.m3u8
 -http://89.187.178.197:1970/NBCChicago/index.m3u8
 -http://supersonictv.live:8080/864072/196529/71399
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74688.ts -NBC 3 WRCB
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2464.ts
 -http://212.102.60.10/IL_Chicago_NBC/index.m3u8
 -https://fl41.moveonjoy.com/IL_Chicago_NBC/index.m3u8
 -https://fl2.moveonjoy.com/IL_Chicago_NBC/index.m3u8
@@ -66,7 +72,8 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads._fw_att
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660935.ts
 
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NBC 4 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/nbc-4-wnbc-us.png" group-title="News",NBC 4 (New York)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938467&extension=ts&play_token=XEPYl1rmu2
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2447.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938467&extension=ts&play_token=XEPYl1rmu2
 -http://stream.cammonitorplus.net/1812/index.m3u8
 -http://89.187.178.197:1970/NBCNewYork/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2447.ts
@@ -75,7 +82,8 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938467&ext
 -http://fl2.moveonjoy.com/NY_New_York_NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="WOAI-DT.us_locals1" tvg-name="NBC 4 (San Antonio)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="News",NBC 4 (San Antonio)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=174109&extension=ts&play_token=lujJgCRX58
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/89853.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=174109&extension=ts&play_token=lujJgCRX58
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89853.ts
 -http://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8
 
@@ -85,7 +93,8 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc70600dd53
 -http://41.205.93.154/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png" group-title="News",ABC 7 (Chicago)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&extension=ts&play_token=eu0mxNTIm6
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2695.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&extension=ts&play_token=eu0mxNTIm6
 -http://stream.cammonitorplus.net/1750/index.m3u8
 -http://89.187.178.197:1970/ABCChicago/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2695.ts
@@ -97,7 +106,8 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&exte
 -https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="News",ABC 7 (New York)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173034&extension=ts&play_token=XhVVCA7RnT
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/112234.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173034&extension=ts&play_token=XhVVCA7RnT
 -http://stream.cammonitorplus.net/1809/index.m3u8
 -http://89.187.178.197:1970/ABCNewYork/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/112234.ts
@@ -105,7 +115,8 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173034&exte
 -https://fl7.moveonjoy.com/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="KVUE-DT.us_locals1" tvg-name="ABC 24 (Austin)" tvg-logo="https://drive.google.com/uc?id=1tb6dAET2uTVM9tOqsnzUeTybeU7GCsyU" group-title="News",ABC 24 (Austin)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173085&extension=ts&play_token=SP3Imd7Ys8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/38241.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173085&extension=ts&play_token=SP3Imd7Ys8
 -http://stream.cammonitorplus.net/1831/index.m3u8
 -http://89.187.178.197:1970/ABCAustin/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/38241.ts
@@ -113,8 +124,9 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173085&exte
 -http://fl1.moveonjoy.com/TX_AUSTIN_ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="WTVC-DT.us_locals1" tvg-name="ABC 9 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-9-wsyr-us.png" group-title="News",ABC 9 (Tennessee)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173078&extension=ts&play_token=zrtR6vV2CJ
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74689.ts
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74690.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173078&extension=ts&play_token=zrtR6vV2CJ
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74689.ts - not abc
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74690.ts
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-live-us.png" group-title="News",ABC News Live
@@ -124,6 +136,7 @@ https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index
 
 #EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="WGN9 (Chicago)" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="News",WGN9 (Chicago)
 http://23.237.104.106:8080/USA_WGN/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/85340.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=290879&extension=ts&play_token=kqYsJmSp9O
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/85340.ts
 -https://fl31.moveonjoy.com/WGN/index.m3u8
@@ -134,7 +147,8 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173776&exte
 -https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-32-wfld-us.png" group-title="News",FOX 32 (Chicago)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2567.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
 -http://stream.cammonitorplus.net/1752/index.m3u8
 -http://89.187.178.197:1970/FOXChicago/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2567.ts
@@ -149,14 +163,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist
 -https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png
 
 #EXTINF:-1 tvg-id="WFXT-DT.us_locals1" tvg-name="FOX 25 (Boston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-25-wfxt-us.png" group-title="News",FOX 25 (Boston)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938521&extension=ts&play_token=oLRFMBww0u
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2570.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938521&extension=ts&play_token=oLRFMBww0u
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2570.ts
 -https://dai.google.com/linear/hls/pa/event/1kItNgwtQUe54NjjBiiTGg/stream/147e22ea-553e-4410-8650-1cd53bf83032:DLS/master.m3u8
 -http://212.102.60.10/MA_BOSTON_FOX/index.m3u8
 -http://fl41.moveonjoy.com/MA_BOSTON_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="KRIV-DT.us_locals1" tvg-name="FOX 26 (Houston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-26-kriv-us.png" group-title="News",FOX 26 (Houston)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173786&extension=ts&play_token=iu3LHp7HXm
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2555.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173786&extension=ts&play_token=iu3LHp7HXm
 -http://stream.cammonitorplus.net/1780/index.m3u8
 -http://89.187.178.197:1970/FOXHouston/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2555.ts
@@ -165,6 +181,8 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173786&exte
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="News",FOX News Channel
 http://41.205.93.154/FOX-NEWS/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2543.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3647.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2543.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3647.ts
 -https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
@@ -238,7 +256,8 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/94599
 -http://fl41.moveonjoy.com/NICK_JR/index.m3u8
 -http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
--#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (West)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (West)
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (West)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (West) [TEST]
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631832.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631832.ts
 
 #EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-name="Nick Jr. (UK)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (UK)
@@ -266,7 +285,8 @@ http://194.76.0.79/NICKELODEON/index.m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1930985&extension=ts&play_token=3G1zob3cQP
 
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon (West)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (West)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=150354&extension=ts&play_token=sLhtcerbi8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631831.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=150354&extension=ts&play_token=sLhtcerbi8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631831.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3673.ts
 
