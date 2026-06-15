@@ -298,18 +298,21 @@ http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/620
 -http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Cartoons",Nicktoons (West)
-http://nor1live.win:80/livehttpplay?channel_id=23079
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631833.m3u8
+-http://nor1live.win:80/livehttpplay?channel_id=23079
 -http://s.rocketdns.info:8080/33741215/82527298/631833
 -http://restream-live.realiptv.to:8080/33741215/82527298/631833
--http://user.scalecdn.co:8080/33741215/82527298/631833
 
--#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="Cartoons",Nicktoons (Uk)
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="Cartoons",Nicktoons (Uk)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2236.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2236.ts
 
--#EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Cartoons",TeenNick
+#EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Cartoons",TeenNick
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74692.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74692.ts
 
--#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" group-title="Music",NickMusic
+#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" group-title="Music",NickMusic
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/89095.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89095.ts
 
 -#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network & [adult swim]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png" group-title="Cartoons",Cartoon Network & [adult swim]
@@ -342,10 +345,11 @@ http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 -http://fl61.moveonjoy.com/DISNEY_JR/index.m3u8
 -http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
--#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Cartoons",Disney Junior (West)
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Cartoons",Disney Junior (West)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3828.m3u8
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137680
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3828.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3848.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3848.ts - USA
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (East)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -354,7 +358,8 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3720.ts
 -http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 
--#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (West)
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (West)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3829.m3u8
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137682
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3829.ts
 
@@ -406,7 +411,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u
 -#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo 44 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 44 (Chicago)
 -http://104.238.205.28:9090/278662_.m3u8 
 
-#EXTINF:-1 tvg-id="WKAQ-DT.us_locals1" tvg-name="Telemundo 2 (Puerto Rico)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/telemundo/telemundo-puerto-rico-wkaq-tv-us-pr.png" group-title="General",Telemundo 2 (Puerto Rico)
+#EXTINF:-1 tvg-id="WKAQ-DT.us_locals1" tvg-name="Telemundo (Puerto Rico)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/telemundo/telemundo-puerto-rico-wkaq-tv-us-pr.png" group-title="General",Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 -https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
@@ -423,13 +428,13 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991748/hls/master.m3u8?ads.xumo_cha
 https://amg00658-amg00658c5-canelatv-international-7217.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvusapp-canelatvinternational/cb56391e6576619093c82167d6f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dae6852db80148b6f4adafb8c2360625f5c98435ee3b24aa2fbb35440dc6cf5ac4a4c957b58e68314c9c914bfd5d146ca168122f745c990f18e851688a9ab59ec14dd241b51347c9a990be2a332b8cf966506896217560c5cf0a290e71457ec244f51ec8dafd507d13294e54fe46338ab10993de75aeb3bf063cd824aaeb9c9bc282069feb431092ea6e49f9ee22536cf0291c0c7fc290bf399107d51c06edd1d27399efade1583c667f2dc4180a7335052a3954c9feff4e9abe0de4c9a7399c3a4d56e474d364956df5fa7d734827ddb35abcc47795f1f10fd9f56c7d183275a084e969061d60615bdd78ef1b46452c961155fe461974f1336a25e0e75e65f91f05a45a8045bc862678e32588152ec873fe1a8c9e0392ea7d2b526950dc19438d29c7ac1ec97c460c990196c072148dee772083439f051e5c7cff205716a8ed9ec8e0dd7a565437a7c0399f6ef30ba83c53b1415c029462a144251fe8cb1185cc5b2a46e493cf3d5914706c3da39de0775327b6193dab8828699e94cbc7cd2c8f203e25a336c903c1f2f62dfb7c20cb3680b364d548e0b6b54ae477476aac499abc9db2ef9956afc6c39547b93a45e012842636f0fac956afc57f6dc48eacc840f9aafc5396db1118f4d5092d9d769b8ca84c44400d9ea74117598de228a227994598465d89c20988354001d2e490797dd03b10cefadefad41ad25a34b0c69f938eacc91d4f85216b6c10463494a3f71585d792b00bda0a5470869e3b122a610a6dc5ca7465b242c05b9a6054d8dfc780c96562f30f240aa09231aa8764b7731569f134fb6a6e64242528bf77e/107/1920x1080_6709560/index.m3u8
 -https://amg00658-amg00658c6-vidaa-mx-8070.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvltdis-vidaamx/playlist.m3u8?ads.app_bundle=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.app_version=REPLACEME&ads.brand_name=REPLACEME&ads.client_id=REPLACEME&ads.client_section=REPLACEME&ads.coppa=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_make=REPLACEME&ads.device_osv=REPLACEME&ads.device_type=REPLACEME&ads.did=REPLACEME&ads.dnt=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.gender=REPLACEME&ads.genre=REPLACEME&ads.h=REPLACEME&ads.ic=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.lmt=REPLACEME&ads.schain=REPLACEME&ads.ua=REPLACEME&ads.url=REPLACEME&ads.us_privacy=REPLACEME&ads.vauth=REPLACEME&ads.vidaa_ads_contentId=8601&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_param=1190602996&ads.w=REPLACEME
 
-#EXTINF:-1 tvg-id="Canela.TV Novelas Turcas" tvg-name="Canela.TV Novelas Turcas" tvg-logo="https://drive.google.com/uc?id=1zj9YfP6rBjk_wAzq8rsizmUDEIe7Zbcu" group-title="Entertainment",Canela.TV Novelas Turcas
+-#EXTINF:-1 tvg-id="Canela.TV Novelas Turcas" tvg-name="Canela.TV Novelas Turcas" tvg-logo="https://drive.google.com/uc?id=1zj9YfP6rBjk_wAzq8rsizmUDEIe7Zbcu" group-title="Entertainment",Canela.TV Novelas Turcas
 https://osm.sr.roku.com/osm/v1/hls/master/bc087e44-4c30-4a70-9a1d-27e159a05447/live.m3u8?jwt=eyJraWQiOiI4YTRmMGI0YiIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiIxNDJkYzA3OWJlYWY4Y2YyODU5NTMyMTJkNGVjNWZmNyIsImF1ZCI6Im9zbS5zci5yb2t1LmNvbSIsImNvbnRlbnRJZCI6Ijc5MTNiNTc5NmRlMTVjYjlhYjhkZmQzOTJkNzY5ZGVjIiwiZXhwIjoxNzc4MTE3NTgzLCJpYXQiOjE3NzgwOTU5ODMsInBsYXRmb3JtIjoid2ViIn0.OO0_V5sP9TYSMrBc-6ZeJ4DqrUS5Iy3zrS5IMq526kA&traceId=142dc079beaf8cf285953212d4ec5ff7&ssai.ovp_mode=402&ssai.adslate=weather_slate_mode%3D1%26slate_mode%3D1%26virtual_user_id_enc%3DAARr77BE9_MjzsuwiD958n4wC7lN4frSvtvBbHoo8TokY3IZsRYWEN4GZn7TPTRRzqY%26profile_id_enc%3DAAFnXKTSo4j_HS6ICxTfl3KlIS9PALmLYCPPz8ftFQ6vKpeFJ5nXaCQtOS3jeYptzUw%26platform%3Dweb%26content_language%3Des%26coppa%3D0%26iab_content_cat%3D647%26weather_selection_id%3DILZ003_Rockford%26amoeba_ids%3DVGtSUmVyWVUyIzI%26slate_groups%3D%2A%26provider_id%3Drokuavod%26channelstore%3Dus%26shorts_slate_mode%3D0&ads.queryString=version%3D1.0%26inv_type%3Dsb%26sz%3D1920x1080%26ssai_req%3D0%26coppa%3D0%26min_ad_duration%3D0%26max_ad_duration%3D90000%26is_raf%3D1%26is_roku%3D1%26rdid%3Da4cd62ef-39df-5f00-97da-c4b0cd85f16e%26ottid%3DOTT_ADS_TRACKING_ID%26is_lat%3D1%26is_roku_lat%3D1%26idtype%3DOTT_ID_TYPE%26correlator%3DOTT_ADS_TIMESTAMP%26scor%3DOTT_ADS_TIMESTAMP%26pod_min%3D0%26pod_ads%3D5%26pod%3DPROG_POD1%26ppos%3DPOD_POSITION%26ad_vertical%3DOTT_AD_VERTICAL%26ad_roll%3DAD_ROLL%26genre%3Ddrama%26length%3DROKU_ADS_CONTENT_LENGTH%26device%3DOTT_DEVICE_MODEL%26ai%3Dcanela%26channel_id%3DROKU_CHANNEL_ID%26ott_app_id%3DOTT_ADS_APP_ID%26roku_cust_param%3Ddevice_lang%253Den_US%2526unlocked%253D0%2526pageid%253DROKU_PAGE_ID%2526channelStore%253Dus%2526tags%253DROKU_CONTENT_TAGS%2526bmodel%253Dbm1%26platform%3Dweb%26studio_id%3Dcanela%26season_id%3DROKU_ADS_SEASON_ID%26content_rating%3DTV14%26content_type%3Dlivefeed%26iab_content_cat%3D647%26tag_type%3DVAST%26rtid%3DmTZDXNB4deEK7dK56smvOlHHYoQZI0sbznUVBImoMc8%26is_pod%3D0%26family_directed%3DOTT_CONTENT_FAMILY_DIRECTED%26givn%3DROKU_ADS_GOOGLE_GIVN%26pod1a%3DPROG_POD1%26prog_id%3DPROG_ID%26prog_provid%3DPROG_PROV_ID%26prog_is_live%3DIS_LIVE_EVENT%26prog_bm%3DPROG_BM%26prog_type%3DPROG_TYPE%26content_language%3Des%26content_subtitle%3DROKU_CONTENT_SUBTITLE%26tamRequestId%3D7b62e5b7-6f3c-5fea-a9f8-b29c86ef6cdd%26tamPolicyId%3D39%26nmafs%3D600%26abt%3DmidRoll%26sst%3D3%26aaa%3Dtrue%26ovp_mode%3D1
 
-#EXTINF:-1 tvg-id="Canela.TV Novelas y Dramas" tvg-name="Canela.TV Novelas y Dramas" tvg-logo="https://drive.google.com/uc?id=1WlrIAWgsb6WVP7gNNV8fwoLRhKWZ9RMD" group-title="Entertainment",Canela.TV Novelas y Dramas
+-#EXTINF:-1 tvg-id="Canela.TV Novelas y Dramas" tvg-name="Canela.TV Novelas y Dramas" tvg-logo="https://drive.google.com/uc?id=1WlrIAWgsb6WVP7gNNV8fwoLRhKWZ9RMD" group-title="Entertainment",Canela.TV Novelas y Dramas
 https://osm.sr.roku.com/osm/v1/hls/master/1a55d3da-27ef-44c3-a089-0f98f5db3973/live.m3u8?jwt=eyJraWQiOiI4YTRmMGI0YiIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiI3YTc0NzI5ZGRjMDU5NWQ4YWJmOTdhMjcyMjdmMmNlNCIsImF1ZCI6Im9zbS5zci5yb2t1LmNvbSIsImNvbnRlbnRJZCI6IjBhODVhMTVmNWVlNzU2NDZiZjM4NmQzZGUzMDgzYTk0IiwiZXhwIjoxNzc4MTE4OTMxLCJpYXQiOjE3NzgwOTczMzEsInBsYXRmb3JtIjoid2ViIn0.WFmNT1SFvySKrmDHT6s7PRDsf95W3H_JufaIa3scaHU&traceId=7a74729ddc0595d8abf97a27227f2ce4&maxHeight=720&ssai.ovp_mode=402&ssai.adslate=weather_slate_mode%3D1%26slate_mode%3D1%26virtual_user_id_enc%3DAARr77BE9_MjzsuwiD958n4wC7lN4frSvtvBbHoo8TokY3IZsRYWEN4GZn7TPTRRzqY%26profile_id_enc%3DAAP2VX8cCajjsmpgOn4EPrLW7Ui9Ux8mKdDETJKPGUbWTtb-N6FUQ1w2iR3R0wFkIBQ%26platform%3Dweb%26content_language%3Des%26coppa%3D0%26iab_content_cat%3D325%2C646%26weather_selection_id%3DILZ003_Rockford%26amoeba_ids%3DVGtSUmVyWVUyIzI%26slate_groups%3D%2A%26provider_id%3Drokuavod%26channelstore%3Dus%26shorts_slate_mode%3D0&ads.queryString=version%3D1.0%26inv_type%3Dsb%26sz%3D1920x1080%26ssai_req%3D0%26coppa%3D0%26min_ad_duration%3D0%26max_ad_duration%3D90000%26is_raf%3D1%26is_roku%3D1%26rdid%3Da4cd62ef-39df-5f00-97da-c4b0cd85f16e%26ottid%3DOTT_ADS_TRACKING_ID%26is_lat%3D1%26is_roku_lat%3D1%26idtype%3DOTT_ID_TYPE%26correlator%3DOTT_ADS_TIMESTAMP%26scor%3DOTT_ADS_TIMESTAMP%26pod_min%3D0%26pod_ads%3D5%26pod%3DPROG_POD1%26ppos%3DPOD_POSITION%26ad_vertical%3DOTT_AD_VERTICAL%26ad_roll%3DAD_ROLL%26genre%3Dcomedy%2Caction%26length%3DROKU_ADS_CONTENT_LENGTH%26device%3DOTT_DEVICE_MODEL%26ai%3Dcanela%26channel_id%3DROKU_CHANNEL_ID%26ott_app_id%3DOTT_ADS_APP_ID%26roku_cust_param%3Ddevice_lang%253Den_US%2526unlocked%253D0%2526pageid%253DROKU_PAGE_ID%2526channelStore%253Dus%2526tags%253DROKU_CONTENT_TAGS%2526bmodel%253Dbm1%26platform%3Dweb%26studio_id%3Dcanela%26season_id%3DROKU_ADS_SEASON_ID%26content_rating%3DTV14%26content_type%3Dlivefeed%26iab_content_cat%3D325%252C646%26tag_type%3DVAST%26rtid%3DmTZDXNB4deEK7dK56smvOlHHYoQZI0sbznUVBImoMc8%26is_pod%3D0%26family_directed%3DOTT_CONTENT_FAMILY_DIRECTED%26givn%3DROKU_ADS_GOOGLE_GIVN%26pod1a%3DPROG_POD1%26prog_id%3DPROG_ID%26prog_provid%3DPROG_PROV_ID%26prog_is_live%3DIS_LIVE_EVENT%26prog_bm%3DPROG_BM%26prog_type%3DPROG_TYPE%26content_language%3Des%26content_subtitle%3DROKU_CONTENT_SUBTITLE%26tamRequestId%3Df5fa2514-7308-5b1e-bd0a-590f9c9feb8c%26tamPolicyId%3D39%26nmafs%3D600%26abt%3DmidRoll%26sst%3D3%26aaa%3Dtrue%26ovp_mode%3D1
 
-#EXTINF:-1 tvg-id="plex.tv.Canela.TV.Narco-Drama.plex" tvg-name="Canela.TV Narco-Drama" tvg-logo="https://drive.google.com/uc?id=1tXcKmb4teA4PX_nyp8Fc5szOH3C_IjUE" group-title="Entertainment",Canela.TV Narco-Drama
+-#EXTINF:-1 tvg-id="plex.tv.Canela.TV.Narco-Drama.plex" tvg-name="Canela.TV Narco-Drama" tvg-logo="https://drive.google.com/uc?id=1tXcKmb4teA4PX_nyp8Fc5szOH3C_IjUE" group-title="Entertainment",Canela.TV Narco-Drama
 https://osm.sr.roku.com/osm/v1/hls/master/45344e4f-128c-43b0-9925-2ffc5daebba8/live.m3u8?jwt=eyJraWQiOiI4YTRmMGI0YiIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiJmNTFlM2IyMWYwMzBjYjViYmRmYWRiNTAxZDc5ZWMwYiIsImF1ZCI6Im9zbS5zci5yb2t1LmNvbSIsImNvbnRlbnRJZCI6IjNiYzE3NTZkYjBlZjUyNWI5Y2FiODZlZGNkNDI2YzU1IiwiZXhwIjoxNzc4MTE4ODU3LCJpYXQiOjE3NzgwOTcyNTcsInBsYXRmb3JtIjoid2ViIn0.L5wYV_uLjadJZkAEWbsr2M6NSlhRFOhs2NJiLurZFHQ&traceId=f51e3b21f030cb5bbdfadb501d79ec0b&maxHeight=720&ssai.ovp_mode=402&ssai.adslate=weather_slate_mode%3D1%26slate_mode%3D1%26virtual_user_id_enc%3DAAO0pM9dxFAs0R2e5oCb3gNIB2UTRHrbEoRFn0faOv4Mo7oNJKg2-_L5A1qmwShM0zY%26profile_id_enc%3DAAUCWTSBdwlt66oXlu0WxdqtjzaJ_2w1_0jkQLQERnuu4sf43hSC0CQ_WepPb7o7PlE%26platform%3Dweb%26content_language%3Des%26coppa%3D0%26iab_content_cat%3D326%2C647%26weather_selection_id%3DILZ003_Rockford%26amoeba_ids%3DVGtSUmVyWVUyIzI%26slate_groups%3D%2A%26provider_id%3Drokuavod%26channelstore%3Dus%26shorts_slate_mode%3D0&ads.queryString=version%3D1.0%26inv_type%3Dsb%26sz%3D1920x1080%26ssai_req%3D0%26coppa%3D0%26min_ad_duration%3D0%26max_ad_duration%3D90000%26is_raf%3D1%26is_roku%3D1%26rdid%3Da4cd62ef-39df-5f00-97da-c4b0cd85f16e%26ottid%3DOTT_ADS_TRACKING_ID%26is_lat%3D1%26is_roku_lat%3D1%26idtype%3DOTT_ID_TYPE%26correlator%3DOTT_ADS_TIMESTAMP%26scor%3DOTT_ADS_TIMESTAMP%26pod_min%3D0%26pod_ads%3D5%26pod%3DPROG_POD1%26ppos%3DPOD_POSITION%26ad_vertical%3DOTT_AD_VERTICAL%26ad_roll%3DAD_ROLL%26genre%3Ddrama%2Cromance%26length%3DROKU_ADS_CONTENT_LENGTH%26device%3DOTT_DEVICE_MODEL%26ai%3Dcanela%26channel_id%3DROKU_CHANNEL_ID%26ott_app_id%3DOTT_ADS_APP_ID%26roku_cust_param%3Ddevice_lang%253Den_US%2526unlocked%253D0%2526pageid%253DROKU_PAGE_ID%2526channelStore%253Dus%2526tags%253DROKU_CONTENT_TAGS%2526bmodel%253Dbm1%26platform%3Dweb%26studio_id%3Dcanela%26season_id%3DROKU_ADS_SEASON_ID%26content_rating%3DTV14%26content_type%3Dlivefeed%26iab_content_cat%3D326%252C647%26tag_type%3DVAST%26rtid%3DmTZDXNB4deEK7dK56smvOlHHYoQZI0sbznUVBImoMc8%26is_pod%3D0%26family_directed%3DOTT_CONTENT_FAMILY_DIRECTED%26givn%3DROKU_ADS_GOOGLE_GIVN%26pod1a%3DPROG_POD1%26prog_id%3DPROG_ID%26prog_provid%3DPROG_PROV_ID%26prog_is_live%3DIS_LIVE_EVENT%26prog_bm%3DPROG_BM%26prog_type%3DPROG_TYPE%26content_language%3Des%26content_subtitle%3DROKU_CONTENT_SUBTITLE%26tamRequestId%3Df14f518a-d0fb-55d6-bfd6-23028175c031%26tamPolicyId%3D39%26nmafs%3D600%26abt%3DmidRoll%26sst%3D3%26aaa%3Dtrue%26ovp_mode%3D1
 
 -#EXTINF:-1 tvg-id="plex.tv.Canela.TV.Pasión.Latina.plex" tvg-name="Canela.TV Pasión Latina" tvg-logo="https://drive.google.com/uc?id=11NAuAf-QZHdSXtFvBrsMNTbL77ZDKSIL" group-title="Entertainment",Canela.TV Pasión Latina
@@ -446,7 +451,8 @@ https://osm.sr.roku.com/osm/v1/hls/master/45344e4f-128c-43b0-9925-2ffc5daebba8/l
 -https://stream.ads.ottera.tv/playlist.m3u8?network_id=7331
 
 #EXTINF:-1 tvg-id="Galavision.Cable.Network.HD.us2" tvg-name="Galavision (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/galavision-us.png" group-title="Series",Galavision (East)
-http://nor1live.win/livehttpplay?channel_id=23090
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4464.m3u8
+-http://nor1live.win/livehttpplay?channel_id=23090
 -http://kstv.us:8080/live/qdxkt3R5pH/5118349267/23307.ts
 -http://104.238.205.28:9090/278710_.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4464.ts
@@ -455,7 +461,8 @@ http://nor1live.win/livehttpplay?channel_id=23090
 -https://d162h6qqsk8wvl.cloudfront.net/eb4ef379-0625-4af4-8ba7-406180cefbaa/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Galavision.Cable.Network.HD.(Pacific).us2" tvg-name="Galavision (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/galavision-us.png" group-title="Series",Galavision (West)
-http://nor1live.win/livehttpplay?channel_id=23091
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4465.m3u8
+-http://nor1live.win/livehttpplay?channel_id=23091
 -http://104.238.205.28:9090/278713_.m3u8
 -http://104.238.205.28:9090/278711_.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4465.ts
