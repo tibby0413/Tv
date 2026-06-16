@@ -1336,8 +1336,9 @@ https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 -https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5e54187aae660e00093561d6livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjI3M2QwZjJkLWVlYTMtNDBlNC04NjA1LTE0NGQxZWQyZWVmMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgwNjE1NjQ5LCJpYXQiOjE3ODA1MjkyNDksImp0aSI6ImNkOTFmZTNlLTc2ODUtNDg3Yy1hMjVmLWVlYTM2ZTcxOTIyMyJ9.2g6FnaG0-pspcCtLSXLQ_z0FNZ0haj28KLngx1JhYqM&profilesFromStream=true
 -https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10404 
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg" group-title="Entertainment",Game Show Network
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3650.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10404 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3650.ts
 -http://fl41.moveonjoy.com/GAME_SHOW/index.m3u8
 
@@ -1360,11 +1361,13 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10429 
 -http://84.17.50.102/nationalgeographic/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3665.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3665.ts
 -https://fl31.moveonjoy.com/National_Geographic/index.m3u8
 -http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
--#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png",National Geographic (West)
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png",National Geographic (West)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3838.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3838.ts
 
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="National Geographic Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nat-geo-wild-us.png",National Geographic Wild
@@ -1374,7 +1377,8 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 -https://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-id="get.us2" tvg-name="GetTV" tvg-logo="https://i.imgur.com/evOWORd.png",GetTV
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10405
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/30928.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10405
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/30928.ts
 -https://fl31.moveonjoy.com/GET_TV/index.m3u8
 
