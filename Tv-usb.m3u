@@ -1880,7 +1880,7 @@ http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2595.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3757.ts
 
-#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Magnolia_Network_%28Stacked%29.svg",Magnolia Network
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/500px-Magnolia_Network.svg.png",Magnolia Network
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10390 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3722.ts
 -http://fl51.moveonjoy.com/DIY/index.m3u8
