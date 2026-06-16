@@ -1880,10 +1880,11 @@ http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2595.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3757.ts
 
-#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Magnolia-Network-Emblem.png",Magnolia Network
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Magnolia_Network_%28Stacked%29.svg",Magnolia Network
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10390 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3722.ts
 -http://fl51.moveonjoy.com/DIY/index.m3u8
+-https://logos-world.net/wp-content/uploads/2022/01/Magnolia-Network-Emblem.png
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/investigation-discovery-id-int.png" group-title="Documentary",Investigation Discovery (West)
 http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10417 
