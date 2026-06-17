@@ -143,8 +143,8 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 -http://fl7.moveonjoy.com/WGN/index.m3u8
 
 #EXTINF:-1 tvg-id="WHBQ-DT.us_locals1" tvg-name="FOX 13 (Tennessee)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-13-whbq-us.png" group-title="News",FOX 13 (Tennessee)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173776&extension=ts&play_token=4bbigkAqlG
--https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173776&extension=ts&play_token=4bbigkAqlG
 
 #EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-32-wfld-us.png" group-title="News",FOX 32 (Chicago)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2567.m3u8
@@ -248,7 +248,8 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 CARTOONS
 
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (East)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/94599
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74691.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/94599
 -http://84.17.50.102/nickjr/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74691.ts
 -http://212.102.60.10/NICK_JR/index.m3u8
