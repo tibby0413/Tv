@@ -2573,21 +2573,23 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2198.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/650433.ts
 
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/527261.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605741.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/527261.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13449 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527261.ts
 
-#EXTINF:-1 tvg-id="The.Movie.Channel.(Pacific).us2" tvg-name="The Movie Channel (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605741.m3u8
+-#EXTINF:-1 tvg-id="The.Movie.Channel.(Pacific).us2" tvg-name="The Movie Channel (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605741.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605741.ts
 
 #EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/527262.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605742.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/527262.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15366 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527262.ts
 
-#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605742.m3u8
+-#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605742.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605742.ts
 
 #EXTINF:-1 tvg-id="MovieTime.HD.ca2" tvg-name="MovieTime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/movietime-hd-ca.png" group-title="Movies",MovieTime
