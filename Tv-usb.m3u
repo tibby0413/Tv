@@ -286,7 +286,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631831.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3673.ts
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Cartoons",Nicktoons (East)
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/620 
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3674.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/620 
 -http://84.17.50.102/nicktoons/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3674.ts
 -http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
@@ -326,7 +327,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_51
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-channel-us.png" group-title="Cartoons",Disney Channel
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/622 
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3721.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3630.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/622 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3630.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3721.ts
 -http://fl31.moveonjoy.com/DISNEY/index.m3u8
@@ -635,7 +638,8 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 -#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).cr" tvg-name="FUTV" tvg-logo="https://drive.google.com/uc?id=19adoQQDJBZxVtpghwtwbBSXgyYPPPMQK" group-title="Sports",FUTV
 -http://104.238.205.28:9090/279374_.m3u8
 
--#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mutv-uk.png" group-title="Sports",MUTV
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mutv-uk.png" group-title="Sports",MUTV
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2242.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2242.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117036
 
@@ -649,14 +653,16 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 -http://104.238.205.28:9090/278798_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Sports",ESPN
-http://41.223.30.230/ESPN/index.m3u8
+http://84.17.50.102/espn/index.m3u8
+-http://41.223.30.230/ESPN/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3636.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3725.ts
 -http://41.205.93.154/ESPN/index.m3u8
 -http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2
-http://41.223.30.230/ESPN2/index.m3u8
+http://84.17.50.102/espn2/index.m3u8
+-http://41.223.30.230/ESPN2/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
 -https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 -http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
