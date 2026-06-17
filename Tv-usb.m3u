@@ -369,8 +369,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBC4300005AL
 
 #EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="Cartoons",MeTV Toons
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/95324
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/721378.m3u8
+-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/95324
 -http://kstv.us:8080/live/qdxkt3R5pH/5118349267/48753.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/721378.ts
 
 #EXTINF:-1 tvg-id=" " tvg-name="Toonami Aftermath (East)" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Cartoons",Toonami Aftermath (East)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
