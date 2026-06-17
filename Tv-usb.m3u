@@ -267,7 +267,8 @@ https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 http://kstv.us:8080/live/qdxkt3R5pH/5118349267/23275.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (East)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (East)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://194.76.0.79/NICKELODEON/index.m3u8
+-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/621 
 -http://nor1live.win/livehttpplay?channel_id=23010
 -http://84.17.50.102/nickelodeon/index.m3u8
@@ -277,12 +278,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 -http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 -http://fl31.moveonjoy.com/NICKELODEON/index.m3u8
 -http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/43-NICKELODEON/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (East)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (East) [TEST] 1
-http://194.76.0.79/NICKELODEON/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (East)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (East) [TEST] 2
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1930985&extension=ts&play_token=3G1zob3cQP
 
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon (West)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (West)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631831.m3u8
@@ -1117,7 +1112,10 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/647379.m3u8
 -http://1tv41.icu:8080/live/Y06DNq/295733/46694.m3u8
 -http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 
--#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png" group-title="Entertainment",Paramount Network (West)
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png" group-title="Entertainment",Paramount Network (East) [TEST]
+http://194.76.0.79/PARAMOUNT-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png" group-title="Entertainment",Paramount Network (West)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3839.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631839.m3u8 - doesnt work
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3839.ts
