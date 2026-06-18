@@ -235,11 +235,13 @@ https://d1qf2trh7gg8ho.cloudfront.net/out/v1/a111463ca8b84ca682914801b14b7389/AD
 
 #EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-weather-us.png" group-title="Weather",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/638797.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/638797.ts
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/weather-channel-hd-us.png" group-title="Weather",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 -https://dvrfl04.tulix.tv/teleup-weather/mpegts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/42308.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42308.ts
 
 
@@ -268,44 +270,42 @@ https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 http://kstv.us:8080/live/qdxkt3R5pH/5118349267/23275.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (East)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (East)
-http://194.76.0.79/NICKELODEON/index.m3u8
--http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://194.76.0.79/NICKELODEON/index.m3u8?1080p
+-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8?720p
+-http://84.17.50.102/nickelodeon/index.m3u8?540p
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/621 
 -http://nor1live.win/livehttpplay?channel_id=23010
--http://84.17.50.102/nickelodeon/index.m3u8
 -http://41.205.93.154/NICK-HD/index.m3u8
 -http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlLHz2mFf74N6kVDQq7PWvKtOBFjEokQc_a_zcshAV12U
 -http://epicboss.live:80/bjune@teksavvy.com/5193594414/58
--http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 -http://fl31.moveonjoy.com/NICKELODEON/index.m3u8
 -http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/43-NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon (West)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (West)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631831.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3673.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=150354&extension=ts&play_token=sLhtcerbi8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631831.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3673.ts
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Cartoons",Nicktoons (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3674.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3674.m3u8?720p
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/620 
--http://84.17.50.102/nicktoons/index.m3u8
+-http://84.17.50.102/nicktoons/index.m3u8?540p
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3674.ts
 -http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
 -http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Cartoons",Nicktoons (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631833.m3u8
--http://nor1live.win:80/livehttpplay?channel_id=23079
--http://s.rocketdns.info:8080/33741215/82527298/631833
--http://restream-live.realiptv.to:8080/33741215/82527298/631833
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631833.m3u8?720p
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631833.ts
 
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="Cartoons",Nicktoons (Uk)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2236.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2236.m3u8?576p
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2236.ts
 
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Cartoons",TeenNick
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74692.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74692.m3u8?1080p
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74692.ts
 
 #EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" group-title="Music",NickMusic
