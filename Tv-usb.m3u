@@ -2119,10 +2119,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648976.m3u8
 #EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-name="HBO Hits (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-hits-us.png" group-title="Movies",HBO Hits (West)
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png" group-title="Movies",HBO2
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cr" tvg-name="HBO 2 (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png" group-title="Movies",HBO2 (Latin America)
 http://79.127.207.193:80/HBO2/playlist.m3u8
 -http://23.237.104.106:8080/USA_HBO2/index.m3u8
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648976.ts
 
 #EXTINF:-1 tvg-id="HBO.MAX.us" tvg-name="HBO Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/media/hbo-max-alt.png" group-title="Movies",HBO Max
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3188.m3u8
@@ -2162,7 +2161,6 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631876.m3u8
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648981.m3u8
 -Also known as HBO Signature
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13436
-
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648981.ts
 -http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/30341
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951704&extension=ts&play_token=LeVr22p6hP
