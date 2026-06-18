@@ -129,6 +129,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74690.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74689.ts - not abc
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74690.ts
 
+#EXTINF:-1 tvg-id="KMGH-DT.us_locals1" tvg-name="ABC 7 (Denver)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-kmgh-us.png" group-title="News",ABC 7 (Denver)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-live-us.png" group-title="News",ABC News Live
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 -https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
