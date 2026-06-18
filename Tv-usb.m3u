@@ -2601,6 +2601,10 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605741.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13449 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527261.ts
 
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel (West)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605741.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605741.ts
+
 -#EXTINF:-1 tvg-id="The.Movie.Channel.(Pacific).us2" tvg-name="The Movie Channel (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel (West)
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605741.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605741.ts
@@ -2611,8 +2615,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605742.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15366 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527262.ts
 
--#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra (West)
--http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605742.m3u8
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra (West)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605742.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/605742.ts
 
 #EXTINF:-1 tvg-id="MovieTime.HD.ca2" tvg-name="MovieTime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/movietime-hd-ca.png" group-title="Movies",MovieTime
@@ -2811,7 +2815,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3949.m3u8
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13572
 -https://fl31.moveonjoy.com/EPIX/index.m3u8
 
--#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-us.png" group-title="Movies",MGM+ (West)
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-us.png" group-title="Movies",MGM+ (West)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/635603.m3u8
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/129987
 -https://fl31.moveonjoy.com/STARZ_WEST/index.m3u8
 -https://fl1.moveonjoy.com/STARZ_WEST/mpegts
