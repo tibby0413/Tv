@@ -274,7 +274,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74691.ts
 -http://fl41.moveonjoy.com/NICK_JR/index.m3u8
 -http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (West)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (West) [TEST]
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (West)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (West)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631832.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631832.ts
 
@@ -339,7 +339,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="[adult swim] (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png" group-title="Cartoons",[adult swim] (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png" group-title="Movies",Adult Swim
+#EXTINF:-1 tvg-id=" " tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png" group-title="VOD",Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-channel-us.png" group-title="Cartoons",Disney Channel
@@ -406,15 +406,15 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/3697.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938411&extension=ts&play_token=a3ZTtY3xTB
 
-#EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision (Chicago IL)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (Chicago IL) [ALT]
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3697.ts
-
 #EXTINF:-1 tvg-id="WLTV-DT.us_locals1" tvg-name="Univision (Miami FL)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (Miami FL)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 -http://104.238.205.28:9090/278701_.m3u8
 
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision (New York NY)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (New York NY)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+
+#EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision (New York NY)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (New York NY) [ALT]
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3697.ts
 
 #EXTINF:-1 tvg-id="Canal.Univisión.(Latinoamérica).sv" tvg-name="Univision (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (Latin America)
 http://168.228.44.241:9997/play/a01n/index.m3u8
@@ -429,7 +429,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u
 #EXTINF:-1 tvg-id="WFUT-DT.us_locals1" tvg-name="UniMas (New York)" tvg-logo="https://drive.google.com/uc?id=1dC7LEgRD4uFT1szJM0nc738FpYMolRWN" group-title="General",UniMas (New York)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 
--#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo 44 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 44 (Chicago)
+#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo 44 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 44 (Chicago)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3876.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2400.ts
 -http://104.238.205.28:9090/278662_.m3u8 
@@ -443,7 +443,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3883.ts
 #EXTINF:-1 tvg-id="KSTS-DT.us_locals1" tvg-name="Telemundo 48 (San Francisco)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 48 (San Francisco)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2388.ts
 
-#EXTINF:-1 tvg-id="WTMO-CD.us_locals1" tvg-name="Telemundo 31 (Orlando)" tvg-logo="https://drive.google.com/uc?id=1KBNortAm-1YXr4j2NAaVDwfk086svku0" group-title="General",Telemundo 31 (Orlando)
+#EXTINF:-1 tvg-id="WTMO-CD.us_locals1" tvg-name="Telemundo 31 (Orlando)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 31 (Orlando)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/89502.ts
 -https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -512,13 +512,7 @@ http://138.59.227.20:8000/play/a08a/index.m3u8
 -http://181.13.252.102:8000/play/a06c/index.m3u8
 -http://104.238.205.28:9090/278773_.m3u8
 
-#EXTINF:-1 tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="Todo Noticias (TN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tn-todo-noticias-ar.png" group-title="Series",Todo Noticias (TN) [TEST 1]
-https://www.youtube.com/watch?v=aMMqErbOqhQ
-
-#EXTINF:-1 tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="Todo Noticias (TN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tn-todo-noticias-ar.png" group-title="Series",Todo Noticias (TN) [TEST 2]
-https://youtu.be/aMMqErbOqhQ
--http://104.238.205.28:9090/278775_.m3u8
-
+-#EXTINF:-1 tvg-id="[TODONOT].TODO.NOTICIAS.uy" tvg-name="Todo Noticias (TN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tn-todo-noticias-ar.png" group-title="Series",Todo Noticias (TN)
 
 
 
@@ -894,7 +888,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3695.ts
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SNY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" group-title="Sports",SNY
--http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2413.ts
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2413.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/15080
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2413.ts
 -http://fl51.moveonjoy.com/SNY/index.m3u8
