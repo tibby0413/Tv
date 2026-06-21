@@ -436,6 +436,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3697.ts
 
 #EXTINF:-1 tvg-id="Canal.Univisión.(Latinoamérica).sv" tvg-name="Univision (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (Latin America)
 http://168.228.44.241:9997/play/a01n/index.m3u8
+-http://138.121.15.230:9002/UNIVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-name="Universo (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-universo-us.png",Universo (East)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3696.ts
@@ -1294,6 +1295,9 @@ ENTERTAINMENT
 
 #EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="Entertainment",PBS
 https://wttwdt.lls.pbs.org/out/v1/bab398469bfc4defb18cc596c47e42ca/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner.Channel.br" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/warner-channel-br.png" group-title="General",Warner Channel
+http://138.59.227.20:8000/play/a09d/index.m3u8
 
 -#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="CW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png" group-title="General",CW
 -http://104.238.205.28:9090/278689_.m3u8
@@ -3058,6 +3062,9 @@ https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2412.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14850
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2412.ts
+
+#EXTINF:-1 tvg-id="Sony.Movies.Brazil.br" tvg-name="Sony Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-movies-br.png" group-title="Movies",Sony Movies [LAM]
+http://138.59.227.20:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/sony-channel-ar.png" group-title="Movies",Sony Channel [ENG+SPA]
 http://138.59.227.20:8000/play/a09c/index.m3u8
