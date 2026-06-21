@@ -393,6 +393,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2323.ts
 #EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-kids-dash-icon-us.png" group-title="Cartoons",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-name="God Stands Kids Club TV" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Cartoons",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+
 #EXTINF:-1 tvg-id="BABY.FIRST.ph" tvg-name="Baby First" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/baby-first-tv-us.png" group-title="Cartoons",Baby First
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3805.ts
 
@@ -729,7 +732,6 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3725.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3725.ts
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2
-
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3637.ts
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2 [ALT]
@@ -739,15 +741,16 @@ http://84.17.50.102/espn2/index.m3u8
 -https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 -http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Sports",ESPN 3
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Sports",ESPN 3 Spanish
 http://46.151.196.223:14443/
 -http://104.238.205.28:9090/278763_.m3u8
 -Canal.ESPN.3.(Bolivia).ar
 -ESPN.3.br
 -ESPN.3.co - Maybe
 
-#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Sports",ESPN 3 [ALT]
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-3-ar.png" group-title="Sports",ESPN 3 Spanish [ALT]
 http://138.59.227.20:8000/play/a09a/index.m3u8
+-http://magiz.net:80/play/b6ptsn3bNJAondOpwB8XrPnGuBXrjmx70sTnuZuUhZk/ts
 
 #EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png" group-title="Sports",ESPN 4
 http://138.59.227.20:8000/play/a084/index.m3u8
@@ -755,7 +758,8 @@ http://138.59.227.20:8000/play/a084/index.m3u8
 -http://linesource.cc:8080/4cBmc2bmpxsJjm2XCCbM02I5yUOYxKN7/eiXGLIK5j2LgQSHsBycbmbJ7saLCDx6PdS/155
 -http://104.238.205.28:9090/278582_.m3u8
 
--#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/espn-5-br.png" group-title="Sports",ESPN 5
+http://magiz.net:80/play/b6ptsn3bNJAondOpwB8XrCj23Sx2Sh5TH52ye27xVtM/ts
 -http://104.250.128.34/livehttpplay?channel_id=23503
 -http://104.238.205.28:9090/278558_.m3u8
 -Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv
@@ -795,6 +799,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3640.ts
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png" group-title="Sports",ESPN Deportes
 http://nor1live.win/livehttpplay?channel_id=23135
 
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png" group-title="Sports",ESPN Premium
+http://138.59.227.20:8000/play/a086/index.m3u8
+
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACCN | ESPN
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5287.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/38233
@@ -803,6 +810,15 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5287.ts
 
 -#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/tudn-mx.png" group-title="Sports",TUDN
 -http://104.238.205.28:9090/278571_.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-1-be.png" group-title="Sports",DAZN 1
+https://1nyaler.streamhostingcdn.top/stream/7/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-2-be.png" group-title="Sports",DAZN 2
+https://1nyaler.streamhostingcdn.top/stream/8/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-3-be.png" group-title="Sports",DAZN 3
+https://1nyaler.streamhostingcdn.top/stream/9/index.m3u8
 
 -#EXTINF:-1 tvg-id="SÃ£o.Paulo/SP..Premiere.Clubes.HD.br" tvg-name="Premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/premiere-br.png" group-title="Sports",Premiere
 -https://02.arlivre.online/pre1/index.m3u8
@@ -833,10 +849,12 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3646.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3646.ts
 -http://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 
--#EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Sur).sv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Sports",Fox Sports (Spanish)
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Sur).sv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Sports",Fox Sports (Spanish)
+http://138.59.227.20:8000/play/a085/index.m3u8
 -http://104.238.205.28:9090/278766_.m3u8
 
--#EXTINF:-1 tvg-id="Canal.Fox.Sports.2.(Cono.Norte).sv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Sports",Fox Sports 2 (Spanish)
+#EXTINF:-1 tvg-id="Canal.Fox.Sports.2.(Cono.Norte).sv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Sports",Fox Sports 2 (Spanish)
+http://138.59.227.20:8000/play/a09b/index.m3u8
 -http://104.238.205.28:9090/278767_.m3u8
 
 -#EXTINF:-1 tvg-id="Canal.Fox.Sports.3.(México).mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fox-sports-3-lam.png" group-title="Sports",Fox Sports 3
@@ -895,8 +913,23 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 -https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="Sports",beIN Sports 1 [French]
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="Sports",beIN Sports 2 [French]
+https://1nyaler.streamhostingcdn.top/stream/4/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="Sports",beIN Sports 4 [French]
+https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.hk" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-5-us.png" group-title="Sports",beIN Sports 5
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5312.ts
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.6.hk" tvg-name="beIN Sports 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-6-us.png" group-title="Sports",beIN Sports 6
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5311.ts
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-name="beIN Sports Max 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-7-max-int.png" group-title="Sports",beIN Sports Max 7
+https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports Live Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports Live Event
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/90427.ts
@@ -947,6 +980,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2191.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2191.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2192.ts
 -http://m4.dns-speedy.com:80/Dieter/71AC65/101050
+
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sports Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sports",Sky Sports Calcio
+https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8
 
 -#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="Sports",Sky Sports NFL
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117063
@@ -1000,6 +1036,24 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2226.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2226.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117073
 -http://m4.dns-speedy.com:80/Dieter/71AC65/101047
+
+#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-name="Nova Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-1-cz.png" group-title="Sports",Nova Sport 1
+https://1nyaler.streamhostingcdn.top/stream/37/index.m3u8
+
+#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-name="Nova Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-2-cz.png" group-title="Sports",Nova Sport 2
+https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
+
+#EXTINF:-1 tvg-id="Nova.Sport.3.cz" tvg-name="Nova Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-3-cz.png" group-title="Sports",Nova Sport 3
+https://1nyaler.streamhostingcdn.top/stream/39/index.m3u8
+
+#EXTINF:-1 tvg-id="Nova.Sport.4.cz" tvg-name="Nova Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-4-cz.png" group-title="Sports",Nova Sport 4
+https://1nyaler.streamhostingcdn.top/stream/40/index.m3u8
+
+#EXTINF:-1 tvg-id="Nova.Sport.5.cz" tvg-name="Nova Sport 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-5-cz.png" group-title="Sports",Nova Sport 5
+https://1nyaler.streamhostingcdn.top/stream/41/index.m3u8
+
+#EXTINF:-1 tvg-id="Nova.Sport.6.cz" tvg-name="Nova Sport 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-6-cz.png" group-title="Sports",Nova Sport 6
+https://1nyaler.streamhostingcdn.top/stream/42/index.m3u8
 
 -#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 3
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117039
@@ -1666,6 +1720,15 @@ https://cdnvod.panda-os.com/livehls/6724695b06304424db25b354/master.m3u8
 #EXTINF:-1 tvg-id="DAYSTAR.HD.uk" tvg-name="Daystar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/daystar-us.png" group-title="Religious",Daystar
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/588480.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Moses Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",Moses Full Film
+https://storage.godstands.tv/vod/Movies/MosesFullMovie.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Life of Jesus Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",The Life of Jesus Full Film
+https://storage.godstands.tv/vod/Movies/TheLifeofJesusEnglish.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Beloved King David Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",Beloved King David Full Film
+https://storage.godstands.tv/vod/Movies/KingDavidFullMovie.mp4
+
 -#EXTINF:-1 tvg-id=" " tvg-name="Live Worship" tvg-logo="https://files.snappages.site/TB7M39/assets/images/22604301_1024x1024_500.png" group-title="Religious",Live Worship
 -https://cdnvod.panda-os.com/livehls/655ef1ce0630442a365664d3/master.m3u8
 
@@ -2150,6 +2213,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2597.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/28464
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2597.ts
 -http://fl31.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Home.&amp;.Health.br" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/330px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health
+http://138.59.227.20:8000/play/a08f/index.m3u8
 
 -#EXTINF:-1 tvg-id="CTV.Nature.HD.ca2" tvg-name="CTV Nature Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png",CTV Nature Channel
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/
@@ -2993,8 +3059,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2412.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/14850
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2412.ts
 
-#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/sony-channel-ar.png" group-title="Movies",Sony Channel
-http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/sony-channel-ar.png" group-title="Movies",Sony Channel [ENG+SPA]
+http://138.59.227.20:8000/play/a09c/index.m3u8
+-http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
 
 -#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-channel-br.png" group-title="Movies",Sony Channel (Spanish)
 -https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
@@ -3002,8 +3069,8 @@ http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
 -#EXTINF:-1 tvg-id="Box.Cinema.distro" tvg-name="Box Cinema" tvg-logo="https://drive.google.com/uc?id=1QTKWv4TxDnA4XmbOPH2P_Fkry2gjGYo4" group-title="Movies",Box Cinema
 -https://d3s7x6kmqcnb6b.cloudfront.net/hls/CQH5QRY/m.m3u8
 
-#EXTINF:-1 tvg-id="Canal.DHE.cl" tvg-name="Canal DHE" tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" group-title="Movies",DHE
-http://104.250.128.34/livehttpplay?channel_id=23659
+-#EXTINF:-1 tvg-id="Canal.DHE.cl" tvg-name="Canal DHE" tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" group-title="Movies",DHE
+-http://104.250.128.34/livehttpplay?channel_id=23659
 
 -#EXTINF:-1 tvg-id="Canal.ViendoMovies.sv" tvg-name="Viendo Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/viendo-movies-us.png" group-title="Movies",Viendo Movies
 -http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlMERk5E7MNkj8HYSBmfiYsKabe1ipn9SHnMjAfFiz58Z
