@@ -112,7 +112,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2695.ts
 -http://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
 
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png" group-title="News",ABC 7 (Chicago) [ALT]
-http://91.218.50.136:80/Rose35torres/iB7101/10799
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2695.ts
 
 -#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 24/7 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-kabc-us.png" group-title="News",ABC 7 24/7 News
 -http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlHCNtybdALnT9AsIAL1AnYoy7hsmByAYAXnxvPobaTFr
