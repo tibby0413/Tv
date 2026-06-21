@@ -2449,15 +2449,20 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648976.ts
 #EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-name="HBO Hits (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-hits-us.png" group-title="Movies",HBO Hits (West)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/553461.ts
 -Also Known as HBO2
+-http://23.237.104.106:8080/USA_HBO2/index.m3u8
 -http://23.237.104.106:8080/USA_HBO2/index.mpegts
 
-#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cr" tvg-name="HBO 2 (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png" group-title="Movies",HBO2 (Latin America)
-http://79.127.207.193:80/HBO2/playlist.m3u8
--http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cr" tvg-name="HBO2 (LAM)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png" group-title="Movies",HBO2 (LAM)
+http://138.59.227.20:8000/play/a07o/index.m3u8
+-http://79.127.207.193:80/HBO2/playlist.m3u8
 
--#EXTINF:-1 tvg-id="HBO.MAX.us" tvg-name="HBO Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/media/hbo-max-alt.png" group-title="Movies",HBO Max
--http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3188.ts
+#EXTINF:-1 tvg-id="HBO.MAX.us" tvg-name="HBO Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/media/hbo-max-alt.png" group-title="Movies",HBO Max
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3188.ts
+-http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3188.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3188.ts
+
+#EXTINF:-1 tvg-id="HBO.MAX.us" tvg-name="HBO Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/media/hbo-max-alt.png" group-title="Movies",HBO Max [ALT]
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3188.ts
 
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-movies-us.png" group-title="Movies",HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
@@ -2502,7 +2507,15 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648981.ts
 -http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlBAyxNdAoU4wB0GrZ0aX22oK9-MA5qw_ul4WzKZsQCZ9
 -Also known as HBO Signature
 
--#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO Family (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png" group-title="Movies",HBO Family (Latin America)
+#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Signature.br" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/hbo-signature-br.png" group-title="Movies",HBO Signature
+http://138.59.227.20:8000/play/a06h/index.m3u8
+-HBO.Signature.br
+
+#EXTINF:-1 tvg-id="HBO.Plus.br" tvg-name="HBO+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/hbo-plus-br.png" group-title="Movies",HBO+
+http://138.59.227.20:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO Family (LAM)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png" group-title="Movies",HBO Family (LAM)
+http://138.59.227.20:8000/play/a07p/index.m3u8
 -https://fl31.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-latino-us.png" group-title="Movies",HBO Latino (East)
