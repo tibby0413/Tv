@@ -175,6 +175,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2567.ts
 -http://212.102.60.10/IL_Chicago_FOX/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 
+#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" tvg-name="FOX+ (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-plus-wpwr-us.png" group-title="News",FOX+ (Chicago)
+http://vocotv.live:80/Sanchez01/Sanchez01/640398
+
 #EXTINF:-1 tvg-id="667f2bc063a5f20008f4d386" tvg-name="FOX Local Chicago" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA782CE-39AF-47C4-9E49-0DE963F33C43/3-1x1.png" group-title="News",FOX Local Chicago
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 -https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
