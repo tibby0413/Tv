@@ -77,6 +77,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2464.ts
 
 #EXTINF:-1 tvg-id="NBC.Chicago.(Live.Stream).us2" tvg-name="NBC 5 Chicago News" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/44934351-EB30-4045-8421-FD35CE6E689F/3-1x1.png" group-title="News",NBC 5 Chicago News
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F148.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=PE075FB87-C9AE-41D5-8B17-95C0E9301C8E&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=https%253A%252F%252Fwww.nbcchicago.com%252Fwatch%252F&ads._fw_us_privacy=1YNN&ads.afid=396654828&ads.caid=NBCNCHI&ads.channelName=nbcchicagonews&ads.csid=nbc_ots_alldevice_allos_web_wmaq_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQqAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23408260&ads.vcid=&ads.vip=71.239.123.98&ads.xumo_channelId=88889704a&ads.xumo_contentId=3818&ads.xumo_contentName=NBCNCHI&ads.xumo_ifa=&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI&ads.xumo_streamId=88889704&ads.site_name=NBC&ads._fw_did=
+-https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 -https://s8host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s8host1.localnow.api.cms.amdvids.com&ads.playbackid=44934351-EB30-4045-8421-FD35CE6E689F&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1747755763&ads.n3=qp_content_id&ads.v3=44934351-EB30-4045-8421-FD35CE6E689F&ads.n4=content_name&ads.v4=NBC%20Chicago%20News%20Hyperlocal&ads.n21=dnt&ads.v21=&ads.n22=h&ads.v22=1080&ads.n23=gpp_sid&ads.v23=&ads.n24=channel_title&ads.v24=NBC%20Chicago%20News%20Hyperlocal&ads.n25=channel_genre&ads.v25=News&ads.n26=channel_language&ads.v26=en&ads.n27=us_privacy&ads.v27=1YNY&ads.n28=device_type&ads.v28=&ads.n29=w&ads.v29=1920&ads.n30=channel_rating&ads.v30=TV-PG&ads.n31=content_producer_name&ads.v31=NBCUniversal&ads.n32=channel_corp&ads.v32=NBCUniversal&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=app_bundle&ads.v34=web.localnow&ads.n35=channel_ext_id&ads.v35=&ads.n36=ua&ads.v36=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F145.0.0.0%20Safari%2F537.36&ads.n37=network_name&ads.v37=nbc-chicago-news&ads.n38=channel_company_id&ads.v38=AMDP500448&ads.n39=channel_brand_id&ads.v39=AMDB013244&ads.n40=ifa_type&ads.v40=&ads.n41=app_name&ads.v41=&ads.n42=app_version&ads.v42=0.0.0&ads.n43=ip&ads.v43=73.208.96.65&ads.n44=gpp&ads.v44=&ads.n45=content_provider&ads.v45=nbc-chicago-news&ads.n46=device_model&ads.v46=&ads.n47=cust_devicename&ads.v47=desktop_web&ads.n48=content_type&ads.v48=channel&ads.n49=device_make&ads.v49=&ads.n50=content_custom_1_param&ads.v50=44934351-EB30-4045-8421-FD35CE6E689F&ads.n51=did&ads.v51=&ads.n52=content_custom_2_param&ads.v52=AMDB013244&ads.n53=pos&ads.v53=midroll&ads.n54=channel_id&ads.v54=44934351-EB30-4045-8421-FD35CE6E689F&ads.n55=content_livestream&ads.v55=1&ads.n56=channel_name&ads.v56=NBC%20Chicago%20News%20Hyperlocal&ads.n57=url&ads.v57=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fnbc-chicago-news-hyperlocal&ads.n58=app_store_url&ads.v58=
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/660935.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660935.ts
@@ -3427,72 +3428,16 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="Series",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",Oh No!
-https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",Oh No!
+-https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",Test
-https://dbrb49pjoymg4.cloudfront.net/10001/99991300/hls/master.m3u8?ads.xumo_channelId=99991300&ads._fw_ifa_type=&ads._fw_did=538e6508-ff0d-4efe-9ba6-654ac960a56e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991300&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+https://play.xumo.com/free-movies/looper/XM0N14OM0FT03D
 
 -#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
 
 -#EXTINF:-1 tvg-id="Playboy.TV.us2" tvg-name="Playboy TV Latin America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/playboy-tv-us.png" group-title="XXX",Playboy TV Latin America
 -http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
