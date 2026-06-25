@@ -848,11 +848,17 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3645.ts
 -http://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 -http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1 [ALT]
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3645
+
 #EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",FS2
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3646.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/99151
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3646.ts
 -http://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+
+#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",FS2 [ALT]
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3646
 
 #EXTINF:-1 tvg-id="Canal.Fox.Sports.(Cono.Sur).sv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Sports",Fox Sports (Spanish)
 http://138.59.227.20:8000/play/a085/index.m3u8
@@ -901,7 +907,8 @@ https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00384-pac12fast-amg00384c1-cw-us-7206.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-cwus/playlist.m3u8?did=&dnt=0&lmt=0&device_name=computer&us_privacy=1YYN&osver=&uoo=0
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/88062.ts
+-http://23.237.104.106:8080/USA_BEIN/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45611&extension=ts&play_token=UCeRliE9zn
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/88062.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88062.ts
@@ -918,26 +925,39 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 -https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-hz-mea.png" group-title="Sports",beIN Sports 1 [French]
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="Sports",beIN Sports 1 [French]
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-hz-mea.png" group-title="Sports",beIN Sports 2 [French]
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="Sports",beIN Sports 2 [French]
 https://1nyaler.streamhostingcdn.top/stream/4/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-hz-mea.png" group-title="Sports",beIN Sports 4 [French]
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="Sports",beIN Sports 3 [French]
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5308.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/90427.ts
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="Sports",beIN Sports 4 [French]
 https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.5.hk" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-5-us.png" group-title="Sports",beIN Sports 5
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.hk" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="Sports",beIN Sports 4
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5313.ts
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.hk" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="Sports",beIN Sports 5
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5312.ts
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.6.hk" tvg-name="beIN Sports 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-6-us.png" group-title="Sports",beIN Sports 6
+#EXTINF:-1 tvg-id="beIN.SPORTS.6.hk" tvg-name="beIN Sports 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-6-int.png" group-title="Sports",beIN Sports 6
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5311.ts
+
+#EXTINF:-1 tvg-id=" " tvg-name="beIN Sports 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-7-int.png" group-title="Sports",beIN Sports 7
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5310.ts
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-name="beIN Sports Max 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-7-max-int.png" group-title="Sports",beIN Sports Max 7
 https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Live Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports Live Event
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/90427.ts
+#EXTINF:-1 tvg-id=" " tvg-name="beIN Sports 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-8-int.png" group-title="Sports",beIN Sports 8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/5309.ts
+
+-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Live Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Sports",beIN Sports Live Event
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/90427.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/90427.ts
 
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/yes-network-us.png" group-title="Sports",Yes Network
@@ -950,7 +970,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3695.ts
 -https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/yes-network-us.png" group-title="Sports",Yes Network [ALT]
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3695.ts
+-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SNY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" group-title="Sports",SNY
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2413.ts
@@ -1005,7 +1026,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2188.ts
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="Sports",Sky Sports Golf
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2186.ts
--http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2187.ts -no video
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2187.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2186.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2187.ts
 
@@ -3116,6 +3137,12 @@ http://138.59.227.20:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/sony-channel-ar.png" group-title="Movies",Sony Channel [ENG+SPA]
 http://138.59.227.20:8000/play/a09c/index.m3u8
 -http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
+
+#EXTINF:-1 tvg-id="GREAT!.movies.uk" tvg-name="GREAT! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/330px-Great%21_Movies_logo_2021.svg.png",GREAT! Movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GREAT!.romance.uk" tvg-name="GREAT! Romance" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Great%21_Romance_logo_2023.svg/330px-Great%21_Romance_logo_2023.svg.png",GREAT! Romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 
 -#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-channel-br.png" group-title="Movies",Sony Channel (Spanish)
 -https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
