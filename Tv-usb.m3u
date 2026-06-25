@@ -1755,13 +1755,13 @@ https://cdnvod.panda-os.com/livehls/6724695b06304424db25b354/master.m3u8
 #EXTINF:-1 tvg-id="DAYSTAR.HD.uk" tvg-name="Daystar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/daystar-us.png" group-title="Religious",Daystar
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/588480.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Moses Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",Moses Full Film
+#EXTINF:-1 tvg-id=" " tvg-name="Moses Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",Moses Full Film
 https://storage.godstands.tv/vod/Movies/MosesFullMovie.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Life of Jesus Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",The Life of Jesus Full Film
+#EXTINF:-1 tvg-id=" " tvg-name="The Life of Jesus Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",The Life of Jesus Full Film
 https://storage.godstands.tv/vod/Movies/TheLifeofJesusEnglish.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Beloved King David Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",Beloved King David Full Film
+#EXTINF:-1 tvg-id=" " tvg-name="Beloved King David Full Film" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Religious",Beloved King David Full Film
 https://storage.godstands.tv/vod/Movies/KingDavidFullMovie.mp4
 
 -#EXTINF:-1 tvg-id=" " tvg-name="Live Worship" tvg-logo="https://files.snappages.site/TB7M39/assets/images/22604301_1024x1024_500.png" group-title="Religious",Live Worship
@@ -3108,13 +3108,16 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885576/hls/master.m3u8?withResolut
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-661fca34414d94009d1206ec.m3u8
 -https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Y2xxXVbLsXeSyDW8Mh8Q
 
-#EXTINF:-1 tvg-id="" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/movie-sphere-us.png" group-title="Movies",MovieSphere
+#EXTINF:-1 tvg-id="Moviesphere.au" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/movie-sphere-us.png" group-title="Movies",MovieSphere [AU]
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/movie-sphere-us.png" group-title="Movies",MovieSphere [UK]
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.MOVIESPHERE.plex" tvg-name="MovieSphere" tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="Movies",MovieSphere by Lionsgate
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/645e7828e1979c00087b75b4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjI3M2QwZjJkLWVlYTMtNDBlNC04NjA1LTE0NGQxZWQyZWVmMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgwNjE1NjQ5LCJpYXQiOjE3ODA1MjkyNDksImp0aSI6ImNkOTFmZTNlLTc2ODUtNDg3Yy1hMjVmLWVlYTM2ZTcxOTIyMyJ9.2g6FnaG0-pspcCtLSXLQ_z0FNZ0haj28KLngx1JhYqM
 -https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
+-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/645e7828e1979c00087b75b4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjI3M2QwZjJkLWVlYTMtNDBlNC04NjA1LTE0NGQxZWQyZWVmMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgwNjE1NjQ5LCJpYXQiOjE3ODA1MjkyNDksImp0aSI6ImNkOTFmZTNlLTc2ODUtNDg3Yy1hMjVmLWVlYTM2ZTcxOTIyMyJ9.2g6FnaG0-pspcCtLSXLQ_z0FNZ0haj28KLngx1JhYqM
 
 #EXTINF:-1 tvg-id="plex.tv.50.Cent.Action.plex" tvg-name="50 Cent Action" tvg-logo="https://drive.google.com/uc?id=1X4AO4seowqEuVQo_d0AmV_vwjRkib7Of" group-title="Movies",50 Cent Action
 https://di4chcy8fb6ab.cloudfront.net/11002/88817993/hls/playlist.m3u8?ads.xumo_channelId=88817993&ads.csid=hisensechannels_us_lionsgate50centaction_ssai&ads.caid=Lionsgate50CentAction&ads.asnw=&ads._fw_content_language=en&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_coppa=0&ads.xumo_contentId=4256&ads.xumo_contentName=Lionsgate50CentAction&ads.xumo_providerId=4256&ads.xumo_providerName=Lionsgate50CentAction&ads._fw_content_rating=TV-14&ads.xumo_streamId=88817993&ads._fw_h_x_country=US&ads.platform=%5BPLATFORM%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads._fw_is_lat=%5BIS_LAT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads.gpp=%5BGPP%5D&ads.gpp_sid=%5BGPP_SID%5D&ads._fw_app_bundle=%5BAPP_BUNDLE%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.appName=%5BAPP_NAME%5D&ads.vauth=%5BVAUTH%5D&ads._fw_app_store_url=%5BAPP_STORE_URL%5D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9587
@@ -3455,16 +3458,22 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="Series",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UK:.Comedy.Movies.-.Rakuten.TV.be" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/rakuten-tv-comedy-vod.png" group-title="Movies",Rakuten TV Comedy Movies
+https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8?
+
+#EXTINF:-1 tvg-id="UK:.Drama.Movies.-.Rakuten.TV.be" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/rakuten-tv-drama-vod.png" group-title="Movies",Rakuten TV Drama Movies
+https://action-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8?
+
 -#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",Oh No!
 -https://live-content.xumo.com/149/modifiedm3u8/149/content/XM0NKST7R5REUF/22621707/22621930_master_tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Test 1" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",The SpongeBob Movie: Sponge on the Run
+#EXTINF:-1 tvg-id=" " tvg-name="Test 1" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",The SpongeBob Movie Sponge on the Run
 http://dnsvod.com:8080/movie/Eg7zg5W2GV/DyF0jt861f/374126.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Test 2" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",SpongeBob SquarePants: Kreepaway Kamp
+#EXTINF:-1 tvg-id=" " tvg-name="Test 2" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",SpongeBob SquarePants Kreepaway Kamp
 http://dnsvod.com:8080/movie/Eg7zg5W2GV/DyF0jt861f/439706.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Test 3" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",The SpongeBob Movie: Search for SquarePants
+#EXTINF:-1 tvg-id=" " tvg-name="Test 3" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",The SpongeBob Movie Search for SquarePants
 http://dnsvod.com:8080/movie/Eg7zg5W2GV/DyF0jt861f/521109.mkv
 
 -#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",N/A
