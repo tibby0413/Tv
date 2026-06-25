@@ -3464,7 +3464,7 @@ https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 #EXTINF:-1 tvg-id="UK:.Drama.Movies.-.Rakuten.TV.be" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/rakuten-tv-drama-vod.png" group-title="Movies",Rakuten TV Drama Movies
 https://action-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8?
 
-#EXTINF:-1 tvg-id="UK:.Most.Haunted.Channel.be" tvg-name="Most Haunted" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/most-haunted-vod.png",Most Haunted
+#EXTINF:-1 tvg-id="UK:.Most.Haunted.Channel.be" tvg-name="Most Haunted" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Most_Haunted_Logo.png",Most Haunted
 https://amg00426-lds-amg00426c17-rakuten-gb-10156.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudiofast-mosthaunted-rakutengb/playlist.m3u8?
 
 -#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="https://cdn-icons-png.flaticon.com/512/16/16096.png",Oh No!
