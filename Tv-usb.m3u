@@ -1,5 +1,6 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz,https://i.mjh.nz/PlutoTV/it.xml.gz"
+-https://i.mjh.nz/all/epg.xml.gz
 -https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz
 
 
