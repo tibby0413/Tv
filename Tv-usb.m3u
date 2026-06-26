@@ -3252,9 +3252,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-689fb42fba3be0bafe349d33.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e.m3u8
 -https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/variant.m3u8?x-plex-token=ADvrajyyZniMnUHLkHgW&x-plex-advertising-identifier=&x-plex-client-identifier=bc87c57f-4049-4f0c-9390-4a103920d73f&x-plex-playback-id=p_6ce88eaf-694b-4459-a900-2debf905170f&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=151.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1780018184&url=9b9290a953bce6d6395c7b3b744f8acf-e6c67cba248be04d97e0cc5c5e78748912081bb1c34d30827c063d983b5c8cb9d89b2d75eeeeddf1105afe4afd320ceebbaa345dcff40addb41f8772f5294c5756a3aecc55756150d4938a70191276d59fd1385460b2aacea66e86a6be09cc3f0f0b1353e5977455927e1eeaad05b2b28a93c6aa1a0142db888a947ec7e5d95dde837f849e67bba6c13874211d6512cc4699657f3191f3a08ef6a676a332ded4f9aa211b6fe3253f36851e1dfe77e252a9decbf133331c934661416081b4e0c9f2e0639cb8384d8ef3b6b51a6560a1d5dba2d53b06c1273e7c4036215cdf9f12
 
-#EXTINF:-1 tvg-id="" tvg-name="CineThriller" tvg-logo="https://drive.google.com/uc?id=1INRztXirqV6hWgRQU_WTZdgGr3ggpJQn" group-title="Movies",CineThriller (Italian)
-https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8
-
 #EXTINF:-1 tvg-id="UK:.Action.Movies.-.Rakuten.TV.be" tvg-name="Rakuten TV Action Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/rakuten-tv-action-vod.png" group-title="Movies",Rakuten TV Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 -https://action-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
@@ -3264,7 +3261,8 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 -https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8?
 
 #EXTINF:-1 tvg-id="UK:.Drama.Movies.-.Rakuten.TV.be" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/rakuten-tv-drama-vod.png" group-title="Movies",Rakuten TV Drama Movies
-https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+-https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 -https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8?
 
 #EXTINF:-1 tvg-id="UK:.Family.-.Rakuten.TV.be" tvg-name="Rakuten TV Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/rakuten-tv-family-vod.png" group-title="Movies",Rakuten TV Family
@@ -3317,6 +3315,9 @@ https://crime-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746
 
 #EXTINF:-1 tvg-id="IT:.Film.Top.-.Rakuten.TV.be" tvg-name="Rakuten TV Top Movies (Italian)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/rakuten-tv-top-movies-vod.png" group-title="Movies",Rakuten TV Top Movies (Italian)
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CineThriller" tvg-logo="https://drive.google.com/uc?id=1INRztXirqV6hWgRQU_WTZdgGr3ggpJQn" group-title="Movies",CineThriller (Italian)
+https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8
 
 #EXTINF:-1 tvg-id="IT:.Bizzarro.Movies.be" tvg-name="Bizzarro Movies (Italian)" tvg-logo="https://drive.google.com/uc?id=1N3Iczr5D1vnzBpftQYGz7wQdB-gDGc_J" group-title="Movies",Bizzarro Movies (Italian)
 https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
