@@ -2568,15 +2568,16 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648981.ts
 -http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlBAyxNdAoU4wB0GrZ0aX22oK9-MA5qw_ul4WzKZsQCZ9
 -Also known as HBO Signature
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Signature.br" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/hbo-signature-br.png" group-title="Movies",HBO Signature
-http://138.59.227.20:8000/play/a06h/index.m3u8
+-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Signature.br" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/hbo-signature-br.png" group-title="Movies",HBO Signature
+-http://138.59.227.20:8000/play/a06h/index.m3u8
 -HBO.Signature.br
 
 #EXTINF:-1 tvg-id="HBO.Plus.br" tvg-name="HBO+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/hbo-plus-br.png" group-title="Movies",HBO+
 http://138.59.227.20:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.ar" tvg-name="HBO Family (LAM)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png" group-title="Movies",HBO Family (LAM)
-http://138.59.227.20:8000/play/a07p/index.m3u8
+http://45.228.235.116:8000/play/a0l5/index.m3u8
+-http://138.59.227.20:8000/play/a07p/index.m3u8
 -https://fl31.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="HBO Latino (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-latino-us.png" group-title="Movies",HBO Latino (East)
