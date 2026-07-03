@@ -2884,8 +2884,8 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 -http://89.105.221.127/cinemax/mpegts?token=test
 
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies",Cinemax (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3825.ts
--http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2611.ts - no video
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2611.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3825.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45594&extension=ts&play_token=FpM6wpIjy7
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2611.ts
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13568
@@ -3265,6 +3265,9 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6876fa82e50e77c59c8940c2.m3u8
 #EXTINF:-1 tvg-id="plex.tv.MGM.Presents:.Action.plex" tvg-name="MGM Presents Action" tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https://provider-static.plex.tv/epg/cms/production/64164404-10a7-4f7f-af80-69261f9de1db/MPAction_logo_dark_-_Carl_HoffelderWhite_lettersRDX.png" group-title="Movies",MGM Presents Action
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-689fb42fba3be0bafe349d33.m3u8
 -https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb42fba3be0bafe349d33/variant.m3u8?x-plex-token=JYipFSf79ZfzVhF2WLy8&x-plex-advertising-identifier=&x-plex-client-identifier=bc87c57f-4049-4f0c-9390-4a103920d73f&x-plex-playback-id=p_91b5f839-44bf-4dc0-884b-a01146a3277c&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=151.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1780018251&url=70e90b0474605921ad477fecb87adccf-ccef52ebc66e2480b8af2e489d6b08b093cfaab3465e4641b3211d4a70a50fbe26cb48822250dea47de0b45af2d660d54c762a0d17cf2f5ee1a351350ba314dfc7ae06da8c64b1ad597af7a9942ed9706fe97e58911ae9e673ed6594232fa8a949f79f274b0e595a5e06f47e07fbf879d551d02bf64c424ce1a82fcd36fef7f889352790a24de652abe74210818d9e41031c261bbd189291fab14b4ba73408fc7ba314226cf149371564d1ce6f72e9823d51fbedb0566b52099b976e662857def9dae12f965fd2d1b247b644db0a7734342717841240d88bf54fd25b2d10d185
+
+#EXTINF:-1 tvg-id=" " tvg-name="MGM Presents Horror" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_horror._SL500_FMpng_.png" group-title="Movies",MGM Presents Horror
+https://linear-1217.frequency.stream/dist/tcltv/1217/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
 #EXTINF:-1 tvg-id="plex.tv.MGM.Presents:.Westerns.plex" tvg-name="MGM Presents Westerns" tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png" group-title="Movies",MGM Presents Westerns
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e.m3u8
