@@ -205,6 +205,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2555.ts
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="News",FOX News Channel
 http://41.205.93.154/FOX-NEWS/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3275.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2543.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3647.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2543.ts
@@ -1341,7 +1342,8 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10377
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png" group-title="Entertainment",Paramount Network (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/647379.ts
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3295.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/647379.ts
 -http://194.76.0.79/PARAMOUNT-CHANNEL/index.m3u8
 -http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647379.ts
@@ -1681,6 +1683,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2422.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3755.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3755.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2422.ts
+
+#EXTINF:-1 tvg-id=" " tvg-name="MacGyver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MacGyver_Logo.svg/330px-MacGyver_Logo.svg.png",MacGyver (1985)
+https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
 
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Western",Grit
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/40583.ts
@@ -2287,6 +2292,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2597.ts
 #EXTINF:-1 tvg-id="Discovery.Home.&amp;.Health.br" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/330px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health
 http://138.59.227.20:8000/play/a08f/index.m3u8
 
+#EXTINF:-1 tvg-id="CTV.LIFE.CHANNEL.ca2" tvg-name="CTV Life Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-life-channel-ca.png",CTV Life Channel
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3280.ts
+
 -#EXTINF:-1 tvg-id="CTV.Nature.HD.ca2" tvg-name="CTV Nature Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png",CTV Nature Channel
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/
@@ -2294,6 +2302,7 @@ http://138.59.227.20:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png" group-title=" ",Discovery Science
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3757.ts?1080p
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3274.ts
 -http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10389 
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2595.ts?720p
@@ -2306,6 +2315,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3722.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3722.ts
 -http://fl51.moveonjoy.com/DIY/index.m3u8
 -https://logos-world.net/wp-content/uploads/2022/01/Magnolia-Network-Emblem.png
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.ca2" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/investigation-discovery-id-int.png" group-title="Documentary",Investigation Discovery (CA)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3282.ts
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/investigation-discovery-id-int.png" group-title="Documentary",Investigation Discovery (West)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3837.ts
