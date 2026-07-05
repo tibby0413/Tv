@@ -2091,7 +2091,10 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f170d61b898490041b49369.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pet Club Tv" tvg-logo="https://drive.google.com/uc?id=1MStbfpUZgS5xIz-CrTMMupqakJsz4uhd",Pet Club Tv
 https://petclub-samsungaus.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/love-nature-es.png",Love Nature
+#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-white-ca.png",Love Nature (CA)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3312.ts
+
+#EXTINF:-1 tvg-id="plex.tv.Love.Nature.plex" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-white-ca.png",Love Nature
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
 -http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
