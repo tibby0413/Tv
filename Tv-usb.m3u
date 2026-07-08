@@ -2099,7 +2099,7 @@ https://bamus-klowdtv.amagi.tv/playlist.m3u8
 -http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Love.Nature.plex" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-4k-white-ca.png",Love Nature 4K
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kwebtt.m3u8
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-nature-light-uk.png",Sky Nature
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/103905.ts
