@@ -2868,9 +2868,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3966.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45502&extension=ts&play_token=hA3aXc8eis
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13577
 
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-showcase-us.png" group-title="Movies",Showtime Showcase (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631890.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631890.ts
+-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-showcase-us.png" group-title="Movies",Showtime Showcase (West)
 
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-women-us.png" group-title="Movies",Showtime Women
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648986.ts
