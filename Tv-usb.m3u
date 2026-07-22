@@ -1258,7 +1258,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/59881.ts
 -https://fl7.moveonjoy.com/WWE/index.m3u8
 
 #EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wwe-us.png" group-title="Sports",WWE Network [ALT]
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/59881.ts
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3701.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/59881.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/21583.ts?480P
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45462&extension=ts&play_token=s7guKIF3uv  - 24k Sport 1
 
 #EXTINF:-1 tvg-id=" " tvg-name="WWE NXT" tvg-logo="https://static.cwtv.com/images/masters/cw/universal/channels/cw-presents-wwe-nxt/channel-icon-unfocused.png" group-title="Entertainment",WWE NXT
