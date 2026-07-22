@@ -1675,9 +1675,12 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 
 #EXTINF:-1 tvg-id="get.us2" tvg-name="GetTV" tvg-logo="https://i.imgur.com/evOWORd.png",GetTV
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/30928.ts
+-http://206.212.244.63/80/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10405
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/30928.ts
 -https://fl31.moveonjoy.com/GET_TV/index.m3u8
+
+-#EXTINF:-1 tvg-id="" tvg-name="Great" tvg-logo="https://prod-s.cdn-cf.philo.com/storage/images/channel_logos/Great-Default.svg?auto=webp&format=png&trimmed=false&ver=1&width=400",Great
 
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fuse-us.png" group-title="Entertainment",Fuse
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2499.ts
@@ -2279,6 +2282,12 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/143866.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/143866.ts
 -http://restream-live.realiptv.to:8080/live/33741215/82527298/143866.ts
 -http://1tv41.icu:8080/live/Y06DNq/295733/46696.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rewind" tvg-logo="https://fmh.la/img/logo_rewind.png",Rewind
+http://201.186.41.99:8001/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind TV" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline.png",Rewind TV
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/626386.ts
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/channel-4-uk.png" group-title="Series",Channel 4
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2315.ts
