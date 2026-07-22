@@ -543,6 +543,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4465.ts
 #EXTINF:-1 tvg-id="Canal.Las.Estrellas.Latinoamérica.sv" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/las-estrellas-mx.png",Las Estrellas
 http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 
+-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",De Película
+-http://181.119.66.28:8081/DE-PELICULA/index.m3u8
+
 #EXTINF:-1 tvg-id="Telefe.Internacional.us2" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png" group-title="Series",Telefe
 http://200.26.177.54:8000/play/a0er/index.m3u8
 -http://138.59.227.20:8000/play/a08a/index.m3u8
