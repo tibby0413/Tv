@@ -2620,7 +2620,7 @@ http://45.228.235.116:8000/play/a0l4/index.m3u8
 -http://209.87.175.160:5001/play/a0cv/index.m3u8
 -http://138.59.227.20:8000/play/a07n/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Canada.1.HD.ca2" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2 [CA]
+#EXTINF:-1 tvg-id="HBO.Canada.West.ca2" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2 (West) [CA]
 https://sra72yz.s.gy/HBO_2_CANADA
 
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cr" tvg-name="HBO2 (LAM)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png" group-title="Movies",HBO2 [LAM]
