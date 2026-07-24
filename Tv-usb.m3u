@@ -2529,8 +2529,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2408.ts
 -https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Movies",HBO (East)
-http://23.237.104.106:8080/USA_HBO/index.m3u8
--http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2491.ts
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2491.ts
+-http://23.237.104.106:8080/USA_HBO/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13434 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2491.ts
 -http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/133749
@@ -2569,9 +2569,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3188.ts
 -http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3188.ts
 
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-movies-us.png" group-title="Movies",HBO Movies
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648982.ts
 -Also known as HBO Zone
--http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648982.ts - 1080p
+-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/51552.ts - 720p
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13437
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51552.ts
@@ -2582,10 +2582,10 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45546&extension=ts&play_token=fSFA7Bf0xB
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png" group-title="Movies",HBO Comedy (East)
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/51550.ts
+-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 -http://41.205.64.66/HBO-COMEDY/index.m3u8
 -http://41.223.30.230/HBOCOMEDY/index.m3u8
--http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/51550.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648977.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13438 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51550.ts
@@ -2619,6 +2619,9 @@ http://45.228.235.116:8000/play/a0l2/index.m3u8
 http://45.228.235.116:8000/play/a0l4/index.m3u8
 -http://209.87.175.160:5001/play/a0cv/index.m3u8
 -http://138.59.227.20:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Canada.1.HD.ca2" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2 [CA]
+https://sra72yz.s.gy/HBO_2_CANADA
 
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cr" tvg-name="HBO2 (LAM)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png" group-title="Movies",HBO2 [LAM]
 http://45.228.235.116:8000/play/a00c/index.m3u8
