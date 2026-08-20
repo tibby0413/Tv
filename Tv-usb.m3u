@@ -17,9 +17,9 @@ NEWS
 
 
 #EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="News",CBS 2 (Chicago)
-https://restream-live.realiptv.to/09145054/65339468/2648
--http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173176&extension=ts&play_token=fiW0fstpRA
+-https://restream-live.realiptv.to/09145054/65339468/2648
 -http://s.rocketdns.info:8080/live/09145054/65339468/2648.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2648.ts
 -http://stream.cammonitorplus.net/1751/index.m3u8
@@ -120,7 +120,7 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&exte
 -http://list.iptvcat.com/my_list/s/799f90eb853fa09389b936f1efd28306.m3u8
 
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wls-us.png" group-title="News",ABC 7 (Chicago) [ALT]
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&extension=ts&play_token=eu0mxNTIm6
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938592&extension=ts&play_token=ppwGXqAdbA
 -http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2695.ts
 
 -#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 24/7 News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-kabc-us.png" group-title="News",ABC 7 24/7 News
@@ -128,7 +128,8 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=172965&exte
 -https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="News",ABC 7 (New York)
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173034&extension=ts&play_token=XhVVCA7RnT
+http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1087/index.m3u8
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173034&extension=ts&play_token=XhVVCA7RnT
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/112234.ts
 -http://stream.cammonitorplus.net/1809/index.m3u8
 -http://89.187.178.197:1970/ABCNewYork/index.m3u8
@@ -2055,7 +2056,8 @@ http://23.239.31.26:8989/aande/index.m3u8
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/643834.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/643834.ts
 
--#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png",AMC (West)
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png",AMC (West)
+http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1083/index.m3u8
 -http://23.239.31.26:8989/amc/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10361 
 -http://fl61.moveonjoy.com/AMC_NETWORK/index.m3u8
