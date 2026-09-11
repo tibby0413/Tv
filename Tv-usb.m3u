@@ -314,7 +314,8 @@ CARTOONS
 
 
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. (East)" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons",Nick Jr. (East)
-http://bgdc.live:25461/biosysinc/90941859/94599
+http://212.5.144.156:8080/nickjr/index.m3u8
+-http://bgdc.live:25461/biosysinc/90941859/94599
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/74691.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/94599
 -http://84.17.50.102/nickjr/index.m3u8
@@ -335,7 +336,8 @@ https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 -http://kstv.us:8080/live/qdxkt3R5pH/5118349267/23275.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (East)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (East)
-http://bgdc.live:25461/biosysinc/90941859/621
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+-http://bgdc.live:25461/biosysinc/90941859/621
 -http://194.76.0.79/NICKELODEON/index.m3u8?1080p
 -http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8?720p
 -http://84.17.50.102/nickelodeon/index.m3u8?540p
@@ -355,7 +357,8 @@ http://bgdc.live:25461/biosysinc/90941859/621
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3673.ts
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" group-title="Cartoons",Nicktoons (East)
-http://bgdc.live:25461/biosysinc/90941859/620
+http://41.205.93.154/NICKTOONS/index.m3u8
+-http://bgdc.live:25461/biosysinc/90941859/620
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3674.ts?720p
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/620 
 -http://84.17.50.102/nicktoons/index.m3u8?540p
@@ -396,7 +399,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_51
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-channel-us.png" group-title="Cartoons",Disney Channel
-http://bgdc.live:25461/biosysinc/90941859/622
+http://212.5.144.156/disney/index.m3u8
+-http://bgdc.live:25461/biosysinc/90941859/622
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3721.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3630.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/622 
@@ -406,7 +410,8 @@ http://bgdc.live:25461/biosysinc/90941859/622
 -http://fl41.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Cartoons",Disney Junior (East)
-http://bgdc.live:25461/biosysinc/90941859/623
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+-http://bgdc.live:25461/biosysinc/90941859/623
 -http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137679
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/623 
@@ -421,7 +426,8 @@ http://bgdc.live:25461/biosysinc/90941859/623
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3828.ts
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (East)
-http://bgdc.live:25461/biosysinc/90941859/624
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+-http://bgdc.live:25461/biosysinc/90941859/624
 -http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137681
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/624 
@@ -445,15 +451,15 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="God Stands Kids Club TV" tvg-logo="https://godstands.tv/wp-content/uploads/2025/07/Favi-150x150.png" group-title="Cartoons",God Stands Kids Club TV
 https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 
-#EXTINF:-1 tvg-id="BABY.FIRST.ph" tvg-name="Baby First" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/baby-first-tv-us.png" group-title="Cartoons",Baby First
-http://190.123.76.22:8002/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-name="Baby First" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/baby-first-tv-us.png" group-title="Cartoons",Baby First
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3805.ts
 
 #EXTINF:-1 tvg-id="LegoChannel.us2" tvg-name="LEGO Channel" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Lego-Logo-PNG-Cutout.png" group-title="Cartoons",LEGO Channel
 https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBC4300005AL
 
-#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="Cartoons",MeTV Toons
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/721378.ts
+-#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="Cartoons",MeTV Toons
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/721378.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/95324
 -http://kstv.us:8080/live/qdxkt3R5pH/5118349267/48753.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/721378.ts
@@ -481,19 +487,19 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision (New York NY)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (New York NY)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
-#EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision (New York NY)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (New York NY) [ALT]
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3697.ts
+-#EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision (New York NY)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (New York NY) [ALT]
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3697.ts
 
 #EXTINF:-1 tvg-id="Canal.Univisión.(Latinoamérica).sv" tvg-name="Univision (Latin America)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="General",Univision (Latin America)
 http://168.228.44.241:9997/play/a01n/index.m3u8
 -http://181.78.106.127:5000/play/ca006/index.m3u8
 -http://138.121.15.230:9002/UNIVISION/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-name="Universo (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-universo-us.png",Universo (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3696.ts
+-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-name="Universo (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-universo-us.png",Universo (East)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3696.ts
 
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-name="Universo (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-universo-us.png",Universo (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3847.ts
+-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-name="Universo (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-universo-us.png",Universo (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3847.ts
 
 #EXTINF:-1 tvg-id="KFTR-DT.us_locals1" tvg-name="UniMas (California)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/unimas-us.png" group-title="General",UniMas (California)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
@@ -534,6 +540,9 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/617108.ts
 #EXTINF:-1 tvg-id="[CABTELE].Telemundo.Internacional.uy" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png" group-title="General",Telemundo Internacional
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 
+#EXTINF:-1 tvg-id="[CABTELE].Telemundo.Internacional.uy" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png" group-title="General",Telemundo Internacional [ALT]
+http://190.61.114.186:8000/play/a047/index.m3u8
+
 #EXTINF:-1 tvg-id="plex.tv.Telemundo.Acción.plex" tvg-name="Telemundo Acción" tvg-logo="https://drive.google.com/uc?id=18dpp7_aeFHuco3Xc39nCVmvzLuzcZ1vH" group-title="General",Telemundo Acción
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991748/hls/master.m3u8?ads.xumo_channelId=99991748&ads.asnw=169843&ads.afid=137391198&ads.sfid=16926452&ads.csid=xumo_web_TelemundoEpisodic_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=7913deba-b69e-421c-a1ef-7234971a0875&ads._fw_vcid2=512116:7913deba-b69e-421c-a1ef-7234971a0875&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2560&ads.xumo_contentName=TelemundoEpisodic&ads.xumo_providerId=2560&ads.xumo_providerName=TelemundoEpisodic&ads.channelId=99991748&ads._fw_ifa_type=
 
@@ -554,7 +563,8 @@ https://osm.sr.roku.com/osm/v1/hls/master/45344e4f-128c-43b0-9925-2ffc5daebba8/l
 -https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ps-z_wXH2by4rg2UkQcv
 
 #EXTINF:-1 tvg-id="plex.tv.Corazón.plex" tvg-name="Corazón" tvg-logo="https://drive.google.com/uc?id=1Vns3ZsP5HnmgtGzv34Mi9WGumU7hV0dy" group-title="Series",Corazón
-http://200.4.244.29:8000/play/a03y
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-64694d52f73356567a64ce8c.m3u8
+-http://200.4.244.29:8000/play/a03y
 -http://vocotv.live:80/Sanchez01/Sanchez01/707041
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/1616.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4617.ts
@@ -568,7 +578,8 @@ http://200.4.244.29:8000/play/a03y
 -https://stream.ads.ottera.tv/playlist.m3u8?network_id=7331
 
 #EXTINF:-1 tvg-id="Galavision.Cable.Network.HD.us2" tvg-name="Galavision (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/galavision-us.png" group-title="Series",Galavision (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4464.ts
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4464.ts
 -http://nor1live.win/livehttpplay?channel_id=23090
 -http://kstv.us:8080/live/qdxkt3R5pH/5118349267/23307.ts
 -http://104.238.205.28:9090/278710_.m3u8
@@ -578,20 +589,21 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4464.ts
 -https://d162h6qqsk8wvl.cloudfront.net/eb4ef379-0625-4af4-8ba7-406180cefbaa/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Galavision.Cable.Network.HD.(Pacific).us2" tvg-name="Galavision (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/galavision-us.png" group-title="Series",Galavision (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4465.ts
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/4465.ts
 -http://nor1live.win/livehttpplay?channel_id=23091
 -http://104.238.205.28:9090/278713_.m3u8
 -http://104.238.205.28:9090/278711_.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4465.ts
 
-#EXTINF:-1 tvg-id="Canal.Las.Estrellas.Latinoamérica.sv" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/las-estrellas-mx.png",Las Estrellas
-http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
+-#EXTINF:-1 tvg-id="Canal.Las.Estrellas.Latinoamérica.sv" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/las-estrellas-mx.png",Las Estrellas
+-http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 
 -#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",De Película
 -http://181.119.66.28:8081/DE-PELICULA/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.Internacional.us2" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png" group-title="Series",Telefe
-http://200.26.177.54:8000/play/a0er/index.m3u8
+-#EXTINF:-1 tvg-id="Telefe.Internacional.us2" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png" group-title="Series",Telefe
+-http://200.26.177.54:8000/play/a0er/index.m3u8
 -http://138.59.227.20:8000/play/a08a/index.m3u8
 -http://200.26.177.54:8000/play/a0jn/index.m3u8
 -http://181.13.252.102:8000/play/a06c/index.m3u8
@@ -664,8 +676,8 @@ https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png" group-title="Italian",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
 
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://drive.usercontent.google.com/download?id=151AxB5pTT6MSKOoyRih2M2hHygzlHAX6&authuser=0" group-title="Italian",Rai Yoyo HD
-http://78.130.250.2:8023/play/a04d/index.m3u8
+-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://drive.usercontent.google.com/download?id=151AxB5pTT6MSKOoyRih2M2hHygzlHAX6&authuser=0" group-title="Italian",Rai Yoyo HD
+-http://78.130.250.2:8023/play/a04d/index.m3u8
 -http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135899
 
 -#EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1 HD" tvg-logo="https://drive.google.com/uc?id=1KgYZg9Wd86qeYufHVvEiWDzcg0QIQ7Kl" group-title="Italian",Italia 1 HD
@@ -704,15 +716,15 @@ https://flash2.xdevel.com/primatv/primatv/playlist.m3u8?fluxustv.m3u8
 
 SPORTS
 
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sportitalia-hd-it.png" group-title="Sports",Sportitalia
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sportitalia-hd-it.png" group-title="Sports",Sportitalia
+-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 -https://sportsitalia-samsungitaly.amagi.tv/playlist1080p.m3u8
 
 -#EXTINF:-1 tvg-id="Prima4K.ro" tvg-name="Prima 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-4k-ro.png" group-title="Sports",Prima 4K
 -https://7pal.short.gy/prima4k
 
-#EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/inter-tv-it.png" group-title="Sports",Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+-#EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/inter-tv-it.png" group-title="Sports",Inter TV
+-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 -https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.INTER.24/7.plex" tvg-name="Inter 24/7" tvg-logo="https://drive.google.com/uc?id=1g0AzhNmwrptzqdsOo9ymYpsza7eYQSda" group-title="Sports",Inter 24/7
@@ -766,8 +778,8 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 -#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).cr" tvg-name="FUTV" tvg-logo="https://drive.google.com/uc?id=19adoQQDJBZxVtpghwtwbBSXgyYPPPMQK" group-title="Sports",FUTV
 -http://104.238.205.28:9090/279374_.m3u8
 
-#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mutv-uk.png" group-title="Sports",MUTV
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2242.ts
+-#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mutv-uk.png" group-title="Sports",MUTV
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2242.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2242.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117036
 
@@ -781,18 +793,20 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2242.ts
 -http://104.238.205.28:9090/278798_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Sports",ESPN
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3636.ts
+http://4.30.180.36:8420/espn/index.m3u8?token=test
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3636.ts
 -http://84.17.50.102/espn/index.m3u8
 -http://41.223.30.230/ESPN/index.m3u8
 -http://41.205.93.154/ESPN/index.m3u8
 -http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Sports",ESPN [ALT]
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3725.ts
+-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Sports",ESPN [ALT]
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3725.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3725.ts
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3637.ts
+http://4.30.180.36:8420/espn2/index.m3u8?token=test
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3637.ts
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2 [ALT]
 http://84.17.50.102/espn2/index.m3u8
