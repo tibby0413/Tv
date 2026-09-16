@@ -183,7 +183,8 @@ https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index
 -http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="WGN9 (Chicago)" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="News",WGN9 (Chicago)
-http://bgdc.live:25461/biosysinc/90941859/10461
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2724.ts
+-http://bgdc.live:25461/biosysinc/90941859/10461
 -http://stream.cammonitorplus.net/1805/index.m3u8
 -http://23.237.104.106:8080/USA_WGN/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=290879&extension=ts&play_token=kqYsJmSp9O
@@ -1083,7 +1084,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2191.ts
 #EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sports Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sports",Sky Sports Calcio
 https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8
 
--#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="Sports",Sky Sports NFL
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="Sports",Sky Sports NFL
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2662.ts
 -http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117063
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Sports",Sky Sports F1
@@ -2190,7 +2192,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/103905.ts
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650417.ts
 
 #EXTINF:-1 tvg-id="Sky.One.HD.uk" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/hd/sky-one-hd-uk.png",Sky One
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650417.ts
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2661.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650417.ts
 
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png",MTV
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648958.ts
@@ -3048,72 +3051,58 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/81382.ts8
 
 #EXTINF:-1 tvg-id="Sky.Replay.uk" tvg-name="Sky Replay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-replay-uk.png" group-title="Movies",Sky Replay
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2178.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2178.ts
 
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-atlantic-uk.png" group-title="Movies",Sky Atlantic
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2209.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2209.ts
 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="Movies",Sky Cinema Action
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2207.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2207.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2207.ts
 
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="Sky Cinema Animation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="Movies",Sky Cinema Animation
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/587860.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/587860.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/587860.ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Comedy.HD.ie" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Movies",Sky Cinema Comedy
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2206.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2206.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2206.ts
 
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="Movies",Sky Cinema Drama
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2205.ts
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2667.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2205.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650435.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2205.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/650435.ts
 
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-family-uk.png" group-title="Movies",Sky Cinema Family
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2204.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2204.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650430.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2204.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/650430.ts
 
 #EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="Movies",Sky Cinema Greats
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2203.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2203.ts
+-http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2666.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2203.ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="Movies",Sky Cinema Hits
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/487358.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/487358.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/487358.ts
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="Movies",Sky Cinema Premiere
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2202.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2202.ts
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2658.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2202.ts
 
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="Sky Cinema Sci-Fi" tvg-logo="https://drive.google.com/uc?id=1x1EJJ--Lda6IARO7HSKrDbqllRCvwt6W" group-title="Movies",Sky Cinema Sci-Fi
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2167.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2167.ts
 
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="Movies",Sky Cinema Sci-Fi & Horror
-http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2661.ts
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2657.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/88862.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88862.ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-select-uk.png" group-title="Movies",Sky Cinema Select
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2200.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2200.ts
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2665.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2200.ts
 
 #EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="Movies",Sky Cinema Thriller
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2198.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650433.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2198.ts
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/650433.ts
 
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel (East)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605741.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/527261.ts -West
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13449 
--https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/527261.ts
 
 #EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Xtra (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/the-movie-channel-xtra-us.png" group-title="Movies",The Movie Channel Xtra (East)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/605742.ts
@@ -3277,6 +3266,8 @@ http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Cine.Sony.sv" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png",Cine Sony
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="GREAT!.movies.uk" tvg-name="GREAT! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/330px-Great%21_Movies_logo_2021.svg.png",GREAT! Movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 
@@ -3285,6 +3276,9 @@ https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 tvg-id=" " tvg-name="GREAT! Mystery" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8d9a3e81-aa9f-4b46-88a4-864b41a183e2-width550-quality100.png",GREAT! Mystery
 https://amg01753-amg01753c8-rakuten-gb-8150.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmystery-rakutengb/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="GREAT!.tv.uk" tvg-name="GREAT! Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/great-tv-uk.png",GREAT! Tv
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2679.ts
 
 -#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="Canal Sony (México)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sony-channel-br.png" group-title="Movies",Sony Channel (Spanish)
 -https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
