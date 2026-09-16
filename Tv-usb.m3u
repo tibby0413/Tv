@@ -17,7 +17,8 @@ NEWS
 
 
 #EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="News",CBS 2 (Chicago)
-http://bgdc.live:25461/biosysinc/90941859/215451
+https://restream-live.realiptv.to/1234567/7654321/2648
+-http://bgdc.live:25461/biosysinc/90941859/215451
 -http://stream.cammonitorplus.net/1751/index.m3u8
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=1938571&extension=ts&play_token=vwyw7dY1kn
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173176&extension=ts&play_token=fiW0fstpRA
@@ -30,6 +31,9 @@ http://bgdc.live:25461/biosysinc/90941859/215451
 -http://212.102.60.10/IL_Chicago_CBS/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 -http://fl2.moveonjoy.com/IL_Chicago_CBS/index.m3u8
+
+#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="News",CBS 2 (Chicago) 2
+http://stream.cammonitorplus.net/1751/index.m3u8
 
 #EXTINF:-1 tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-name="CBS News Chicago" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-chicago-us.png" group-title="News",CBS News Chicago
 https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
