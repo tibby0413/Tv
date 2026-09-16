@@ -3091,12 +3091,12 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2202.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2202.ts
 
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="Sky Cinema Sci-Fi" tvg-logo="https://drive.google.com/uc?id=1x1EJJ--Lda6IARO7HSKrDbqllRCvwt6W" group-title="Movies",Sky Cinema Sci-Fi
-http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2661.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2167.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2167.ts
 
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="Movies",Sky Cinema Sci-Fi & Horror
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/88862.ts
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2661.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/88862.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88862.ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-select-uk.png" group-title="Movies",Sky Cinema Select
