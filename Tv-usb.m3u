@@ -341,7 +341,8 @@ https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 -http://kstv.us:8080/live/qdxkt3R5pH/5118349267/23275.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon (East)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons",Nickelodeon (East)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 -http://bgdc.live:25461/biosysinc/90941859/621
 -http://194.76.0.79/NICKELODEON/index.m3u8?1080p
 -http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8?720p
@@ -657,7 +658,8 @@ http://102.129.186.182:81/rai5/index.m3u8
 -http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135861
 
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai Italia" tvg-logo="https://drive.usercontent.google.com/download?id=151AxB5pTT6MSKOoyRih2M2hHygzlHAX6&authuser=0" group-title="Italian",Rai Italia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+http://168.228.44.241:9999/play/a04s/index.m3u8
+-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 -http://vipgerretger.top:8080/VIP018801747933312462/c9526ed50626/135874
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 -https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
@@ -1228,15 +1230,16 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3071.ts
 
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-icon-us.png" group-title="Sports",NBA TV
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3667.ts
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3667.ts
 -http://84.17.50.102/nbatv/index.m3u8
 -http://fl51.moveonjoy.com/NBA_TV/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3667.ts
 -http://fl31.moveonjoy.com/NBA_TV/index.m3u8
 -http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-icon-us.png" group-title="Sports",NBA TV [ALT]
-http://84.17.50.102/nbatv/index.m3u8
+-#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-icon-us.png" group-title="Sports",NBA TV [ALT]
+-http://84.17.50.102/nbatv/index.m3u8
 
 #EXTINF:-1 tvg-id="99951383" tvg-name="The NBA Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951383/168x168.png?type=color_onBlack" group-title="Sports",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=dc86639b-2252-4087-b17e-07e16898d911&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -1425,7 +1428,8 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10377
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png" group-title="Entertainment",Paramount Network (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3295.ts
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3295.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/647379.ts
 -http://194.76.0.79/PARAMOUNT-CHANNEL/index.m3u8
 -http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
@@ -1434,8 +1438,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3295.ts
 -http://1tv41.icu:8080/live/Y06DNq/295733/46694.m3u8
 -http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png" group-title="Entertainment",Paramount Network (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3839.ts
+-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-hd-us.png" group-title="Entertainment",Paramount Network (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3839.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631839.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3839.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631839.ts
@@ -1551,6 +1555,7 @@ https://apollo-eks.production-public.tubi.io/live/love-marriage-JI6zeC.m3u8?ap.d
 
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tru-tv-us.png",truTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+-http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3766.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3766.ts
 -https://streamer1.nexgen.bz/TRUTV/index.m3u8
@@ -1634,8 +1639,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3642.ts
 -http://1tv41.icu:8080/live/Y06DNq/295733/46690.m3u8
 -http://fl12.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3832.ts?720p
+-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png",FX (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3832.ts?720p
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=91852&extension=ts&play_token=Kje12akJDc
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3832.ts
 
@@ -1736,8 +1741,8 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 -https://fl31.moveonjoy.com/National_Geographic/index.m3u8
 -http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png",National Geographic (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3838.ts
+-#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png",National Geographic (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3838.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3838.ts
 
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="National Geographic Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nat-geo-wild-us.png",National Geographic Wild
@@ -1747,8 +1752,8 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3666.ts
 -https://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1 tvg-id="get.us2" tvg-name="GetTV" tvg-logo="https://i.imgur.com/evOWORd.png",GetTV
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/30928.ts
+-#EXTINF:-1 tvg-id="get.us2" tvg-name="GetTV" tvg-logo="https://i.imgur.com/evOWORd.png",GetTV
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/30928.ts
 -http://206.212.244.63/80/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10405
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/30928.ts
@@ -1757,7 +1762,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/30928.ts
 -#EXTINF:-1 tvg-id="" tvg-name="Great" tvg-logo="https://prod-s.cdn-cf.philo.com/storage/images/channel_logos/Great-Default.svg?auto=webp&format=png&trimmed=false&ver=1&width=400",Great
 
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fuse-us.png" group-title="Entertainment",Fuse
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2499.ts
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2499.ts
 -http://23.237.104.106:8080/USA_FUSE/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10399 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2499.ts
@@ -1887,14 +1893,15 @@ https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.t
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2280.ts
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2280.ts
 -http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10393 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2280.ts
 -http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3644.ts?1080p
+-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Cooking",Food Network (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3644.ts?1080p
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3644.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3831.ts?720p
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3831.ts
@@ -1913,16 +1920,16 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 -http://fl61.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 -http://fl2.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tastemade-us.png" group-title="Cooking",Tastemade
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2405.ts
+-#EXTINF:-1 tvg-id="Tastemade.us2" tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tastemade-us.png" group-title="Cooking",Tastemade
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2405.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2405.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade Smokehouse" tvg-logo="https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png" group-title="Cooking",Tastemade Smokehouse
 https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
 -https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/68509fe882d704acfc5bacd1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjI3M2QwZjJkLWVlYTMtNDBlNC04NjA1LTE0NGQxZWQyZWVmMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgwNjE1NjQ5LCJpYXQiOjE3ODA1MjkyNDksImp0aSI6ImNkOTFmZTNlLTc2ODUtNDg3Yy1hMjVmLWVlYTM2ZTcxOTIyMyJ9.2g6FnaG0-pspcCtLSXLQ_z0FNZ0haj28KLngx1JhYqM&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In The Kitchen" tvg-logo="https://i.qxh.com/image/resource/66741494be2bbffc6dc1d975/logo_16-9/U3g5xU6vP/original.png" group-title="Cooking",In The Kitchen
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+-#EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In The Kitchen" tvg-logo="https://i.qxh.com/image/resource/66741494be2bbffc6dc1d975/logo_16-9/U3g5xU6vP/original.png" group-title="Cooking",In The Kitchen
+-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
 #EXTINF:-1 tvg-id="UK:.Hell`s.Kitchen.be" tvg-name="Hell's Kitchen" tvg-logo="https://i.imgur.com/P9eT0O9.png" group-title="Cooking",Hell's Kitchen
 https://amg00654-itv-amg00654c1-lg-dk-2692.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00654-itvstudiosfast-hellskitchen-lgdk/playlist.m3u8
@@ -1935,8 +1942,8 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814512/hls/master.m3u8?includeAsse
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6449369eb3ff17382cae580c.m3u8
 -https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae580c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kLTvx5_R6KMy9Uxx6WCF&_gl=1*xqxijm*_gcl_au*MTA0ODM3NjM2Mi4xNzY4NTQ0Njcw*_ga*MTEyMjgwMzY5My4xNzY4NTQ0Njcw*_ga_G6FQWNSENB*czE3NjkwNjg2NTEkbzE5JGcxJHQxNzY5MDY4ODg5JGo1NiRsMCRoMA..
 
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/travel-channel-us.png",Travel Channel
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3765.ts
+-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/travel-channel-us.png",Travel Channel
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3765.ts
 -http://84.17.50.102/travel/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10452 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3765.ts
@@ -1960,7 +1967,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3660.ts
 -http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hallmark-channel-us.png",Hallmark Channel
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/660924.ts
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/660924.ts
 -http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10407 
 -http://84.17.50.102/hallmark/index.m3u8
@@ -1987,7 +1995,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3653.ts
 -http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East)" tvg-logo="https://i.imgur.com/TWFDkap.png",E! (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2584.ts
+http://23.237.104.106:8080/USA_E/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2584.ts
 -http://23.237.104.106:8080/USA_E/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10391 
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2584.ts
@@ -1999,8 +2008,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2584.ts
 -http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 -http://23.237.104.106:8080/USA_E/mpegts
 
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (West)" tvg-logo="https://i.imgur.com/TWFDkap.png",E! (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3830.ts
+-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (West)" tvg-logo="https://i.imgur.com/TWFDkap.png",E! (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3830.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3830.ts
 
 #EXTINF:-1 tvg-id="99951465" tvg-name="E! Keeping Up" tvg-logo="https://image.xumo.com/v1/channels/channel/99951465/168x168.png?type=color_onBlack" group-title="Reality TV",E! Keeping Up
@@ -2013,7 +2022,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3648.ts
 -https://fl7.moveonjoy.com/FREE_FORM/index.m3u8
 
 #EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hln-us.png",HLN
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3658.ts
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3658.ts
 -http://23.237.104.106:8080/USA_HLN/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3658.ts
 -http://fl7.moveonjoy.com/HLN/index.m3u8
@@ -2024,7 +2034,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/469940.ts
 -https://fl7.moveonjoy.com/HSN/index.m3u8
 
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-television-us.png",ION TV
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/555699.ts
+http://23.237.104.106:8080/USA_ION/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/555699.ts
 -http://23.237.104.106:8080/USA_ION/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10419 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/555699.ts
@@ -2187,8 +2198,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f170d61b898490041b49369.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pet Club Tv" tvg-logo="https://drive.google.com/uc?id=1MStbfpUZgS5xIz-CrTMMupqakJsz4uhd",Pet Club Tv
 https://petclub-samsungaus.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-white-ca.png",Love Nature (CA)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3312.ts
+-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-white-ca.png",Love Nature (CA)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3312.ts
 
 #EXTINF:-1 tvg-id="plex.tv.Love.Nature.plex" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-white-ca.png",Love Nature
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
@@ -2197,19 +2208,19 @@ https://bamus-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Love.Nature.plex" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-4k-white-ca.png",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
-#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-nature-light-uk.png",Sky Nature
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/103905.ts
+-#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-nature-light-uk.png",Sky Nature
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/103905.ts
 
-#EXTINF:-1 tvg-id="Sky.Showcase.ch" tvg-name="Sky Showcase" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-showcase-uk.png",Sky Showcase
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650417.ts
+-#EXTINF:-1 tvg-id="Sky.Showcase.ch" tvg-name="Sky Showcase" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-showcase-uk.png",Sky Showcase
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650417.ts
 
 #EXTINF:-1 tvg-id="Sky.One.HD.uk" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/hd/sky-one-hd-uk.png",Sky One
 http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2661.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/650417.ts
 
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png",MTV
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648958.ts
--http://23.237.104.106:8080/USA_MTV/index.m3u8
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648958.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10426 
 -http://84.17.50.102/mtv/index.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3664.ts
@@ -2220,20 +2231,21 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648958.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45461&extension=ts&play_token=Gnk48RXxJL
 
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/57970.ts
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/57970.ts
 -http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/31498
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/57970.ts
 -https://fl61.moveonjoy.com/MTV_LIVE/index.m3u8
 -http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-classic-us.png" group-title="Music",MTV Classic (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/649014.ts
+-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-classic-us.png" group-title="Music",MTV Classic (East)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/649014.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/46110 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/649014.ts
 
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-classic-us.png" group-title="Music",MTV Classic (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631838.ts
+-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-classic-us.png" group-title="Music",MTV Classic (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631838.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631838.ts
 -http://fl61.moveonjoy.com/MTV_CLASSIC/index.m3u8
 -http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
@@ -2254,19 +2266,20 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 -https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjI3M2QwZjJkLWVlYTMtNDBlNC04NjA1LTE0NGQxZWQyZWVmMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgwNjE1NjQ5LCJpYXQiOjE3ODA1MjkyNDksImp0aSI6ImNkOTFmZTNlLTc2ODUtNDg3Yy1hMjVmLWVlYTM2ZTcxOTIyMyJ9.2g6FnaG0-pspcCtLSXLQ_z0FNZ0haj28KLngx1JhYqM&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV Tr3s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tres-us.png" group-title="Music",MTV Tr3s
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/89996.ts
+-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV Tr3s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tres-us.png" group-title="Music",MTV Tr3s
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/89996.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89996.ts
 
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-2-us.png" group-title="Music",MTV2 (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/57968.ts
+http://198.58.104.90:8989/mtv2/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/57968.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10427 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/57968.ts
 -http://fl61.moveonjoy.com/MTV_2/index.m3u8
 -http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-2-us.png" group-title="Music",MTV2 (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/89987.ts
+-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-2-us.png" group-title="Music",MTV2 (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/89987.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89987.ts
 
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America (East)
@@ -2274,14 +2287,14 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 -http://fl31.moveonjoy.com/BBC_AMERICA/index.m3u8
 -https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" group-title="Movies",Aspire
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/21630.ts
+-#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" group-title="Movies",Aspire
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/21630.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/40539
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21630.ts
 -https://fl31.moveonjoy.com/Aspire/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" tvg-logo="https://i.imgur.com/YIamDGn.png",Fox Soul
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/625076.ts
+-#EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul" tvg-logo="https://i.imgur.com/YIamDGn.png",Fox Soul
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/625076.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=730907&extension=ts&play_token=rDVykykBXF
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/625076.ts
 -http://fl7.moveonjoy.com/FOX_SOUL/index.m3u8
@@ -2292,41 +2305,42 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/21895.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21895.ts
 -https://fl41.moveonjoy.com/BET/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (West)" tvg-logo="https://i.imgur.com/L2LZpsj.png",BET (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/48972.ts
+-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (West)" tvg-logo="https://i.imgur.com/L2LZpsj.png",BET (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/48972.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/48973.ts
 
-#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET Gospel" tvg-logo="https://i.imgur.com/jbOkq8C.png",BET Gospel
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/42491.ts
+-#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET Gospel" tvg-logo="https://i.imgur.com/jbOkq8C.png",BET Gospel
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/42491.ts
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/251080
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42491.ts
 -http://fl51.moveonjoy.com/BET_GOSPEL/index.m3u8
 -http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bet-jams-us.png" group-title="Music",BET Jams
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3947.ts
+-#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bet-jams-us.png" group-title="Music",BET Jams
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3947.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/40760 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3947.ts
 -https://fl7.moveonjoy.com/BET_Jams/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" tvg-logo="https://i.imgur.com/VeuTWUb.png",BET Soul
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3948.ts
+-#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" tvg-logo="https://i.imgur.com/VeuTWUb.png",BET Soul
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3948.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/40761 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3948.ts
 -http://fl7.moveonjoy.com/BET_SOUL/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (East)" tvg-logo="https://i.imgur.com/oafsrlo.png",BET Her (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3946.ts
+-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (East)" tvg-logo="https://i.imgur.com/oafsrlo.png",BET Her (East)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3946.ts
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/129833
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3946.ts
 -http://fl2.moveonjoy.com/BET_HER/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (West)" tvg-logo="https://i.imgur.com/oafsrlo.png",BET Her (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631835.ts
+-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (West)" tvg-logo="https://i.imgur.com/oafsrlo.png",BET Her (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631835.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631835.ts
 
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bounce-us.png" group-title="Entertainment",Bounce
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/21896.ts
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/21896.ts
 -http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 -http://104.12.67.120:9981/stream/channelid/1087354095?ticket=FE804EF0572652D2EEC5F4241A0AB7A15094A321&profile=pass
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/21896.ts
@@ -2350,8 +2364,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3682.ts
 -http://89.105.221.127/TVland/mpegts?token=test
 -http://1tv41.icu:8080/live/Y06DNq/295733/46696.m3u8
 
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="Classic",TV Land (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/143866.ts
+-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="Classic",TV Land (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/143866.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/143866.ts
 -http://fl12.moveonjoy.com/TV_LAND/index.m3u8
 -http://fl2.moveonjoy.com/TV_LAND/index.m3u8
@@ -2434,7 +2448,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3837.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3837.ts
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime + Investigation" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1448.png",Crime + Investigation
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/20211.ts
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/20211.ts
 -http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10385
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/20211.ts
@@ -2530,8 +2545,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3709.ts
 -https://streamer1.nexgen.bz/BRAVO/tracks-v1a1/mono.ts.m3u8
 -http://mag.jee-ott.xyz/play/live.php?mac=00:1A:79:8F:BF:34&stream=1951962&extension=ts&play_token=c9nHNGQTrN
 
-#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3823.ts
+-#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3823.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3823.ts
 
 #EXTINF:-1 tvg-id="plex.tv.Bravo.Vault.plex" tvg-name="Bravo Vault" tvg-logo="https://drive.google.com/uc?id=1FklU0KpWLysb0u2imn23oqMSwWY_W9yz" group-title="Entertainment",Bravo Vault
@@ -2646,7 +2661,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3188.ts
 -http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3188.ts
 
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-movies-us.png" group-title="Movies",HBO Movies
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648982.ts
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648982.ts
 -Also known as HBO Zone
 -http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/51552.ts - 720p
@@ -2734,8 +2750,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648980.ts
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/631875.ts
 
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz (East)" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz (East)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3680.ts
--http://23.237.104.106:8080/USA_STARZ/index.m3u8
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3680.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3964.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3680.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3964.ts
@@ -3007,8 +3023,8 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 -http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 -http://89.105.221.127/cinemax/mpegts?token=test
 
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies",Cinemax (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2611.ts
+-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies",Cinemax (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2611.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3825.ts
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45594&extension=ts&play_token=FpM6wpIjy7
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2611.ts
@@ -3020,7 +3036,8 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/553422.ts
 -http://46.151.196.243:80/play/Y5v1n1Qxf3Kd-l9oc4PGlE9UAZQIvNaytOyDpObyKEiPeIKIQo4LiRu76NCKYo8x
 
 #EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Movies",Cinemax Classics
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/694516.ts
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/694516.ts
 -Also known as 5 StarMAX
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13990
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/694516.ts
@@ -3051,13 +3068,13 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13569
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45599&extension=ts&play_token=kFU0KNk7fw
 
-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies",Cinemax Hits (West)
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/81382.ts8
+-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits (West)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies",Cinemax Hits (West)
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/81382.ts8
 -Also known as MoreMax
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/81382.ts
 
--#EXTINF:-1 tvg-id="Thriller.Max.us2" tvg-name="Cinemax ThrillerMax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-thrillermax-us.png" group-title="Movies",Cinemax ThrillerMax
--http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
+#EXTINF:-1 tvg-id="Thriller.Max.us2" tvg-name="Cinemax ThrillerMax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-thrillermax-us.png" group-title="Movies",Cinemax ThrillerMax
+http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
 -http://energyxxi.livrexs.xyz:80/Ahteam587/wPebnZx4SSA6/13571
 -http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=45595&extension=ts&play_token=hgAno6VEiQ
 
