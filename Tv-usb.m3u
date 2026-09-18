@@ -210,7 +210,7 @@ http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaZzU0CVBvFZwP7qMNIRd6so
 -http://212.102.60.10/IL_Chicago_FOX/index.m3u8
 -http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 31 (New York)" tvg-logo="" group-title="News",FOX 31 (New York)
+#EXTINF:-1 tvg-id="WUHF-DT.us_locals1" tvg-name="FOX 31 (New York)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-wuhf-us.png" group-title="News",FOX 31 (New York)
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaQYLGTlmBRvRuN9lp0ElocQ
 
 #EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-name="FOX 13 (California)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/mytv/my-13-kcop-us.png" group-title="News",FOX 13 (California)
