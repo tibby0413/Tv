@@ -420,6 +420,7 @@ https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-channel-us.png" group-title="Cartoons",Disney Channel
 http://212.5.144.156/disney/index.m3u8
+-http://5.44.253.186:43254/live/1826465239420/4192874740371/85691020.m3u8
 -http://bgdc.live:25461/biosysinc/90941859/622
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3721.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3630.ts
@@ -447,6 +448,7 @@ http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="Cartoons",Disney XD (East)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+-http://5.44.253.186:43254/live/1826465239420/4192874740371/85691025.m3u8
 -http://bgdc.live:25461/biosysinc/90941859/624
 -http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 -http://hardcoremedia.xyz:80/ymgiaxkw/5Hr5ZQuVfU/137681
@@ -1452,6 +1454,7 @@ https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central (East)
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+-http://5.44.253.186:43254/live/1826465239420/4192874740371/85690896.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/648957.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10379
 -http://fl61.moveonjoy.com/Comedy_Central/index.m3u8
@@ -1850,7 +1853,8 @@ https://amg00793-bbcstudios-amg00793c5-cw-us-5849.playouts.now.amagi.tv/playlist
 https://s5host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/bbb/pwrsp/pwrsp.m3u8?ads.cdnhost=s5host2.localnow.api.cms.amdvids.com&ads.playbackid=662F6B8A-1762-479D-A542-4A6D78574774&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=662F6B8A-1762-479D-A542-4A6D78574774&ads.n4=content_name&ads.v4=PowerSports%20World&ads.n21=app_version&ads.v21=0.0.0&ads.n22=channel_genre&ads.v22=Sports&ads.n23=channel_name&ads.v23=PowerSports%20World&ads.n24=us_privacy&ads.v24=1YNY&ads.n25=pos&ads.v25=midroll&ads.n26=channel_corp&ads.v26=Triple-B%20Media%20LLC&ads.n27=content_livestream&ads.v27=1&ads.n28=content_provider&ads.v28=motoamerica-tv&ads.n29=channel_brand_id&ads.v29=AMDB012218&ads.n30=content_type&ads.v30=channel&ads.n31=did&ads.v31=&ads.n32=gpp_sid&ads.v32=&ads.n33=channel_ext_id&ads.v33=61310bdd76163613787b2d12&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=app_name&ads.v35=&ads.n36=channel_language&ads.v36=en&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=gpp&ads.v38=&ads.n39=network_name&ads.v39=motoamerica-tv&ads.n40=w&ads.v40=1920&ads.n41=ifa_type&ads.v41=&ads.n42=channel_company_id&ads.v42=AMDP500174&ads.n43=content_custom_1_param&ads.v43=662F6B8A-1762-479D-A542-4A6D78574774&ads.n44=channel_title&ads.v44=PowerSports%20World&ads.n45=channel_rating&ads.v45=TV-PG&ads.n46=h&ads.v46=1080&ads.n47=device_type&ads.v47=&ads.n48=content_custom_2_param&ads.v48=AMDB012218&ads.n49=channel_id&ads.v49=662F6B8A-1762-479D-A542-4A6D78574774&ads.n50=device_model&ads.v50=&ads.n51=dnt&ads.v51=&ads.n52=content_producer_name&ads.v52=Triple-B%20Media%20LLC&ads.n53=app_bundle&ads.v53=&ads.n54=ua&ads.v54=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n55=ip&ads.v55=86.48.9.131&ads.n56=app_store_url&ads.v56=&ads.n57=cust_devicename&ads.v57=desktop_web&ads.n58=device_make&ads.v58=
 
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cozi-tv-us.png",Cozi TV
-http://104.129.12.146:18080/stream/cozi-tv.ts
+http://5.44.253.186:43254/live/1826465239420/4192874740371/85690900.m3u8
+-http://104.129.12.146:18080/stream/cozi-tv.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10383
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2604.ts
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2604.ts
@@ -2443,7 +2447,8 @@ http://138.59.227.20:8000/play/a08f/index.m3u8
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/
 -http://fl41.moveonjoy.com/Discovery_Science/index.m3u8
 
--#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png" group-title=" ",Discovery Science
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png" group-title=" ",Discovery Science
+http://5.44.253.186:43254/live/1826465239420/4192874740371/85690859.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3757.ts?1080p
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3274.ts
 -http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
@@ -2524,7 +2529,8 @@ https://amg00512-amg00512c6-cw-us-2475.playouts.now.amagi.tv/playlist/amg00512-f
 #EXTINF:-1 tvg-id="plex.tv.Dateline.plex" tvg-name="Dateline" tvg-logo="https://drive.google.com/uc?id=1Eh7uAOxkBsrckV6WT8HzhiMlY7wU2DnO" group-title="Documentary",Dateline
 https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
 
--#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network (East)
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3694.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10456 
 -https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3694.ts
@@ -3075,6 +3081,7 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Movies",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+-http://5.44.253.186:43254/live/1826465239420/4192874740371/85691038.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/694516.ts
 -Also known as 5 StarMAX
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13990
@@ -3085,7 +3092,8 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 -http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 -https://drive.google.com/uc?id=1yBzsSld61vtAwnMNof3Z1NXTk1asyK4K
 
--#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-action-us.png" group-title="Movies",Cinemax Action (East)
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-action-us.png" group-title="Movies",Cinemax Action (East)
+http://5.44.253.186:43254/live/1826465239420/4192874740371/85691039.m3u8
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/51557.ts
 -Also known as Actionmax 
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13992
@@ -3099,6 +3107,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits (East)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies",Cinemax Hits (East)
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+-http://5.44.253.186:43254/live/1826465239420/4192874740371/85691041.m3u8
 -Also known as MoreMax
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/51553.ts
 -http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/13988
