@@ -1415,7 +1415,10 @@ ENTERTAINMENT
 #EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="PBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="Entertainment",PBS
 https://wttwdt.lls.pbs.org/out/v1/bab398469bfc4defb18cc596c47e42ca/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner.Channel.br" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/warner-channel-br.png" group-title="General",Warner Channel
+#EXTINF:-1 tvg-id="Warner.Channel.br" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/warner-channel-br.png" group-title="General",Warner Channel (East)
+http://168.228.44.241:9999/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner.Channel.br" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/warner-channel-br.png" group-title="General",Warner Channel (West)
 http://138.59.227.20:8000/play/a09d/index.m3u8
 
 -#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="CW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png" group-title="General",CW
